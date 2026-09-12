@@ -1,0 +1,3548 @@
+[
+  {
+    "class": "sheet",
+    "extensions": [
+      {
+        "content": {
+          "centralTopic": "org.xmind.ui.map.clockwise"
+        },
+        "provider": "org.xmind.ui.skeleton.structure.style"
+      }
+    ],
+    "id": "a34d7a6d-c43e-4e19-ac74-b42e8dadaa63",
+    "rootTopic": {
+      "attributedTitle": [
+        {
+          "text": "AWS"
+        }
+      ],
+      "children": {
+        "attached": [
+          {
+            "attributedTitle": [
+              {
+                "text": "Amazon Leadership Principles"
+              }
+            ],
+            "branch": "folded",
+            "children": {
+              "attached": [
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Customer Obsession"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers."
+                          }
+                        ],
+                        "id": "0e1d5a01-1f7a-409f-98c9-4a56b911fadb",
+                        "title": "Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers."
+                      }
+                    ]
+                  },
+                  "id": "71ab6367-4843-42c2-b35c-ede4f3021ce1",
+                  "image": {
+                    "src": "xap:resources/c2929e54b335e2a777a67b53b57188a90cd7eb8472bbe3b4678d3ac68aba1b6a.svg"
+                  },
+                  "title": "Customer Obsession"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Ownership"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders act on behalf of the entire company, beyond just their own team. They never say “that’s not my job.” They think long term and don’t sacrifice long-term value for short-term results."
+                          }
+                        ],
+                        "id": "9998b49c-963e-4cc7-bfd7-129d494f58e4",
+                        "title": "Leaders act on behalf of the entire company, beyond just their own team. They never say “that’s not my job.” They think long term and don’t sacrifice long-term value for short-term results."
+                      }
+                    ]
+                  },
+                  "id": "5c8e64db-8ac9-4d4b-abfe-b10369b3d476",
+                  "image": {
+                    "src": "xap:resources/476814b1b5b96d5095c96cea97cf1d042372bb6c4fd6cfe9d426e64898fcf7cf.svg"
+                  },
+                  "title": "Ownership"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Invent and Simplify"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here.” As we do new things, we accept that we may be misunderstood for long periods of time."
+                          }
+                        ],
+                        "id": "db63e01f-27b2-4e64-80f6-998550f832ad",
+                        "title": "Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here.” As we do new things, we accept that we may be misunderstood for long periods of time."
+                      }
+                    ]
+                  },
+                  "id": "ca9b699b-acc3-462a-8ef6-d82eb46f7507",
+                  "image": {
+                    "src": "xap:resources/16acd5d71bf502c0a2525651aa01c4fb31e247294e24f2b7307a3cfdcdfa7a44.svg"
+                  },
+                  "title": "Invent and Simplify"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Are Right, A Lot"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs."
+                          }
+                        ],
+                        "id": "b29e954b-86fb-44ec-9ed9-a75f2aff2f46",
+                        "title": "Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs."
+                      }
+                    ]
+                  },
+                  "id": "050a5549-f916-451f-ba51-ddf4d200d55d",
+                  "image": {
+                    "src": "xap:resources/5c137325fcd29b62e0ea7efb1fa867e46ce4ee92f2be4ffb2b55e19d9c7cd33b.svg"
+                  },
+                  "title": "Are Right, A Lot"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Learn and Be Curious"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them."
+                          }
+                        ],
+                        "id": "95f4d1e7-f918-4cba-a6b5-e16ec7e0734e",
+                        "title": "Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them."
+                      }
+                    ]
+                  },
+                  "id": "9947b315-13cf-40af-b560-cbc9811153b6",
+                  "image": {
+                    "src": "xap:resources/4fa4513af2f987bc218d062f5e3f5ffd55b9a0872e409b070b6b2f9d1d3c668b.svg"
+                  },
+                  "title": "Learn and Be Curious"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Hire and Develop the Best"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others."
+                          }
+                        ],
+                        "id": "54fa320b-8a37-4047-9a50-644315f99613",
+                        "title": "Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent and willingly move them throughout the organization. Leaders develop leaders and take seriously their role in coaching others."
+                      }
+                    ]
+                  },
+                  "id": "85ef49e8-4e8a-4eaa-9eff-100e11419d25",
+                  "image": {
+                    "src": "xap:resources/782644aeb18044e25c464d6c4dfc40372b1ba31cf2786a165a1b5fa573cc19a6.svg"
+                  },
+                  "title": "Hire and Develop the Best"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Insist on the Highest Standards"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders continually raise the bar and drive their teams to deliver high-quality products, services, and processes. They ensure that defects do not get sent down the line and that problems are fixed so they stay fixed."
+                          }
+                        ],
+                        "id": "3ea9aa2e-c661-446f-9daf-290aaba1ff9e",
+                        "title": "Leaders continually raise the bar and drive their teams to deliver high-quality products, services, and processes. They ensure that defects do not get sent down the line and that problems are fixed so they stay fixed."
+                      }
+                    ]
+                  },
+                  "id": "11af007f-6162-42ef-b0a8-32f402b9ffd9",
+                  "image": {
+                    "src": "xap:resources/6b3a6110f9847dcef3f9e2663fcf9f1ff8e2382092b79719ac8262d9deb20ace.svg"
+                  },
+                  "title": "Insist on the Highest Standards"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Think Big"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers."
+                          }
+                        ],
+                        "id": "0a2aa494-557e-4fc2-9257-2e3428fad5d8",
+                        "title": "Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers."
+                      }
+                    ]
+                  },
+                  "id": "014dd20c-f81b-484c-9608-2a786f7eb9ef",
+                  "image": {
+                    "src": "xap:resources/410f868a0a8f95a57f6d946c2c5e4a55fc4dad339d88eeb80b24fd5e5cdb23b0.svg"
+                  },
+                  "title": "Think Big"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Bias for Action"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Speed matters in business. Many decisions and actions are reversible and do not need extensive study. Leaders value calculated risk-taking."
+                          }
+                        ],
+                        "id": "63e6fec2-7ec8-4aca-b90b-84ea788f6613",
+                        "title": "Speed matters in business. Many decisions and actions are reversible and do not need extensive study. Leaders value calculated risk-taking."
+                      }
+                    ]
+                  },
+                  "id": "fb8084c4-275e-4d41-8cdc-9901c8649395",
+                  "image": {
+                    "src": "xap:resources/d1185d532b364636d8fca055250bfb6e228ce870b452181558391f5c7d5d73a7.svg"
+                  },
+                  "title": "Bias for Action"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Frugality"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense."
+                          }
+                        ],
+                        "id": "e9650fb4-265e-4187-a9b5-06115be1c9e2",
+                        "title": "Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense."
+                      }
+                    ]
+                  },
+                  "id": "4a043aa2-6c60-4acb-b3e4-b680575814ee",
+                  "image": {
+                    "src": "xap:resources/c5a3be346ac0ed288d922c5cbdbcb9c76338656603af07d27f2ca2485c7a17d3.svg"
+                  },
+                  "title": "Frugality"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Earn Trust"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best."
+                          }
+                        ],
+                        "id": "da2f8993-420c-4a47-a15b-374987ad5fa3",
+                        "title": "Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body odor smells of perfume. They benchmark themselves and their teams against the best."
+                      }
+                    ]
+                  },
+                  "id": "5af76c74-eec1-4887-8c8a-a1b520cfa058",
+                  "image": {
+                    "src": "xap:resources/12567a48de67cde1e62e7211f9746766beb923aa39cb6d0db3a4df71e55d75e5.svg"
+                  },
+                  "title": "Earn Trust"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Dive Deep"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them."
+                          }
+                        ],
+                        "id": "a1a01d8f-de8c-4fb2-990a-2d1b8f8fe8dd",
+                        "title": "Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them."
+                      }
+                    ]
+                  },
+                  "id": "60bfae66-791c-436f-81bd-1dd43497f10e",
+                  "image": {
+                    "src": "xap:resources/5f878f1e47922e9451f981e22f7fb3a820b4de8e181bd1f3cd78d2be7475a614.svg"
+                  },
+                  "title": "Dive Deep"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Have Backbone; Disagree and Commit"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly."
+                          }
+                        ],
+                        "id": "30e97c5c-e8c5-4456-a89c-10963a7bd656",
+                        "title": "Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly."
+                      }
+                    ]
+                  },
+                  "id": "74976e95-9d2d-4283-9949-5e47dbac0b25",
+                  "image": {
+                    "src": "xap:resources/66e3dc7a4b75ced0fcd45a88a209c85e3cf05341bda902c9a6b2189918826618.svg"
+                  },
+                  "title": "Have Backbone; Disagree and Commit"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Deliver Results"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle."
+                          }
+                        ],
+                        "id": "040f7325-4a1a-4155-96c2-afd3c089fb13",
+                        "title": "Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle."
+                      }
+                    ]
+                  },
+                  "id": "8790ea98-9be9-4a69-9752-67fd8f915b74",
+                  "image": {
+                    "src": "xap:resources/2607a06ff2cd7fd8afe4a700e898b78387e7acbc551434c30d7db679722ff5fe.svg"
+                  },
+                  "title": "Deliver Results"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Strive to be Earth’s Best Employer"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Leaders work every day to create a safer, more productive, higher-performing, more diverse, and more just work environment. They lead with empathy, have fun at work, and make it easy for others to have fun. Leaders ask themselves: Are my fellow employees growing? Are they empowered? Are they ready for what’s next? Leaders have a vision for and commitment to their employees’ personal success, whether that be at Amazon or elsewhere."
+                          }
+                        ],
+                        "id": "4f1ae8ac-212a-4ae8-84d2-633857db60a5",
+                        "title": "Leaders work every day to create a safer, more productive, higher-performing, more diverse, and more just work environment. They lead with empathy, have fun at work, and make it easy for others to have fun. Leaders ask themselves: Are my fellow employees growing? Are they empowered? Are they ready for what’s next? Leaders have a vision for and commitment to their employees’ personal success, whether that be at Amazon or elsewhere."
+                      }
+                    ]
+                  },
+                  "id": "da637e7f-dfd7-4e4c-a6c6-f044bfa16cb9",
+                  "image": {
+                    "src": "xap:resources/79c67396d25da3443b576abe6119e1ed3133b8761b887b3d2eaf418b394a77c3.svg"
+                  },
+                  "title": "Strive to be Earth’s Best Employer"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Success and Scale Bring Broad Responsibility"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "We started in a garage, but we’re not there anymore. We are big, we impact the world, and we are far from perfect. We must be humble and thoughtful about even the secondary effects of our actions. Our local communities, planet, and future generations need us to be better every day. Leaders create more than they consume and always leave things better than how they found them."
+                          }
+                        ],
+                        "id": "46d1675d-cb01-4a74-a52d-a7fded038ff7",
+                        "title": "We started in a garage, but we’re not there anymore. We are big, we impact the world, and we are far from perfect. We must be humble and thoughtful about even the secondary effects of our actions. Our local communities, planet, and future generations need us to be better every day. Leaders create more than they consume and always leave things better than how they found them."
+                      }
+                    ]
+                  },
+                  "id": "3d08c460-6872-4122-aef4-cc6eeb33f878",
+                  "image": {
+                    "src": "xap:resources/c66faab72caf7d5efdf58774433bd060f0667dda1a1bced21b727435c5c687c3.svg"
+                  },
+                  "title": "Success and Scale Bring Broad Responsibility"
+                }
+              ]
+            },
+            "id": "4b645861-be64-472d-8731-0f16695ed994",
+            "title": "Amazon Leadership Principles"
+          },
+          {
+            "attributedTitle": [
+              {
+                "text": "Introduction"
+              }
+            ],
+            "children": {
+              "attached": [
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "I started my career in IT in 2011 and have gained extensive experience across various roles. "
+                    }
+                  ],
+                  "id": "8c58196f-467d-4861-afab-fb08d119cd57",
+                  "title": "I started my career in IT in 2011 and have gained extensive experience across various roles. "
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "I’ve worked as a project and product manager, led a department, and even co-founded two startups as a technical co-founder. "
+                    }
+                  ],
+                  "id": "544775c3-4b27-461b-8d59-abb6f35bde36",
+                  "title": "I’ve worked as a project and product manager, led a department, and even co-founded two startups as a technical co-founder. "
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "In recent years, I transitioned to a more technical path"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "I’m working as a software engineer"
+                          }
+                        ],
+                        "id": "558a63d3-4488-4086-93ae-dd78f9456a9c",
+                        "title": "I’m working as a software engineer"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Focus on automating scientific job processes using AWS serverless solutions for a global pharmaceutical company."
+                          }
+                        ],
+                        "id": "efdcaaa9-00dc-42ec-bc5c-ec944fe64c71",
+                        "title": "Focus on automating scientific job processes using AWS serverless solutions for a global pharmaceutical company."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "This role has allowed me to leverage my leadership background while deepening my technical expertise."
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "focusing on designing and implementing scalable, efficient solutions using AWS serverless technologies. "
+                                }
+                              ],
+                              "id": "96b134dc-bfc5-4fb3-b372-4b5055cca311",
+                              "title": "focusing on designing and implementing scalable, efficient solutions using AWS serverless technologies. "
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "My recent work involves automating complex scientific workflows, which has allowed me to leverage services like AWS Lambda, S3, and DynamoDB to create robust systems that handle large volumes of data with ease. "
+                                }
+                              ],
+                              "id": "bd0d0952-b709-4290-9a07-a483f632a79a",
+                              "title": "My recent work involves automating complex scientific workflows, which has allowed me to leverage services like AWS Lambda, S3, and DynamoDB to create robust systems that handle large volumes of data with ease. "
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I enjoy diving deep into challenges, continuously learning new technologies, and optimizing processes to deliver impactful results."
+                                }
+                              ],
+                              "id": "3ef50cc4-57df-4e76-90ee-4c7dd96a3701",
+                              "title": "I enjoy diving deep into challenges, continuously learning new technologies, and optimizing processes to deliver impactful results."
+                            }
+                          ]
+                        },
+                        "id": "f7e4549d-c941-4c8b-bb38-c9ee7e445533",
+                        "title": "This role has allowed me to leverage my leadership background while deepening my technical expertise."
+                      }
+                    ]
+                  },
+                  "id": "c77cf156-e73e-4b07-b3a0-46c463f7418e",
+                  "title": "In recent years, I transitioned to a more technical path"
+                }
+              ]
+            },
+            "id": "45a1a912-fefd-4351-beb8-05a4ce646171",
+            "title": "Introduction"
+          },
+          {
+            "attributedTitle": [
+              {
+                "text": "Cases"
+              }
+            ],
+            "children": {
+              "attached": [
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Problem-Solving"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Middelware"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I implemented a middleware solution that sends notifications about any unexpected exceptions or critical errors directly to email via AWS SNS"
+                                }
+                              ],
+                              "id": "ff337f0d-e35d-4af5-8818-652672cd2efc",
+                              "title": "I implemented a middleware solution that sends notifications about any unexpected exceptions or critical errors directly to email via AWS SNS"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "This proactive approach allows me to monitor the production environment closely."
+                                }
+                              ],
+                              "id": "ead52769-0d92-4fb3-8682-38bb4e57ea3b",
+                              "title": "This proactive approach allows me to monitor the production environment closely."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Whenever I receive a notification, I immediately investigate the issue, identify the root cause, and deploy a fix before users even become aware of the problem."
+                                }
+                              ],
+                              "id": "793b2e95-31dd-4475-bfd3-c1a17ffcbc48",
+                              "title": "Whenever I receive a notification, I immediately investigate the issue, identify the root cause, and deploy a fix before users even become aware of the problem."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "This process has significantly reduced the number of user complaints and has improved the overall reliability of the system."
+                                }
+                              ],
+                              "id": "565d65c3-e7ca-414f-8068-5daef8faf09f",
+                              "title": "This process has significantly reduced the number of user complaints and has improved the overall reliability of the system."
+                            }
+                          ]
+                        },
+                        "id": "11b03d8d-ba3d-42c5-ae24-8464fd0e647f",
+                        "title": "Middelware"
+                      }
+                    ]
+                  },
+                  "id": "94ae62d3-3f67-480c-b7f1-f699908a0d06",
+                  "title": "Problem-Solving"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Legacy"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Deployment"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "When I started working on my current project, it had been running for three years without any deployment process."
+                                }
+                              ],
+                              "id": "35ecb848-ab81-4a43-ae7d-c6338e3e50c3",
+                              "title": "When I started working on my current project, it had been running for three years without any deployment process."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I implemented a deployment script using boto3, which included a general configuration to archive functions and layers and deploy them to the staging environment via a custom CLI."
+                                }
+                              ],
+                              "id": "2786d7fa-9e62-41a5-87dc-0f5f8f7e03a9",
+                              "title": "I implemented a deployment script using boto3, which included a general configuration to archive functions and layers and deploy them to the staging environment via a custom CLI."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "This solution allowed us to work more effectively with legacy code, significantly reducing time to market and minimizing errors during updates."
+                                }
+                              ],
+                              "id": "e73d66c4-176a-47f5-88cf-4cd619660c27",
+                              "title": "This solution allowed us to work more effectively with legacy code, significantly reducing time to market and minimizing errors during updates."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Currently, we are preparing to implement a CI/CD workflow, and I’m developing a strategy to transition the legacy code to this new system."
+                                }
+                              ],
+                              "id": "12aa1bf6-94bb-417a-839a-38e282ca5065",
+                              "title": "Currently, we are preparing to implement a CI/CD workflow, and I’m developing a strategy to transition the legacy code to this new system."
+                            }
+                          ]
+                        },
+                        "id": "10879c58-8bae-4c45-85d1-5793e200e130",
+                        "title": "Deployment"
+                      }
+                    ]
+                  },
+                  "id": "e0bb4970-0bc9-4fcc-bab3-d19980349913",
+                  "title": "Legacy"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Mistakes"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "At one point, my manager asked me to create a script that would add container information into a specific database."
+                          }
+                        ],
+                        "id": "564db18f-9888-4a6b-8433-3c060412efc5",
+                        "title": "At one point, my manager asked me to create a script that would add container information into a specific database."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "The task involved integrating with another system where container data was exported to an S3 bucket."
+                          }
+                        ],
+                        "id": "78ad9ed5-9b34-4c52-9de4-868dac1d0a0f",
+                        "title": "The task involved integrating with another system where container data was exported to an S3 bucket."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "I set up a trigger for a Lambda function to parse the new files, verify the information, and insert it into the database. "
+                          }
+                        ],
+                        "id": "928552b1-ddc2-4587-85d2-fc10e7b0217d",
+                        "title": "I set up a trigger for a Lambda function to parse the new files, verify the information, and insert it into the database. "
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "I implemented the processing logic, database transactions, and error notifications."
+                          }
+                        ],
+                        "id": "ae616e6e-250a-457d-a69e-ec40277c1f0e",
+                        "title": "I implemented the processing logic, database transactions, and error notifications."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "However, over time, I realized that directly inserting data into another service’s database was not the best approach."
+                          }
+                        ],
+                        "id": "3b2b07d5-255c-4740-a4cb-4e57cff85916",
+                        "title": "However, over time, I realized that directly inserting data into another service’s database was not the best approach."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "I proposed to my manager that we switch to using the service’s API instead, as it’s better to keep the business logic centralized within the service."
+                          }
+                        ],
+                        "id": "72b8c0cd-ed3c-4ba6-95d3-a4c17fd179b1",
+                        "title": "I proposed to my manager that we switch to using the service’s API instead, as it’s better to keep the business logic centralized within the service."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "I acknowledged that it was a mistake not to recognize this issue earlier in the process, but the change improved the maintainability and reliability of the system"
+                          }
+                        ],
+                        "id": "32fb8c47-cb6e-4960-a9a5-96fbd62b9dd9",
+                        "title": "I acknowledged that it was a mistake not to recognize this issue earlier in the process, but the change improved the maintainability and reliability of the system"
+                      }
+                    ]
+                  },
+                  "id": "f51731c3-4993-4116-87d7-b7ed95584865",
+                  "title": "Mistakes"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "BSI"
+                    }
+                  ],
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "id": "b48fa4ab-c7d0-4856-bfc3-d0499ca7d7d4",
+                        "image": {
+                          "height": 896.1267273424279,
+                          "src": "xap:resources/5f480c4126f9be2e7f45d5b0e5ad9d1320903f1ac9f269d2e92f55660d0856b6.png",
+                          "width": 1218.89734375
+                        }
+                      }
+                    ]
+                  },
+                  "id": "f9379693-3dcd-406a-8f2c-4e2cc498c7d3",
+                  "title": "BSI"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "export"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "id": "a2025b41-7bf8-40d2-b7bf-fcb238bfdd35",
+                        "image": {
+                          "height": 440.95143111638953,
+                          "src": "xap:resources/ad10ae6f7e8941da56da1923993896699be253a207e35f8915895ade2600cfea.png",
+                          "width": 670.1824999999999
+                        }
+                      }
+                    ]
+                  },
+                  "id": "14c51937-6be3-4038-af3d-b212880813bb",
+                  "title": "export"
+                }
+              ]
+            },
+            "id": "be6507b3-a023-4196-b7da-b811a5bac2bf",
+            "title": "Cases"
+          },
+          {
+            "attributedTitle": [
+              {
+                "text": "Cansay"
+              }
+            ],
+            "branch": "folded",
+            "children": {
+              "attached": [
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Task"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "to migrate the existing project to AWS services"
+                          }
+                        ],
+                        "id": "55fa2e63-726f-46a3-a7c5-a3c59ec5c9fd",
+                        "title": "to migrate the existing project to AWS services"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "ensure the architecture was scalable"
+                          }
+                        ],
+                        "id": "a515da5a-3581-46c8-bc5a-67d891093db2",
+                        "title": "ensure the architecture was scalable"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "optimize the current system within strict budget constraints"
+                          }
+                        ],
+                        "id": "066c025e-8a57-43ad-a0ad-cb1235ae7094",
+                        "title": "optimize the current system within strict budget constraints"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "without any documentation or support from colleagues"
+                          }
+                        ],
+                        "id": "8ca09e57-2526-4fb0-be16-ff633e5eec65",
+                        "title": "without any documentation or support from colleagues"
+                      }
+                    ]
+                  },
+                  "id": "3a1821c6-0623-4d0d-9f7f-208d3c6effe2",
+                  "image": {
+                    "src": "xap:resources/6c4fe56620adc00d28e80102cff80a4278768e74dd11dcc8b5b77ddac4a43f8e.svg"
+                  },
+                  "title": "Task"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Action"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Assessment and Planning"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Components"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "PostgreSQL database"
+                                      }
+                                    ],
+                                    "id": "1364ffb3-a1cc-4988-9a7f-a9154abc596f",
+                                    "title": "PostgreSQL database"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Django-based platform with internal file storage"
+                                      }
+                                    ],
+                                    "id": "0257c501-338e-47bb-adbe-ffa546c6c092",
+                                    "title": "Django-based platform with internal file storage"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Redis for caching"
+                                      }
+                                    ],
+                                    "id": "bec22e3f-bf37-4705-9037-ab40c9e36df8",
+                                    "title": "Redis for caching"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Celery for asynchronous tasks"
+                                      }
+                                    ],
+                                    "id": "63f7e92d-6461-478f-b633-0760828fcaac",
+                                    "title": "Celery for asynchronous tasks"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Redis queue broker"
+                                      }
+                                    ],
+                                    "id": "32959a18-f8b6-49e8-98d8-34f835c43948",
+                                    "title": "Redis queue broker"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "speech processing service using TensorFlow"
+                                      }
+                                    ],
+                                    "id": "18a94744-a9f9-4a67-b118-3996321e452e",
+                                    "title": "speech processing service using TensorFlow"
+                                  }
+                                ]
+                              },
+                              "id": "da8eaa23-3a6c-40cd-9c21-d426fa40ed59",
+                              "title": "Components"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Plan"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "basic architecture using ECS"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Docker containers provided flexibility for horizontal scaling"
+                                            }
+                                          ],
+                                          "id": "d15b7c2e-1d13-434f-a16a-a3efb4f48367",
+                                          "title": "Docker containers provided flexibility for horizontal scaling"
+                                        }
+                                      ]
+                                    },
+                                    "id": "57320438-a764-4bff-8fd7-00b5727bdfe0",
+                                    "title": "basic architecture using ECS"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "RDS instance"
+                                      }
+                                    ],
+                                    "id": "c9afdfe1-ab72-467c-9c6a-04a0df2fb612",
+                                    "title": "RDS instance"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Load Balancer"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Autoscaling group"
+                                            }
+                                          ],
+                                          "id": "9c70a5fc-a447-4b83-bf04-adb0ecc6e157",
+                                          "title": "Autoscaling group"
+                                        }
+                                      ]
+                                    },
+                                    "id": "51c8d960-d00c-48af-8b9f-83f65ac762b9",
+                                    "title": "Load Balancer"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "I calculated the projected budget using the AWS calculator"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "no more than $150 per month"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "with an initial estimate being 30% below this threshold"
+                                                  }
+                                                ],
+                                                "id": "e6df06bb-6434-4a38-a867-36dad9b461c1",
+                                                "title": "with an initial estimate being 30% below this threshold"
+                                              }
+                                            ]
+                                          },
+                                          "id": "d9868b3c-8ae1-47d5-bb41-042a8c3303b3",
+                                          "title": "no more than $150 per month"
+                                        }
+                                      ]
+                                    },
+                                    "id": "4cbb9fd1-4ae4-4bde-933a-c338029b6883",
+                                    "title": "I calculated the projected budget using the AWS calculator"
+                                  }
+                                ]
+                              },
+                              "id": "efa2e401-cd2b-4dd2-a606-f05521e168c9",
+                              "title": "Plan"
+                            }
+                          ]
+                        },
+                        "id": "3f16a950-56f0-4f8f-ad50-86bbb4984676",
+                        "title": "Assessment and Planning"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Implementation"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "The main environment"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "minimal EC2 instance"
+                                      }
+                                    ],
+                                    "id": "a4118c05-a116-4879-bee5-32996b821c69",
+                                    "title": "minimal EC2 instance"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "configured a load balancer with an auto-scaling group."
+                                      }
+                                    ],
+                                    "id": "ae36914b-1ce5-48a5-a5aa-1ddd31f17d1b",
+                                    "title": "configured a load balancer with an auto-scaling group."
+                                  }
+                                ]
+                              },
+                              "id": "c54c7d90-291d-4007-b507-80dbbc6d9e27",
+                              "title": "The main environment"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "transitioned the file storage to S3"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "refactored the code to interface with S3 instead of direct file system access."
+                                      }
+                                    ],
+                                    "id": "494cbc0a-b366-4fd6-9c6a-ae0bcde74908",
+                                    "title": "refactored the code to interface with S3 instead of direct file system access."
+                                  }
+                                ]
+                              },
+                              "id": "ac838e60-83fa-4b6f-acf4-58c841f71f38",
+                              "title": "transitioned the file storage to S3"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "moved part of the file processing logic to a separate Lambda function"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "independent, asynchronous processing."
+                                      }
+                                    ],
+                                    "id": "89a5ab3a-8f11-4d22-9d0e-c9fe48a320bf",
+                                    "title": "independent, asynchronous processing."
+                                  }
+                                ]
+                              },
+                              "id": "81695292-7089-4560-911d-6c0338691cdd",
+                              "title": "moved part of the file processing logic to a separate Lambda function"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "replaced the Redis queue broker with SQS"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "for better monitoring and state management."
+                                      }
+                                    ],
+                                    "id": "291cc5b2-2416-4204-b186-d01b9e331375",
+                                    "title": "for better monitoring and state management."
+                                  }
+                                ]
+                              },
+                              "id": "c8bbe7a1-8311-4adb-ab6e-34b8ac599070",
+                              "title": "replaced the Redis queue broker with SQS"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "refactored the speech processing service"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "replacing TensorFlow with more efficient algorithms"
+                                      }
+                                    ],
+                                    "id": "09235153-d834-4714-9c94-8f529d438dfa",
+                                    "title": "replacing TensorFlow with more efficient algorithms"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "reducing memory usage from 3GB to 300MB"
+                                      }
+                                    ],
+                                    "id": "cfacbb8d-8b83-44d0-8d0c-88d95f014f98",
+                                    "title": "reducing memory usage from 3GB to 300MB"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "I kept it as a separate service in ECS, but with the same approach today, I would consider deploying it as a Lambda function."
+                                      }
+                                    ],
+                                    "id": "fa218e76-51d3-4c6d-a05b-270323d79ae0",
+                                    "title": "I kept it as a separate service in ECS, but with the same approach today, I would consider deploying it as a Lambda function."
+                                  }
+                                ]
+                              },
+                              "id": "cd263a58-aeeb-4c38-a138-da284af0b9f4",
+                              "title": "refactored the speech processing service"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Nginx for routing between resources"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Nowadays, I would likely use AWS services like Route 53 and the load balancer, as they offer more reliability and easier maintenance."
+                                      }
+                                    ],
+                                    "id": "32de0e67-793a-4566-80db-07008051d364",
+                                    "title": "Nowadays, I would likely use AWS services like Route 53 and the load balancer, as they offer more reliability and easier maintenance."
+                                  }
+                                ]
+                              },
+                              "id": "30093e26-f40a-4a8f-8130-6821c102a71c",
+                              "title": "Nginx for routing between resources"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "optimize new 3D models"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "using a script in Blender"
+                                      }
+                                    ],
+                                    "id": "20d07e0c-93f3-413b-9fea-515b399d04b2",
+                                    "title": "using a script in Blender"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "I was unfamiliar with 3D technologies."
+                                      }
+                                    ],
+                                    "id": "7fbeb488-1dc1-4f80-a05e-8e1649b7176d",
+                                    "title": "I was unfamiliar with 3D technologies."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "This script was documented,"
+                                      }
+                                    ],
+                                    "id": "d9476b38-2530-40b7-8a51-9f15620572b2",
+                                    "title": "This script was documented,"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "making it reusable and adaptable for future needs, which was crucial since 3D models were a key feature of the application."
+                                      }
+                                    ],
+                                    "id": "44034bdb-1f4b-4a49-bf10-f96a203ff9b6",
+                                    "title": "making it reusable and adaptable for future needs, which was crucial since 3D models were a key feature of the application."
+                                  }
+                                ]
+                              },
+                              "id": "13711f36-ea1b-4524-9ee9-3223b8552cc4",
+                              "title": "optimize new 3D models"
+                            }
+                          ]
+                        },
+                        "id": "cf43ce83-6402-4bc9-85bd-aaffbf8e9932",
+                        "title": "Implementation"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Security and Optimization"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I established roles to manage access between services within AWS and ensured that services not requiring external access were secured within the VPC. "
+                                }
+                              ],
+                              "id": "0820390f-0cfe-4abe-a6a8-9b87a04c1954",
+                              "title": "I established roles to manage access between services within AWS and ensured that services not requiring external access were secured within the VPC. "
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "My mistake at the time was placing the .env file with external resource credentials inside a closed, encrypted S3 bucket and using it in ECS. Today, I would utilize Secrets Manager instead."
+                                }
+                              ],
+                              "id": "eacf328c-df53-4ea7-bed4-f0e1692132de",
+                              "title": "My mistake at the time was placing the .env file with external resource credentials inside a closed, encrypted S3 bucket and using it in ECS. Today, I would utilize Secrets Manager instead."
+                            }
+                          ]
+                        },
+                        "id": "bfdafbe2-f3eb-4ffe-a75f-df09f9df8cff",
+                        "title": "Security and Optimization"
+                      }
+                    ]
+                  },
+                  "id": "4c148bf7-3574-440c-9419-7163ef49848d",
+                  "image": {
+                    "src": "xap:resources/e79946aa2387ff1e5279dce9ceda0feb04fb2c4c4ce5bf75a9ba2e68b8f4a32b.svg"
+                  },
+                  "title": "Action"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Result"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Within two months, the project was fully deployed within the specified budget, with horizontal scaling capability and a separate test environment."
+                          }
+                        ],
+                        "id": "1f4f5934-e88c-46e1-9078-0c9482df1a1b",
+                        "style": {
+                          "id": "6422366e-63a8-4879-929b-a153873e4e9e",
+                          "properties": {
+                            "fo:font-weight": "700"
+                          }
+                        },
+                        "title": "Within two months, the project was fully deployed within the specified budget, with horizontal scaling capability and a separate test environment."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": " I estimate that by retaining the monolithic architecture without horizontal scaling, we could have remained within the same budget, but future development and scaling would have been more challenging."
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Additionally, the costs would have grown more significantly with vertical scaling due to the inefficiency of unused resources."
+                                }
+                              ],
+                              "id": "999a35e5-2be3-43c6-a5a0-6c9fb8e913d3",
+                              "title": "Additionally, the costs would have grown more significantly with vertical scaling due to the inefficiency of unused resources."
+                            }
+                          ]
+                        },
+                        "id": "a00e40a2-40b2-4d23-875d-b94cd3d9bfd8",
+                        "title": " I estimate that by retaining the monolithic architecture without horizontal scaling, we could have remained within the same budget, but future development and scaling would have been more challenging."
+                      }
+                    ]
+                  },
+                  "id": "f1944d0a-88f4-4eca-a74d-3b09d6cd9bc1",
+                  "image": {
+                    "src": "xap:resources/d8988e6a1669ff76136d5516bdf1411579621c6f932d3fe5b9e7f9b3097f25aa.svg"
+                  },
+                  "title": "Result"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Questions"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "ECS over a full Kubernetes"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "The primary reason was to implement a simple and efficient solution using minimal new technologies within a short timeframe."
+                                }
+                              ],
+                              "id": "bbd3d353-ae6f-4947-b992-0e4ad7be4762",
+                              "title": "The primary reason was to implement a simple and efficient solution using minimal new technologies within a short timeframe."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Kubernetes would have been an over-engineered solution at that stage"
+                                }
+                              ],
+                              "id": "e7a95abe-2f65-4ed4-8565-2b18ec632c72",
+                              "title": "Kubernetes would have been an over-engineered solution at that stage"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": " the project was not a broad microservice architecture and didn’t have a significant user base."
+                                }
+                              ],
+                              "id": "f372bfef-1007-4b35-89cf-c016c515a8fa",
+                              "title": " the project was not a broad microservice architecture and didn’t have a significant user base."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "ECS provided the necessary flexibility for containerized services while keeping the setup straightforward."
+                                }
+                              ],
+                              "id": "ef24c40d-5f37-48c8-9d5b-100dffb03078",
+                              "title": "ECS provided the necessary flexibility for containerized services while keeping the setup straightforward."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "If the project grows and requires more complex orchestration, we could always consider transitioning to Kubernetes in the future."
+                                }
+                              ],
+                              "id": "58b6d449-1abd-40e1-b1fc-8bca0ac95e99",
+                              "title": "If the project grows and requires more complex orchestration, we could always consider transitioning to Kubernetes in the future."
+                            }
+                          ]
+                        },
+                        "id": "a2313ed6-6851-4bc4-8fb8-bb0f43ffb837",
+                        "title": "ECS over a full Kubernetes"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Budget"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I set budget limits and configured notifications within the AWS account to monitor spending closely. "
+                                }
+                              ],
+                              "id": "2bf61757-d2c5-411a-9db9-b0ec53bfed11",
+                              "title": "I set budget limits and configured notifications within the AWS account to monitor spending closely. "
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Additionally, I used the AWS pricing calculator to plan the budget ahead of time, ensuring that all services and resources were within the predefined financial constraints."
+                                }
+                              ],
+                              "id": "b1d4a905-a128-4d4a-b9e7-c5d79e29c006",
+                              "title": "Additionally, I used the AWS pricing calculator to plan the budget ahead of time, ensuring that all services and resources were within the predefined financial constraints."
+                            }
+                          ]
+                        },
+                        "id": "3de2d952-0402-4753-9ab3-d99bd0749ba4",
+                        "title": "Budget"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "lack of documentation"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "analyzing the codebase and using debug mode to trace the application flow"
+                                }
+                              ],
+                              "id": "4eb180aa-4c6b-4136-9390-6eb1a95bc5ee",
+                              "title": "analyzing the codebase and using debug mode to trace the application flow"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "My experience with reverse engineering undocumented projects was crucial here."
+                                }
+                              ],
+                              "id": "dbb49b61-fde0-41a2-b09e-edaa004204a4",
+                              "title": "My experience with reverse engineering undocumented projects was crucial here."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I focused on identifying the core architectural logic and breaking down the service into manageable parts for detailed analysis"
+                                }
+                              ],
+                              "id": "399ebca9-21b4-4376-96c4-9ce838da0c1d",
+                              "title": "I focused on identifying the core architectural logic and breaking down the service into manageable parts for detailed analysis"
+                            }
+                          ]
+                        },
+                        "id": "baf5ce2f-ebf2-418a-8644-86f6d682b839",
+                        "title": "lack of documentation"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "speech processing service"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "The speech processing service was the most resource-intensive part of the project, despite having limited functionality."
+                                }
+                              ],
+                              "id": "2124c03b-af37-433a-8e39-089cf86ca8c3",
+                              "title": "The speech processing service was the most resource-intensive part of the project, despite having limited functionality."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "It was also a critical feature"
+                                }
+                              ],
+                              "id": "c771c18f-5540-4c37-a77a-4b68895e54c8",
+                              "title": "It was also a critical feature"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": " taking around 3 seconds per request"
+                                }
+                              ],
+                              "id": "bb4355e4-f17d-403c-a0c2-972749bcf0fe",
+                              "title": " taking around 3 seconds per request"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "My refactoring was completed within 3 days"
+                                }
+                              ],
+                              "id": "1c1d30ed-0935-4f49-886f-eba911843341",
+                              "title": "My refactoring was completed within 3 days"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "set up a CloudWatch dashboard to monitor response time and accuracy metrics"
+                                }
+                              ],
+                              "id": "b5372e67-da6d-4c04-a247-78c99d6534a5",
+                              "title": "set up a CloudWatch dashboard to monitor response time and accuracy metrics"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "to use an external API for speech recognition, as it was more accurate, efficient, and fit within our budget."
+                                }
+                              ],
+                              "id": "ae7192cc-8e1d-43cd-a96e-b2567990d9a6",
+                              "title": "to use an external API for speech recognition, as it was more accurate, efficient, and fit within our budget."
+                            }
+                          ]
+                        },
+                        "id": "df4cd2a9-e8fc-4362-83d1-b5354b1c0a4a",
+                        "title": "speech processing service"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "security"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I ensured security by implementing roles for access management between services within AWS and restricting network access to internal resources within the VPC"
+                                }
+                              ],
+                              "id": "72fcc19a-b605-46a3-8827-54e1fee14c9d",
+                              "title": "I ensured security by implementing roles for access management between services within AWS and restricting network access to internal resources within the VPC"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I learned an important lesson during this migration—I initially made the S3 bucket public, which is not recommended."
+                                }
+                              ],
+                              "id": "a1fd8d10-f85f-4f56-957d-10700ef87ed5",
+                              "title": "I learned an important lesson during this migration—I initially made the S3 bucket public, which is not recommended."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "In hindsight, I should have kept the bucket private and used temporary signed URLs for accessing user media files."
+                                }
+                              ],
+                              "id": "dc0b37cd-d46f-4a2b-9201-503c7d3cec08",
+                              "title": "In hindsight, I should have kept the bucket private and used temporary signed URLs for accessing user media files."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "This experience has helped me refine my approach to securing resources in cloud environments"
+                                }
+                              ],
+                              "id": "ea61448c-9046-4800-a79b-6ba92e92d752",
+                              "title": "This experience has helped me refine my approach to securing resources in cloud environments"
+                            }
+                          ]
+                        },
+                        "id": "c7473de9-7f7c-423f-bca7-f9f36fdf611d",
+                        "title": "security"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "S3 and Lambda for file processing"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I chose S3 and Lambda for file processing because they provided a reliable, scalable, and independent solution with a straightforward build process"
+                                }
+                              ],
+                              "id": "effd1107-f238-4904-a228-d71d22bbd227",
+                              "title": "I chose S3 and Lambda for file processing because they provided a reliable, scalable, and independent solution with a straightforward build process"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "S3 allowed for flexible storage of media files, and Lambda enabled event-driven processing."
+                                }
+                              ],
+                              "id": "39b0a9f8-15ec-44a1-afb6-42824ec4a191",
+                              "title": "S3 allowed for flexible storage of media files, and Lambda enabled event-driven processing."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I set up triggers for specific file formats to automatically initiate processing with Lambda, converting files as required."
+                                }
+                              ],
+                              "id": "edc5ffdd-9b8e-4147-abb5-1e0b13984541",
+                              "title": "I set up triggers for specific file formats to automatically initiate processing with Lambda, converting files as required."
+                            }
+                          ]
+                        },
+                        "id": "aeec51dc-3f86-4bc8-82f9-b94a36414b6e",
+                        "title": "S3 and Lambda for file processing"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "if you had more time or resources"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "While I believe the solution was effective given the requirements and constraints"
+                                }
+                              ],
+                              "id": "076f50cf-6701-48fe-b9c9-fcd4d86beabd",
+                              "title": "While I believe the solution was effective given the requirements and constraints"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I had several plans for further improvements"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "I would have implemented CI/CD pipelines to streamline deployments"
+                                      }
+                                    ],
+                                    "id": "6588c9e2-c0a1-454f-b0ee-1407bafa8724",
+                                    "title": "I would have implemented CI/CD pipelines to streamline deployments"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "refactored parts of the service to enhance distribution"
+                                      }
+                                    ],
+                                    "id": "400e64dc-131a-4614-8ab7-d1e8b0f30732",
+                                    "title": "refactored parts of the service to enhance distribution"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "and leveraged CloudFront for serving the UI, particularly for large static content like 3D models."
+                                      }
+                                    ],
+                                    "id": "13760689-7724-47c3-934d-9abbcab961a9",
+                                    "title": "and leveraged CloudFront for serving the UI, particularly for large static content like 3D models."
+                                  }
+                                ]
+                              },
+                              "id": "e885505f-4b02-4881-aa3c-0b7fa771a75c",
+                              "title": "I had several plans for further improvements"
+                            }
+                          ]
+                        },
+                        "id": "e7ecf0f0-457f-4c65-bb59-897c62f3f502",
+                        "title": "if you had more time or resources"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "3D models"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "The original 3D models were over 10 MB in size"
+                                }
+                              ],
+                              "id": "680760fc-9045-4a97-94c0-bb3e703c08a4",
+                              "title": "The original 3D models were over 10 MB in size"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "leading to long load times"
+                                }
+                              ],
+                              "id": "e02220a0-92e3-401e-b059-a408d66db947",
+                              "title": "leading to long load times"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": " particularly for users with poor mobile internet connections"
+                                }
+                              ],
+                              "id": "218cba6e-9c6a-49b0-8096-38b4d507bd26",
+                              "title": " particularly for users with poor mobile internet connections"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Reducing the file size while preserving animations was crucial."
+                                }
+                              ],
+                              "id": "6bc1b67d-9eac-4f37-a400-8ad69899b237",
+                              "title": "Reducing the file size while preserving animations was crucial."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "The most challenging aspect was finding a solution, as there was limited information available."
+                                }
+                              ],
+                              "id": "0f80ac80-47df-4b44-aeef-7f72f39bd954",
+                              "title": "The most challenging aspect was finding a solution, as there was limited information available."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "After extensive research, I discovered Blender’s Python API and used it to create a script that optimized the models, significantly reducing their size without compromising essential features."
+                                }
+                              ],
+                              "id": "0df62821-5fb8-4462-8b81-4556941a2b1a",
+                              "title": "After extensive research, I discovered Blender’s Python API and used it to create a script that optimized the models, significantly reducing their size without compromising essential features."
+                            }
+                          ]
+                        },
+                        "id": "2b1d1b25-77a0-4502-856b-93e2c5862a87",
+                        "title": "3D models"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "documentation"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Documentation is a key part of my workflow"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": " especially in situations where it was previously lacking."
+                                      }
+                                    ],
+                                    "id": "b3604946-f239-4e12-abed-a83300245e28",
+                                    "title": " especially in situations where it was previously lacking."
+                                  }
+                                ]
+                              },
+                              "id": "5279a37b-db00-4679-b4ad-a77040818997",
+                              "title": "Documentation is a key part of my workflow"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I created detailed documentation for the changes I made"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": " including a README for sellers and managers outlining the interface"
+                                      }
+                                    ],
+                                    "id": "f2a6f671-e6f6-4b7c-8c2e-b417740d8850",
+                                    "title": " including a README for sellers and managers outlining the interface"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "technical documentation covering the architecture, deployment process, and the new services."
+                                      }
+                                    ],
+                                    "id": "b1aad386-c0af-454d-b5f0-686b42431555",
+                                    "title": "technical documentation covering the architecture, deployment process, and the new services."
+                                  }
+                                ]
+                              },
+                              "id": "519f2a70-a27f-42e5-b42b-20d828e098d8",
+                              "title": "I created detailed documentation for the changes I made"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "This ensured that future developers and stakeholders could easily understand and maintain the system."
+                                }
+                              ],
+                              "id": "1afad30f-55fd-43a7-9cf2-606598f25ef3",
+                              "title": "This ensured that future developers and stakeholders could easily understand and maintain the system."
+                            }
+                          ]
+                        },
+                        "id": "6329cebb-d18d-4a2e-8396-f8692e7f6c19",
+                        "title": "documentation"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "the biggest risks "
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "The biggest risks included system stability and data integrity during the migration."
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "I created a comprehensive monitoring setup using CloudWatch,"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "where I tracked key metrics and set up alarms for critical issues."
+                                            }
+                                          ],
+                                          "id": "012d79a7-c868-4fcb-926a-356a93581a64",
+                                          "title": "where I tracked key metrics and set up alarms for critical issues."
+                                        }
+                                      ]
+                                    },
+                                    "id": "27eff7e0-326a-4068-9cfb-ce13e4491ed0",
+                                    "title": "I created a comprehensive monitoring setup using CloudWatch,"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "test environment"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "to validate new features before deploying them to production. "
+                                            }
+                                          ],
+                                          "id": "64d7c861-5df3-45ed-af7d-c13e774f0472",
+                                          "title": "to validate new features before deploying them to production. "
+                                        }
+                                      ]
+                                    },
+                                    "id": "f76749a2-9e0d-48a2-a38e-1364d12875d5",
+                                    "title": "test environment"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Regular monitoring helped me quickly identify and address any anomalies."
+                                      }
+                                    ],
+                                    "id": "ab3cd029-26df-47de-9bdd-e3f8a3d29b14",
+                                    "title": "Regular monitoring helped me quickly identify and address any anomalies."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "a robust backup strategy for the database, leveraging RDS’s automated backups to ensure data could be restored if necessary."
+                                      }
+                                    ],
+                                    "id": "7b207d02-6216-412b-9999-f3d264c5e9eb",
+                                    "title": "a robust backup strategy for the database, leveraging RDS’s automated backups to ensure data could be restored if necessary."
+                                  }
+                                ]
+                              },
+                              "id": "7f384e05-c441-46a1-8df6-c82ce8600094",
+                              "title": "The biggest risks included system stability and data integrity during the migration."
+                            }
+                          ]
+                        },
+                        "id": "84f60194-f9b1-46f7-bade-88accb6aea15",
+                        "title": "the biggest risks "
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "horizontal scaling impact the performance and cost of the application"
+                          }
+                        ],
+                        "id": "d85a8aad-0181-4f09-92ec-455c54cf7db5",
+                        "title": "horizontal scaling impact the performance and cost of the application"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What did you learn"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "This project taught me valuable lessons in navigating legacy systems without prior documentation or knowledge."
+                                }
+                              ],
+                              "id": "3055788c-3103-4468-a0a0-56da710640bb",
+                              "title": "This project taught me valuable lessons in navigating legacy systems without prior documentation or knowledge."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "It also provided me with extensive hands-on experience in building scalable architectures in AWS, which I’ve applied in subsequent projects. I became proficient with services like ECS, ECR, Load Balancer with Auto Scaling, and Route 53, among others. These skills have been invaluable in my continued work in cloud architecture and system optimization"
+                                }
+                              ],
+                              "id": "1893d9cf-8262-4d1f-a77a-e0a2e6ab8015",
+                              "title": "It also provided me with extensive hands-on experience in building scalable architectures in AWS, which I’ve applied in subsequent projects. I became proficient with services like ECS, ECR, Load Balancer with Auto Scaling, and Route 53, among others. These skills have been invaluable in my continued work in cloud architecture and system optimization"
+                            }
+                          ]
+                        },
+                        "id": "18a3a8c8-7b33-49d9-a58b-e10c20f92163",
+                        "title": "What did you learn"
+                      }
+                    ]
+                  },
+                  "id": "c866284a-f9e8-445b-9f94-498bd3ecbe20",
+                  "title": "Questions"
+                }
+              ]
+            },
+            "id": "ab306e8e-a99d-487b-b804-c48b010a45a9",
+            "title": "Cansay"
+          },
+          {
+            "attributedTitle": [
+              {
+                "text": "Architecture task"
+              }
+            ],
+            "branch": "folded",
+            "children": {
+              "attached": [
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Functional"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What are the core functionalities that the system needs to support?"
+                          }
+                        ],
+                        "id": "0b067fab-0c29-4646-af6c-51ed94704aaf",
+                        "title": "What are the core functionalities that the system needs to support?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Are there any specific business processes or workflows that need to be automated?"
+                          }
+                        ],
+                        "id": "459a8ec7-ed8a-48ab-aa3a-55558b48cc86",
+                        "title": "Are there any specific business processes or workflows that need to be automated?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What are the key features or services that must be included in this architecture?"
+                          }
+                        ],
+                        "id": "455aaba8-5772-42b8-82a3-399ec11b8fdc",
+                        "title": "What are the key features or services that must be included in this architecture?"
+                      }
+                    ]
+                  },
+                  "id": "5ea78417-f206-44f9-8078-7f8a2056c034",
+                  "title": "Functional"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Scalability"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What is the expected load on the system "
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "number of users"
+                                }
+                              ],
+                              "id": "be468694-341b-4d32-9821-7cedd7a17528",
+                              "title": "number of users"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "transactions per second"
+                                }
+                              ],
+                              "id": "a5f91841-f0c9-401d-828d-8c128023dad6",
+                              "title": "transactions per second"
+                            }
+                          ]
+                        },
+                        "id": "3144d96a-c9de-4e46-8357-260193aa0062",
+                        "title": "What is the expected load on the system "
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Does the system need to handle sudden spikes in traffic?"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "If so, how significant are these spikes?"
+                                }
+                              ],
+                              "id": "c5ad5b9c-cc04-4e3a-9ea5-a8dd2bf8c3e9",
+                              "title": "If so, how significant are these spikes?"
+                            }
+                          ]
+                        },
+                        "id": "979470bf-93f9-4d66-9d24-54547dcd4fbe",
+                        "title": "Does the system need to handle sudden spikes in traffic?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Are there any specific scalability requirements"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "such as handling thousands or millions of users?"
+                                }
+                              ],
+                              "id": "abfd1621-2b5b-4c78-86df-c97e06c17ee3",
+                              "title": "such as handling thousands or millions of users?"
+                            }
+                          ]
+                        },
+                        "id": "e42db327-5433-4d91-aeaa-ee459fcdf5a8",
+                        "title": "Are there any specific scalability requirements"
+                      }
+                    ]
+                  },
+                  "id": "33a59352-63ba-4989-82cd-87ec245e4a48",
+                  "title": "Scalability"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Reliability and Availability"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What are the uptime requirements for the system?"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Is high availability a critical factor?"
+                                }
+                              ],
+                              "id": "eebbfa5d-76fc-45c1-99e8-a9adb175216f",
+                              "title": "Is high availability a critical factor?"
+                            }
+                          ]
+                        },
+                        "id": "f6855692-ef85-4455-b1cc-de1a68e128a5",
+                        "title": "What are the uptime requirements for the system?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How important is fault tolerance for this system? "
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Should it be able to recover from failures automatically?"
+                                }
+                              ],
+                              "id": "6c1b0e36-6e7a-422f-88e0-5c86d6e0d938",
+                              "title": "Should it be able to recover from failures automatically?"
+                            }
+                          ]
+                        },
+                        "id": "63dcfedf-ee63-4e96-b169-ee9f846b03f7",
+                        "title": "How important is fault tolerance for this system? "
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Are there any requirements for disaster recovery or multi-region deployments?"
+                          }
+                        ],
+                        "id": "4db8ecd0-aac9-446d-92b4-970157280b72",
+                        "title": "Are there any requirements for disaster recovery or multi-region deployments?"
+                      }
+                    ]
+                  },
+                  "id": "06c43209-8400-4683-a69f-3a676e40186b",
+                  "title": "Reliability and Availability"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Security and Compliance"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What are the security requirements for the system?"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Are there any sensitive data that need to be protected?"
+                                }
+                              ],
+                              "id": "a69aa7a5-b12f-4e61-af8c-64e41a671a0f",
+                              "title": "Are there any sensitive data that need to be protected?"
+                            }
+                          ]
+                        },
+                        "id": "a446b25b-4c07-407a-a1eb-e20e636e24fc",
+                        "title": "What are the security requirements for the system?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Do we need to comply with any specific regulations or standards"
+                          }
+                        ],
+                        "id": "f0ecf692-eabb-4a1d-b701-59c208bcf83c",
+                        "title": "Do we need to comply with any specific regulations or standards"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What authentication and authorization mechanisms should be implemented?"
+                          }
+                        ],
+                        "id": "c7b3b546-ee87-450b-9843-07c3dfb3b896",
+                        "title": "What authentication and authorization mechanisms should be implemented?"
+                      }
+                    ]
+                  },
+                  "id": "c7d368f2-1faf-48ee-b8db-4814d4dbeb62",
+                  "title": "Security and Compliance"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Data"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What types of data will the system need to store and process?"
+                          }
+                        ],
+                        "id": "9299de9e-4245-4d7b-906e-a1fac9b448dd",
+                        "title": "What types of data will the system need to store and process?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How large are the datasets, and how often will they be accessed or modified?"
+                          }
+                        ],
+                        "id": "1a20613d-28d8-4db3-ad6c-4386cf09674c",
+                        "title": "How large are the datasets, and how often will they be accessed or modified?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Are there any specific data retention or archival requirements?"
+                          }
+                        ],
+                        "id": "4983de59-8acf-4770-9336-0d69a3bd61f0",
+                        "title": "Are there any specific data retention or archival requirements?"
+                      }
+                    ]
+                  },
+                  "id": "d397bfbd-d7fe-43b1-b430-d832d27c4aae",
+                  "title": "Data"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Integration"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Does the system need to integrate with any existing services or third-party APIs?"
+                          }
+                        ],
+                        "id": "7e35f51a-4635-4bd4-8c7a-da82cba2cd39",
+                        "title": "Does the system need to integrate with any existing services or third-party APIs?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Are there any legacy systems that need to be connected to this new architecture?"
+                          }
+                        ],
+                        "id": "8301e963-2dc7-458e-856b-4280347a1f8e",
+                        "title": "Are there any legacy systems that need to be connected to this new architecture?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What is the expected data flow between this system and external services?"
+                          }
+                        ],
+                        "id": "d4227c98-5d37-40ad-9369-d51cb3c0ca9e",
+                        "title": "What is the expected data flow between this system and external services?"
+                      }
+                    ]
+                  },
+                  "id": "aa4e1749-0293-4e86-8db8-cf48af254cbb",
+                  "title": "Integration"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Time and Budget Constraints"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What are the timeline and budget constraints for this project?"
+                          }
+                        ],
+                        "id": "22ba2359-c33d-4db1-a929-467181d7045c",
+                        "title": "What are the timeline and budget constraints for this project?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Are there any cost optimization requirements, particularly in terms of AWS usage?"
+                          }
+                        ],
+                        "id": "5a7cb703-acc2-493a-a04e-7b2fe090b8d2",
+                        "title": "Are there any cost optimization requirements, particularly in terms of AWS usage?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Is there a need to minimize upfront costs, or is the focus on long-term operational efficiency?"
+                          }
+                        ],
+                        "id": "96da6887-2b64-4b5c-bba9-1c68dd089e5a",
+                        "title": "Is there a need to minimize upfront costs, or is the focus on long-term operational efficiency?"
+                      }
+                    ]
+                  },
+                  "id": "26d69e88-dcab-48b9-9ee2-fbbc6ca07833",
+                  "title": "Time and Budget Constraints"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "User Experience and Performance"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What are the performance expectations for the system, particularly in terms of response times?"
+                          }
+                        ],
+                        "id": "c00b55bd-5380-4c1a-b3d6-4e560017c8f9",
+                        "title": "What are the performance expectations for the system, particularly in terms of response times?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Are there specific latency requirements for certain operations or services?"
+                          }
+                        ],
+                        "id": "ee8b6b61-975d-4bb5-b7b4-7b775a12ecc3",
+                        "title": "Are there specific latency requirements for certain operations or services?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How important is the user experience, and are there any key performance indicators (KPIs) to meet?"
+                          }
+                        ],
+                        "id": "11a17ce2-7fb5-44e2-80ca-2f43d62bcd6c",
+                        "title": "How important is the user experience, and are there any key performance indicators (KPIs) to meet?"
+                      }
+                    ]
+                  },
+                  "id": "6015b0f0-87ff-4810-8dd0-96cd912e9fbc",
+                  "title": "User Experience and Performance"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Future Growth and Flexibility"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Is the system expected to evolve over time? If so, what kind of changes or expansions are anticipated?"
+                          }
+                        ],
+                        "id": "0c302fe2-54d1-49f4-a2b4-bff8480d076c",
+                        "title": "Is the system expected to evolve over time? If so, what kind of changes or expansions are anticipated?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How flexible should the architecture be to accommodate future features or changes?"
+                          }
+                        ],
+                        "id": "fd7e7b2b-fe86-47f1-8b5e-b037556afc17",
+                        "title": "How flexible should the architecture be to accommodate future features or changes?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Are there any anticipated integrations with new technologies, such as AI or IoT?"
+                          }
+                        ],
+                        "id": "bd746140-4097-461e-96db-cab7f9e6c4df",
+                        "title": "Are there any anticipated integrations with new technologies, such as AI or IoT?"
+                      }
+                    ]
+                  },
+                  "id": "ccb371c8-e69a-4ce1-9343-e49b68793d0b",
+                  "title": "Future Growth and Flexibility"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Monitoring and Reporting"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What monitoring and logging capabilities are required for the system?"
+                          }
+                        ],
+                        "id": "dc2ad8c0-e6df-4c91-8442-f2b5d7c59eca",
+                        "title": "What monitoring and logging capabilities are required for the system?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Are there any specific metrics or dashboards that need to be created to track system performance?"
+                          }
+                        ],
+                        "id": "0b7c4409-95e2-43a4-902b-8822085a8f00",
+                        "title": "Are there any specific metrics or dashboards that need to be created to track system performance?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How important is real-time reporting and analytics for this solution?"
+                          }
+                        ],
+                        "id": "830f1fe3-98bf-44c5-90dd-226b561e358b",
+                        "title": "How important is real-time reporting and analytics for this solution?"
+                      }
+                    ]
+                  },
+                  "id": "d4a42c30-2e74-4e87-bfe3-8864e71e71fa",
+                  "title": "Monitoring and Reporting"
+                }
+              ]
+            },
+            "id": "cecfd1bc-26e9-40ac-8ff3-991af252d980",
+            "title": "Architecture task"
+          },
+          {
+            "attributedTitle": [
+              {
+                "text": "Governannce"
+              }
+            ],
+            "branch": "folded",
+            "children": {
+              "attached": [
+                {
+                  "attributedTitle": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "id": "cf0d0c75-2124-40c9-8ce2-278b856a6636",
+                  "image": {
+                    "height": 644.6243140243895,
+                    "src": "xap:resources/c681aa89f308a9b9c7d69c01e6366a3db3767a45320b6d1b33c3be6447bef8c5.png",
+                    "width": 1201.3453124999985
+                  }
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "examples"
+                    }
+                  ],
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Lambda functions must not be publicly accessible."
+                          }
+                        ],
+                        "id": "4996f3af-cef3-4b7c-af3e-c31f0c8d6ce0",
+                        "title": "Lambda functions must not be publicly accessible."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Lambda functions must be attached to a VPC."
+                          }
+                        ],
+                        "id": "fc913e0e-1fcc-434a-9372-fddcb0943294",
+                        "title": "Lambda functions must be attached to a VPC."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Lambda functions should not use deprecated runtimes."
+                          }
+                        ],
+                        "id": "945a49fb-c681-42df-b084-cb8fbb99896d",
+                        "title": "Lambda functions should not use deprecated runtimes."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Lambda functions must be tagged with a set of required tags."
+                          }
+                        ],
+                        "id": "538bc86d-5989-418f-a4ce-7e1db75d5a99",
+                        "title": "Lambda functions must be tagged with a set of required tags."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Lambda layers must not be accessible outside of the organization."
+                          }
+                        ],
+                        "id": "ed1e4bb6-4774-48cf-adf9-150f08348c84",
+                        "title": "Lambda layers must not be accessible outside of the organization."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Lambda functions with an attached security group must have matching tags between the function and security group."
+                          }
+                        ],
+                        "id": "96ff6151-2edd-4674-9417-7534287bd0ec",
+                        "title": "Lambda functions with an attached security group must have matching tags between the function and security group."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Lambda functions with an attached layer must use an approved version"
+                          }
+                        ],
+                        "id": "2bbf9595-c122-49ea-a22a-8b334c40d705",
+                        "title": "Lambda functions with an attached layer must use an approved version"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Lambda environment variables must be encrypted at rest with a customer managed key."
+                          }
+                        ],
+                        "id": "a683b746-ca08-4493-bc6f-58ebd45bf337",
+                        "title": "Lambda environment variables must be encrypted at rest with a customer managed key."
+                      }
+                    ]
+                  },
+                  "id": "421274f9-a62b-4b76-86fb-d25e16b8f2cb",
+                  "title": "examples"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Current Project:"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Pre-Commit Hooks"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "We utilize pre-commit hooks to enforce code quality standards and prevent common issues before code is committed to the repository. This ensures that our codebase remains consistent and free from common errors."
+                                }
+                              ],
+                              "id": "b301935f-6d1f-47ba-8a6b-60502d088ff0",
+                              "title": "We utilize pre-commit hooks to enforce code quality standards and prevent common issues before code is committed to the repository. This ensures that our codebase remains consistent and free from common errors."
+                            }
+                          ]
+                        },
+                        "id": "06a5c9fe-0b4f-44ca-8905-0b51cde95549",
+                        "title": "Pre-Commit Hooks"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Vulnerability Scanning"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Our repositories are regularly scanned for vulnerabilities using a centralized solution provided by our company."
+                                }
+                              ],
+                              "id": "451233a3-6b68-4ca2-83b0-bab95db06ebb",
+                              "title": "Our repositories are regularly scanned for vulnerabilities using a centralized solution provided by our company."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "This automated process helps us identify and address potential security issues early in the development lifecycle, ensuring that our code meets the highest security standards."
+                                }
+                              ],
+                              "id": "e424bda4-c46e-44a6-b159-809a3e2e2c2b",
+                              "title": "This automated process helps us identify and address potential security issues early in the development lifecycle, ensuring that our code meets the highest security standards."
+                            }
+                          ]
+                        },
+                        "id": "753394ef-ad08-4d0a-a2e7-efd9d3a66643",
+                        "title": "Vulnerability Scanning"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Deployment"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "basic configurations for our services"
+                                }
+                              ],
+                              "id": "4827cbaf-b1b3-41f5-83ae-e3ae69482152",
+                              "title": "basic configurations for our services"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "we can change only specific targets and layers"
+                                }
+                              ],
+                              "id": "904b2478-4452-4d5b-b224-0990344863dc",
+                              "title": "we can change only specific targets and layers"
+                            }
+                          ]
+                        },
+                        "id": "bc0f7153-9acd-48f3-b7d0-7add279ddddd",
+                        "title": "Deployment"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Secret Management"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I have replaced the storage of access credentials within configuration files in functions with AWS Secret Manager."
+                                }
+                              ],
+                              "id": "c142c5c2-93c4-4fce-bbfd-4a8cacde3005",
+                              "title": "I have replaced the storage of access credentials within configuration files in functions with AWS Secret Manager."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "This change enhances security by ensuring that sensitive information is managed securely and is only accessible by authorized services at runtime."
+                                }
+                              ],
+                              "id": "a20f6aa8-69eb-40b6-86bd-7d0dab69375e",
+                              "title": "This change enhances security by ensuring that sensitive information is managed securely and is only accessible by authorized services at runtime."
+                            }
+                          ]
+                        },
+                        "id": "bee927c0-2806-4d9a-8408-0073d7a21fbf",
+                        "title": "Secret Management"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "API Gateway Authentication"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "accessing our services via API Gateway using API keys."
+                                }
+                              ],
+                              "id": "b7f0617c-877f-4fd8-9c68-c52598495d9d",
+                              "title": "accessing our services via API Gateway using API keys."
+                            }
+                          ]
+                        },
+                        "id": "17238b5c-5ec9-4e85-8217-627634baf373",
+                        "title": "API Gateway Authentication"
+                      }
+                    ]
+                  },
+                  "id": "decabdc9-7d09-4ac6-a3f5-6ecb23466036",
+                  "title": "Current Project:"
+                }
+              ]
+            },
+            "id": "bff247e9-dfc1-4ccf-a3f5-1817818aa635",
+            "title": "Governannce"
+          },
+          {
+            "attributedTitle": [
+              {
+                "text": "Questions"
+              }
+            ],
+            "branch": "folded",
+            "children": {
+              "attached": [
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Project and Team"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Team"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Size"
+                                }
+                              ],
+                              "id": "cf47d0e7-a144-48e0-abea-e421c8d03d93",
+                              "title": "Size"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "structure"
+                                }
+                              ],
+                              "id": "92d1e669-fd44-4eed-b8a2-48de52d2bb6e",
+                              "title": "structure"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "collaborate"
+                                }
+                              ],
+                              "id": "6a7347bf-759b-4d87-bfe7-e3fdb924a857",
+                              "title": "collaborate"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "What is the size and structure of the team I will be joining? How does the team typically collaborate?"
+                                }
+                              ],
+                              "id": "d24897e9-cb97-418b-bb71-1259ee8c956c",
+                              "title": "What is the size and structure of the team I will be joining? How does the team typically collaborate?"
+                            }
+                          ]
+                        },
+                        "id": "dac13823-007f-4d30-81be-3d42df8e9e82",
+                        "title": "Team"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Projects"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Main goals in the 6 months"
+                                }
+                              ],
+                              "id": "4e44cdef-781e-4891-a689-fb4e1dc04894",
+                              "title": "Main goals in the 6 months"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Can you tell me more about the specific projects I would be working on? What are the main goals for the team in the next six months?"
+                                }
+                              ],
+                              "id": "c07ddd5f-2fd4-4f23-9edc-98af726f70b6",
+                              "title": "Can you tell me more about the specific projects I would be working on? What are the main goals for the team in the next six months?"
+                            }
+                          ]
+                        },
+                        "id": "5a3e6268-92c4-4958-95c8-f4f096a373a9",
+                        "title": "Projects"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "decision-making"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "independent"
+                                }
+                              ],
+                              "id": "7c294609-f7da-4d0c-bccd-be8091c01fd7",
+                              "title": "independent"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "collaboration"
+                                }
+                              ],
+                              "id": "0d6e0254-18f8-48c6-bc4e-dfe06722fdd2",
+                              "title": "collaboration"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "How does the team approach problem-solving and decision-making? Is it more independent, or is there a strong emphasis on collaboration?"
+                                }
+                              ],
+                              "id": "b6cae4de-56d2-4326-a270-fa1c930a5113",
+                              "title": "How does the team approach problem-solving and decision-making? Is it more independent, or is there a strong emphasis on collaboration?"
+                            }
+                          ]
+                        },
+                        "id": "240255ec-ae6d-4f63-a175-ea34cb027a13",
+                        "title": "decision-making"
+                      }
+                    ]
+                  },
+                  "id": "275335ff-2515-4d4a-afbf-5fbbf23f7bdc",
+                  "title": "Project and Team"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Culture and Work Style"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What is the typical work-life balance like for this role?"
+                          }
+                        ],
+                        "id": "0f3eaeab-26f4-4163-b404-91fc20fd1453",
+                        "title": "What is the typical work-life balance like for this role?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How does the team handle tight deadlines and high-pressure situations?"
+                          }
+                        ],
+                        "id": "604ceb47-bcc4-454a-88aa-54600764bb8d",
+                        "title": "How does the team handle tight deadlines and high-pressure situations?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How is feedback typically given within the team?"
+                          }
+                        ],
+                        "id": "ff4c054a-3b64-43df-83db-9947ad90bbbb",
+                        "title": "How is feedback typically given within the team?"
+                      }
+                    ]
+                  },
+                  "id": "a7b7a5d0-020c-4db8-87f8-878cc3104f44",
+                  "title": "Culture and Work Style"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Career Opportunities"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Does AWS support continuing education or certifications? "
+                          }
+                        ],
+                        "id": "902a6e34-d6ca-466c-8cf2-7b8ac7b03431",
+                        "title": "Does AWS support continuing education or certifications? "
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Can you share examples of how team members have advanced their careers at AWS?"
+                          }
+                        ],
+                        "id": "5c604fc1-3303-47d6-8690-5bcb61e180fc",
+                        "title": "Can you share examples of how team members have advanced their careers at AWS?"
+                      }
+                    ]
+                  },
+                  "id": "6455d649-7ca8-425a-a22f-c541ecd3c2d6",
+                  "title": "Career Opportunities"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Technology and Processes"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What tools and technologies are most commonly used by the team?"
+                          }
+                        ],
+                        "id": "ca44af64-98c8-4543-b09b-15c4fe6cc15d",
+                        "title": "What tools and technologies are most commonly used by the team?"
+                      }
+                    ]
+                  },
+                  "id": "3ccbca36-b757-4dd1-9f02-f24d6888ac4e",
+                  "title": "Technology and Processes"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Goals and Expectations"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What are the key performance indicators (KPIs) or metrics for success in this role?"
+                          }
+                        ],
+                        "id": "4070b709-53a9-4b1f-a1ec-7c8da7a5b315",
+                        "title": "What are the key performance indicators (KPIs) or metrics for success in this role?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What are the most immediate challenges the team is facing, and how could I contribute to solving them?"
+                          }
+                        ],
+                        "id": "c5d4e1e8-7d09-4a83-bec9-b025aa70cdef",
+                        "title": "What are the most immediate challenges the team is facing, and how could I contribute to solving them?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How do you see this role evolving over the next year or two? "
+                          }
+                        ],
+                        "id": "e1eb124b-aa02-4515-9853-432a3c9f383e",
+                        "title": "How do you see this role evolving over the next year or two? "
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Are there any specific skills or experiences that will become increasingly important?"
+                          }
+                        ],
+                        "id": "e8da1125-c2df-48ad-bd7e-aaf6b8f2b7e5",
+                        "title": "Are there any specific skills or experiences that will become increasingly important?"
+                      }
+                    ]
+                  },
+                  "id": "5186b196-3a50-4ec5-a351-58ed15000cc2",
+                  "title": "Goals and Expectations"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Interaction with Clients and Internal Teams"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Will there be opportunities to interact directly with clients or stakeholders?"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "How does the team manage client relationships?"
+                                }
+                              ],
+                              "id": "3a6197bc-bffd-46ef-b6ca-664451721b8f",
+                              "title": "How does the team manage client relationships?"
+                            }
+                          ]
+                        },
+                        "id": "eb32c793-ba6e-44d5-b255-849ff801a429",
+                        "title": "Will there be opportunities to interact directly with clients or stakeholders?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How does the team collaborate with other departments"
+                          }
+                        ],
+                        "id": "8c856a51-7cac-42c8-b810-c60cfea3d4f1",
+                        "title": "How does the team collaborate with other departments"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What is the level of autonomy in decision-making for this role"
+                          }
+                        ],
+                        "id": "8f70f8fa-3ef1-4a50-ab9b-b5160b4a3207",
+                        "title": "What is the level of autonomy in decision-making for this role"
+                      }
+                    ]
+                  },
+                  "id": "6f710f8a-ca29-449f-a172-0320dbb7254b",
+                  "title": "Interaction with Clients and Internal Teams"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Company Strategy and Vision"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How does this role align with AWS’s broader strategic goals?"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "What part does this team play in achieving them?"
+                                }
+                              ],
+                              "id": "b669590b-2726-47bf-b51c-9108128fe4b1",
+                              "title": "What part does this team play in achieving them?"
+                            }
+                          ]
+                        },
+                        "id": "2549bbb5-3ab0-499f-8a06-8bd72873fd30",
+                        "title": "How does this role align with AWS’s broader strategic goals?"
+                      }
+                    ]
+                  },
+                  "id": "99c8232e-7476-4f08-b86c-be66c47176d6",
+                  "title": "Company Strategy and Vision"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Onboarding and Integration:"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What does the onboarding process look like for new hires?"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "How is support provided during the first few months?"
+                                }
+                              ],
+                              "id": "bbaabf9b-c03a-4d8e-a7b2-e4376f056e2d",
+                              "title": "How is support provided during the first few months?"
+                            }
+                          ]
+                        },
+                        "id": "9d7d3d27-c4af-4382-860d-3baca9fe5550",
+                        "title": "What does the onboarding process look like for new hires?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What should I focus on during my first 90 days to be successful in this role?"
+                          }
+                        ],
+                        "id": "b9b00a27-a2a2-4843-9f12-cff20640974a",
+                        "title": "What should I focus on during my first 90 days to be successful in this role?"
+                      }
+                    ]
+                  },
+                  "id": "f5f9bef8-dc3f-4841-a68e-6ea2c1925a35",
+                  "title": "Onboarding and Integration:"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Company Culture and Values"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How does the team embody AWS’s Leadership Principles in daily work? Can you give examples?"
+                          }
+                        ],
+                        "id": "254798e9-49e8-46f0-a96e-4ab1331bb838",
+                        "title": "How does the team embody AWS’s Leadership Principles in daily work? Can you give examples?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How does the company handle work-life balance and employee well-being"
+                          }
+                        ],
+                        "id": "421d48a2-2104-40f9-b557-195030196905",
+                        "title": "How does the company handle work-life balance and employee well-being"
+                      }
+                    ]
+                  },
+                  "id": "e2955f56-10ee-45fe-88a5-6fe373322b76",
+                  "title": "Company Culture and Values"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Compensation and Benefits"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Can you provide more details about the compensation structure"
+                          }
+                        ],
+                        "id": "b17b839f-e944-402a-a189-255c5fe57b0a",
+                        "title": "Can you provide more details about the compensation structure"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "What benefits does AWS offer beyond the standard package, and are there any perks specific to this role or location?"
+                          }
+                        ],
+                        "id": "f5a9ad26-4e61-466f-a75d-97b25c6c4fe8",
+                        "title": "What benefits does AWS offer beyond the standard package, and are there any perks specific to this role or location?"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "How does AWS support remote work or flexible working arrangements?"
+                          }
+                        ],
+                        "id": "1c527a0e-a6fe-49b1-9f56-1e7810df0009",
+                        "style": {
+                          "id": "3d3e730c-cf33-4462-bd76-6533a16e2907",
+                          "properties": {
+                            "fo:font-weight": "700"
+                          }
+                        },
+                        "title": "How does AWS support remote work or flexible working arrangements?"
+                      }
+                    ]
+                  },
+                  "id": "545db66c-8497-4309-8f0b-259b7795414a",
+                  "title": "Compensation and Benefits"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "My"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Exams"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "I’m currently pursuing a university degree, and there are about 4 days each year when I need to take time off to attend exams, which have fixed dates. "
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "How flexible is the company in accommodating such requests, and would this be an issue?"
+                                      }
+                                    ],
+                                    "id": "da224cf0-c238-40df-a00b-074a8c189469",
+                                    "title": "How flexible is the company in accommodating such requests, and would this be an issue?"
+                                  }
+                                ]
+                              },
+                              "id": "aba288ac-4193-4fff-8f43-37c4add30ec8",
+                              "title": "I’m currently pursuing a university degree, and there are about 4 days each year when I need to take time off to attend exams, which have fixed dates. "
+                            }
+                          ]
+                        },
+                        "id": "3d2d94eb-d07c-415e-a671-94a9383fc4b8",
+                        "title": "Exams"
+                      }
+                    ]
+                  },
+                  "id": "823c5ba3-1a90-4b5e-a6d8-48ad794f7082",
+                  "title": "My"
+                }
+              ]
+            },
+            "id": "f59d2586-b60e-4e15-ad1a-dc134f5e2fc2",
+            "title": "Questions"
+          }
+        ]
+      },
+      "class": "topic",
+      "id": "a81aaf27-912e-45dd-ae58-e1afe91a4a62",
+      "structureClass": "org.xmind.ui.map.clockwise",
+      "title": "AWS"
+    },
+    "theme": {
+      "boundary": {
+        "id": "fac0790e-7785-4371-894d-4c023aa57f2d",
+        "properties": {
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "'NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "#000229",
+          "line-pattern": "dash",
+          "line-width": "2",
+          "shape-class": "org.xmind.boundaryShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "calloutTopic": {
+        "id": "dc96d741-930f-4efb-9332-e2069ad76d1d",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "#000229",
+          "border-line-pattern": "inherited",
+          "border-line-width": "inherited",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "centralTopic": {
+        "id": "14bf6325-f256-4c77-8a2d-26fc4c063e22",
+        "properties": {
+          "alignment-by-level": "inactived",
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "30pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.curve",
+          "line-color": "#000229",
+          "line-pattern": "solid",
+          "line-width": "3pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
+      "expiredTopic": {
+        "id": "1890aba3-3290-4008-8c0d-21e3ddfcc12b",
+        "properties": {
+          "fill-pattern": "none",
+          "fo:text-decoration": "line-through"
+        }
+      },
+      "floatingTopic": {
+        "id": "f2c919e7-feba-4fa4-af1d-4c59c133af11",
+        "properties": {
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "border-line-color": "#EEEBEE",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "solid",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#EEEBEE"
+        }
+      },
+      "importantTopic": {
+        "id": "70e943e4-63c3-4c33-9701-1a69d9b0d506",
+        "properties": {
+          "border-line-color": "#460400",
+          "fill-pattern": "solid",
+          "svg:fill": "#460400"
+        }
+      },
+      "mainTopic": {
+        "id": "8c231336-2f43-4d7b-abf5-e6c3f9d53b16",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "18pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "inherited"
+        }
+      },
+      "map": {
+        "id": "d6770ada-d187-41b1-ad04-412015c40a28",
+        "properties": {
+          "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
+          "line-tapered": "none",
+          "multi-line-colors": "#F9423A #F6A04D #F3D321 #00BC7B #486AFF #4D49BE",
+          "svg:fill": "#ffffff"
+        }
+      },
+      "minorTopic": {
+        "id": "90092aa8-1ec1-4024-893c-1a88937bea2c",
+        "properties": {
+          "border-line-color": "#703D00",
+          "fill-pattern": "solid",
+          "svg:fill": "#703D00"
+        }
+      },
+      "relationship": {
+        "id": "677281a0-c9ac-42cb-b884-d089055dff4d",
+        "properties": {
+          "arrow-begin-class": "org.xmind.arrowShape.none",
+          "arrow-end-class": "org.xmind.arrowShape.triangle",
+          "fo:color": "inherited",
+          "fo:font-family": "'NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
+          "fo:font-size": "13pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "#000229",
+          "line-pattern": "dash",
+          "line-width": "2",
+          "shape-class": "org.xmind.relationshipShape.curved"
+        }
+      },
+      "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
+      "subTopic": {
+        "id": "d35c2c4f-61fc-4f69-8dca-fba1be287b42",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "inherited"
+        }
+      },
+      "summary": {
+        "id": "183b5c8e-b653-4570-9d0a-175c25b50728",
+        "properties": {
+          "line-color": "#000229",
+          "line-pattern": "solid",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.summaryShape.round"
+        }
+      },
+      "summaryTopic": {
+        "id": "f17f2f5f-bdc0-4334-bffc-1a0780ff3b1b",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "#000229",
+          "border-line-pattern": "inherited",
+          "border-line-width": "inherited",
+          "fill-pattern": "none",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      }
+    },
+    "title": "Mind Map",
+    "topicOverlapping": "overlap"
+  }
+]
