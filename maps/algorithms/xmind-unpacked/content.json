@@ -1,0 +1,2731 @@
+[
+  {
+    "class": "sheet",
+    "extensions": [
+      {
+        "content": {
+          "centralTopic": "org.xmind.ui.map.clockwise"
+        },
+        "provider": "org.xmind.ui.skeleton.structure.style"
+      }
+    ],
+    "id": "b2fa3d24246b619b221259ab56",
+    "revisionId": "c13c6e02-6fd1-4ea4-8d27-e429046b2398",
+    "rootTopic": {
+      "children": {
+        "attached": [
+          {
+            "children": {
+              "attached": [
+                {
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "a9048cf1-a937-4a1e-8245-d6dcca71d334",
+                              "title": "booleans"
+                            },
+                            {
+                              "id": "b32e540f-5b70-4c9a-91a8-f4bdce825d49",
+                              "title": "integers"
+                            },
+                            {
+                              "id": "5e7c67ce-debf-423e-ac1c-0bccfedf33be",
+                              "title": "vectors"
+                            },
+                            {
+                              "id": "13408052-2e50-4cf3-bca9-1c9ed7160500",
+                              "title": "queues"
+                            },
+                            {
+                              "id": "1fc971c1-c1b9-4c51-9c88-60d4c126e19b",
+                              "title": "stacks"
+                            }
+                          ]
+                        },
+                        "id": "d93002f1-c8f3-4b08-adcb-67f788c4a2c2",
+                        "title": "abstract data types"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "086c6145-8338-4b09-a74a-ecb38ef20a80",
+                              "title": "An abstract data type consists of the kind of data, its values, and its allowed operations."
+                            },
+                            {
+                              "id": "76375ecd-cc7f-4dc9-bb83-d0d3905d3afb",
+                              "title": "A data structure is the concrete way data is stored, managed, and manipulated by a computer."
+                            },
+                            {
+                              "id": "ec684424-49bf-4ec2-97c7-03645cc81905",
+                              "title": "We have been working with abstract data types such as booleans, integers, vectors, queues, and stacks."
+                            },
+                            {
+                              "id": "20a47764-7106-464c-abb4-8b473b02bc98",
+                              "title": "For implementation, we need to think about the specific data structure to use."
+                            },
+                            {
+                              "id": "47bb9bea-3693-4771-ae70-eed59fb2089e",
+                              "title": "The array is a commonly used data structure for implementing abstract data structures."
+                            }
+                          ]
+                        },
+                        "id": "4834f620-e492-4bb0-8d9d-e1e63229080a",
+                        "title": "Abstract Data Types vs Data Structures"
+                      }
+                    ]
+                  },
+                  "id": "9d26a37b-f858-4b4c-b5af-3f767a266414",
+                  "title": "Abstract Data Types"
+                },
+                {
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "3c6496b1-cf91-46dd-b23d-3b0063b05796",
+                              "title": "A vector is a finite, fixed-size sequential data collection with elements arranged in a linear order."
+                            },
+                            {
+                              "id": "200584ca-acf2-4abd-a254-6832e88a9072",
+                              "title": "It has a non-negative integer number of elements, which is called its length."
+                            },
+                            {
+                              "id": "4675b101-0bd1-4604-9aae-329ccb0c2558",
+                              "title": "Vectors are fixed in size, meaning the number of elements cannot be altered."
+                            }
+                          ]
+                        },
+                        "id": "42bf2c21-daf8-4dad-a301-7e03bf87cbb4",
+                        "title": "Basics"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "471b530f-ba2d-4457-87e1-e8f82fdf0276",
+                                    "title": "Returns the length of the vector, which is the number of elements it contains."
+                                  }
+                                ]
+                              },
+                              "id": "00a03b9d-e291-49ce-9271-0074004850cd",
+                              "title": "Length"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "f948746f-49d7-4318-99be-a28c5faf98bc",
+                                    "title": "Returns the Kth element (value stored at that element) from the vector."
+                                  }
+                                ]
+                              },
+                              "id": "45546f88-8050-4ba4-8e48-d0ee007149af",
+                              "title": "Select[k]"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "ec361f03-b9e7-48d8-97b8-9d58731c77f4",
+                                    "title": "Alters the vector by setting the Kth element to have the value O."
+                                  }
+                                ]
+                              },
+                              "id": "dd7320dc-aa7a-4d29-b5a2-910373d9f296",
+                              "title": "Store![O, K]"
+                            }
+                          ]
+                        },
+                        "id": "34dfdecd-1e39-408d-8004-1fe1761f9f4c",
+                        "title": "Operations"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "f9f79ce8-26b7-49f6-b584-5d7a03a7e246",
+                              "title": "Vectors have a fixed length and cannot be altered by deleting elements or adding new elements."
+                            },
+                            {
+                              "id": "5220a98d-dded-476e-a15a-6ae261c88814",
+                              "title": "However, you can create a new vector of a different length and copy values from the original vector to the new one."
+                            }
+                          ]
+                        },
+                        "id": "74ea27ea-e3e5-40e3-9e1a-d5ad8e0de54d",
+                        "title": "Limitations"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "bdc47d1b-803e-4a1f-8fb7-b9a6aad0fcbe",
+                              "title": "Vectors can store references to data, allowing for more flexibility in handling data within elements."
+                            },
+                            {
+                              "id": "b4e46fd0-76ac-4dd0-8dfe-4ed07cf773fa",
+                              "title": "This means that each element can refer to a piece of data, and the vector holds references to these data pieces."
+                            }
+                          ]
+                        },
+                        "id": "b25dfd75-9900-4050-af79-8a8d2fdf4e46",
+                        "title": "References"
+                      }
+                    ]
+                  },
+                  "id": "3b15e6af-89b1-4219-bed3-8469150ff09b",
+                  "title": "Vector"
+                },
+                {
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "f74ef1e8-1653-4fe5-a2ed-355e30d55e27",
+                              "title": "A queue is a sequential data structure that can be visualized as a line or waiting line, like standing in line at a restaurant or being in a customer support queue."
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "f474580f-b1ae-4fc9-8ca8-16361ea9cb6e",
+                                    "title": "first in, first out (FIFO)"
+                                  }
+                                ]
+                              },
+                              "id": "590da854-21cc-47b2-9908-548a795c4c0b",
+                              "title": "Queues follow the principle of \"first come, first served,\" which is often referred to as \"first in, first out\" (FIFO) in computing."
+                            },
+                            {
+                              "id": "0f6b1757-5eec-4a0d-a16d-f9baf718a76a",
+                              "title": "In a queue, elements are accessed from the head (the front) and added to the tail (the end) of the queue."
+                            }
+                          ]
+                        },
+                        "id": "1621f065-18c8-40e9-b5c7-fe922192bddd",
+                        "title": "Basics"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "70995b88-2fbf-4fe5-b14e-efbb74574c6e",
+                              "title": "Unlike vectors, queues are extensible, meaning you can add elements to a queue, and its length can change."
+                            },
+                            {
+                              "id": "9ee25c53-9059-476f-ba7f-502f7865a3fe",
+                              "title": "Elements can only be added to the tail of the queue and removed from the head."
+                            },
+                            {
+                              "id": "ffeb2e36-69b8-4fe4-9b8f-0d4a75cda5f9",
+                              "title": "In a queue, you have limited access to specific elements, primarily the head and tail."
+                            }
+                          ]
+                        },
+                        "id": "706fd10a-c4b7-43c5-86e7-868f92b29942",
+                        "title": "Comparison with Vectors:"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "77467037-7fd7-4781-8c32-8562da0827e5",
+                                    "title": "Returns the element at the head of the queue."
+                                  }
+                                ]
+                              },
+                              "id": "d1844537-c1d0-44f9-ba07-903e841ea519",
+                              "title": "Head"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "93df2cef-d34c-4dcd-a4a1-70e2519484b4",
+                                    "title": "Removes and returns the element at the head of the queue."
+                                  }
+                                ]
+                              },
+                              "id": "f763661b-93ee-4249-9d26-9cc68ff5ca4c",
+                              "title": "Dequeue!"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "83f1c0c0-32f7-4bc5-b75e-e866a13700cf",
+                                    "title": "Adds an element with the value o to the tail of the queue."
+                                  }
+                                ]
+                              },
+                              "id": "01e31a98-480a-4302-be8d-4e81d8d741b7",
+                              "title": "Enqueue![o]"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "c5b34935-aae2-4b25-a8df-d26b977607c6",
+                                    "title": "Checks if the queue is empty and returns true if it is, or false if it's not."
+                                  }
+                                ]
+                              },
+                              "id": "2cefb787-38cd-446a-9388-7a4c19992cf6",
+                              "title": "Empty?"
+                            }
+                          ]
+                        },
+                        "id": "4c18f65f-2cd9-4975-b3f5-ddea3f554767",
+                        "title": "Operations"
+                      }
+                    ]
+                  },
+                  "id": "0d43dd97-5e15-4699-a11e-e426fd3829bc",
+                  "title": "Queue"
+                },
+                {
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "929610c1-eb30-4730-8fd9-6c8fd8dade62",
+                              "title": "A stack is a sequential data structure similar to a queue but with a key difference: it has only one accessible element called the \"top\" of the stack."
+                            },
+                            {
+                              "id": "4e9346ec-a05d-4cc7-ac12-29013b540513",
+                              "title": "In a stack, elements are added and removed from the top, leading to a last-in, first-out (LIFO) access pattern."
+                            }
+                          ]
+                        },
+                        "id": "9f5e9638-0edd-4bec-8d85-917deec1a6cc",
+                        "title": "Basics"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "e2106155-0734-47a8-8287-e18f32f8b080",
+                              "title": "A useful analogy for a stack is to think of a pile or stack of plates. Plates are added or removed from the top of the stack, ensuring quick and reliable access."
+                            }
+                          ]
+                        },
+                        "id": "9764db79-1a6c-4247-a782-07027fd5078e",
+                        "title": "Analogy"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "3f8eb81e-6369-4ea7-b173-d63c8cf9f6c1",
+                                    "title": "Adds an element with the value o to the top of the stack."
+                                  }
+                                ]
+                              },
+                              "id": "1f613237-5249-4f58-890d-5be8f32a0ba3",
+                              "title": "Push![o]"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "dd37d99a-ea75-4629-a783-f4b35a814e1a",
+                                    "title": "Returns the element at the top of the stack."
+                                  }
+                                ]
+                              },
+                              "id": "b9072cd7-f900-4132-8cca-8c4df57d3fc6",
+                              "title": "Top"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "6df8311b-a987-479d-aa5a-e71f40a84969",
+                                    "title": "Removes and returns the element at the top of the stack."
+                                  }
+                                ]
+                              },
+                              "id": "d99e96a4-8008-41af-bc2c-271cbc92248f",
+                              "title": "Pop!"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "70610904-4814-4315-a6b2-c14d95371320",
+                                    "title": "Checks if the stack is empty and returns true if it is, or false if it's not."
+                                  }
+                                ]
+                              },
+                              "id": "0a3d0680-a953-4f03-957d-e8e475a9666b",
+                              "title": "Empty?"
+                            }
+                          ]
+                        },
+                        "id": "24b220fb-4e99-4a6d-8619-27f37b164b85",
+                        "title": "Operations"
+                      }
+                    ]
+                  },
+                  "id": "abfbb61f-db15-44a4-ae5a-a009257bae39",
+                  "title": "Stack"
+                },
+                {
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "branch": "folded",
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "58a5084e-7ffd-4e22-96de-df3fe04e548c",
+                              "title": "A computer has a certain amount of memory for storing data."
+                            },
+                            {
+                              "id": "111f0b7e-cd70-4f6f-98ef-afa3e4fd31aa",
+                              "title": "An array is a method for organizing multiple pieces of data, typically of the same type."
+                            },
+                            {
+                              "id": "ee05f229-efac-4f93-a71d-9ad8218ae28f",
+                              "title": "Each element of the array is assigned a location or address in memory."
+                            },
+                            {
+                              "id": "44552566-4e9f-4e98-b156-97ce3a2c3257",
+                              "title": "The locations are contiguous and can be viewed as a line indexed by integers."
+                            },
+                            {
+                              "id": "272fa655-4ecf-4399-bac9-ce31d416a93c",
+                              "title": "The index of an array starts from zero in most programming languages."
+                            },
+                            {
+                              "id": "9799a1db-663f-424e-92a0-772588cb5780",
+                              "title": "An array has a fixed size, but new arrays can always be created."
+                            },
+                            {
+                              "id": "fcdd58cc-982e-493d-b725-eaddf3276d8b",
+                              "title": "Operations on arrays include reading and writing elements at specific indices."
+                            }
+                          ]
+                        },
+                        "id": "9ed0a426-246f-44bc-a946-ebc1ee6e8bc9",
+                        "title": "How Arrays Work"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "da8eb524-9b89-42cd-9d49-873ed684120d",
+                              "title": "An array is a concrete implementation of a collection of data."
+                            },
+                            {
+                              "id": "67ace583-7849-422d-9e11-b6e902f69862",
+                              "title": "A vector is an abstract data structure defined in terms of its structure and operations."
+                            },
+                            {
+                              "id": "499e94d5-60c5-430b-ab7a-d7dcea6a6cad",
+                              "title": "An array can be used to implement a vector by storing the vector's length in the array."
+                            },
+                            {
+                              "id": "11d5c775-ff38-4781-8c63-d338b2cdf053",
+                              "title": "Select and store operations on vectors can be implemented using read and write operations on arrays."
+                            }
+                          ]
+                        },
+                        "id": "c5f7779a-f965-47e8-9ad9-9fe5eb97198b",
+                        "title": "Arrays vs Vectors"
+                      },
+                      {
+                        "id": "32950f29-5059-4582-8532-9eab57f50db4",
+                        "title": "Arrays are not only useful for implementing abstract data structures but can also be used as abstract data structures themselves. In the next lecture, we will explore a new abstract data structure that is motivated by arrays but distinct from vectors."
+                      },
+                      {
+                        "branch": "folded",
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "28fc4e4d-e466-49eb-8f91-850804043c1b",
+                              "title": "Dynamic arrays are abstract data structures that are similar to vectors but with the added ability to change in size. They are implemented using arrays."
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "6439727d-361a-4d36-a513-5c213fb90ca0",
+                                    "title": "Length: Returns the number of elements in the dynamic array."
+                                  },
+                                  {
+                                    "id": "251a7185-a8fa-4991-9bb5-fc90d1172d17",
+                                    "title": "Select[k]: Returns the element at index k in the dynamic array."
+                                  },
+                                  {
+                                    "id": "ebafedb5-24c6-4559-852c-2c1bdd88ee58",
+                                    "title": "Store![o,k]: Stores the value o at index k in the dynamic array."
+                                  },
+                                  {
+                                    "id": "26521a00-ef32-4d6e-ae59-9797d6ab0e55",
+                                    "title": "RemoveAt![k]: Removes the element at index k in the dynamic array and shifts the remaining elements to the left."
+                                  },
+                                  {
+                                    "id": "ffaf2da7-8e1a-48cc-bc51-f3c800027824",
+                                    "title": "InsertAt![o,k]: Inserts a new element with value o at index k in the dynamic array, shifting the remaining elements to the right if necessary."
+                                  },
+                                  {
+                                    "id": "19bb21f8-60e9-453f-9236-f73a7fa62fdf",
+                                    "image": {
+                                      "height": 317.00403852201174,
+                                      "src": "xap:resources/a19f8c4ad93a0904529e004e48cd67c95cb0e2d324be3459cc3d33ddc62944f9.png",
+                                      "width": 408.9544999999989
+                                    }
+                                  }
+                                ]
+                              },
+                              "id": "4b5afb4b-6e86-45a9-abf8-37f5f088fdbc",
+                              "title": "Operations"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "7001911b-9e7e-4701-8f95-ce30b47c18f8",
+                                    "title": "A dynamic array is implemented using an underlying array."
+                                  },
+                                  {
+                                    "id": "7b528c71-24f6-43e1-9f48-b87df7f2a81a",
+                                    "title": "To increase the size of a dynamic array, a new array with more elements is created, the elements from the old array are copied, and then new elements are added at the end."
+                                  },
+                                  {
+                                    "id": "4ca049bf-b025-4db5-80ae-8934bc346b56",
+                                    "title": "To remove an element from a dynamic array, the corresponding element in the array is overwritten with the next element, and the length of the dynamic array is updated."
+                                  },
+                                  {
+                                    "id": "5950879c-0e6d-49ca-af92-48bffe34c697",
+                                    "title": "To insert an element into a dynamic array, a new array with more elements is created, the elements from the old array are copied up to the insertion point, the new element is added, and then the remaining elements are copied."
+                                  }
+                                ]
+                              },
+                              "id": "d8839b43-38a6-4a0f-9bd8-3a009ed014ca",
+                              "title": "Implementation"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "186886c8-fc10-495e-bbd5-9f968c0ef137",
+                                    "title": "Dynamic arrays, vectors, queues, and stacks are examples of linear abstract data structures."
+                                  },
+                                  {
+                                    "id": "38b7745c-4a8d-4693-b2bf-95263643ca0a",
+                                    "title": "In linear data structures, the elements are stored sequentially in a fixed order."
+                                  },
+                                  {
+                                    "id": "7777f3e8-476c-4caf-9cea-5924aa750964",
+                                    "title": "Arrays are a natural choice for implementing linear data structures."
+                                  }
+                                ]
+                              },
+                              "id": "0b02d7a4-70e7-4c29-a92b-f5860eb1a5b0",
+                              "title": "Linear Abstract Data Structures"
+                            }
+                          ]
+                        },
+                        "id": "f209a412-c020-4c35-89d3-738b419dd144",
+                        "title": "Dynamic arrays"
+                      }
+                    ]
+                  },
+                  "id": "dc29905c-e5ea-4a9b-b436-affede5df942",
+                  "title": "Arrays"
+                },
+                {
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "e9a675c0-2128-407f-aa03-d9a79c987cc1",
+                              "title": "A pointer is used to store the memory address of a piece of data in computer memory."
+                            },
+                            {
+                              "id": "97d122c4-a0a8-4cbf-8abd-d4252e718648",
+                              "title": "A pointer in a linked list points to the next node in the list."
+                            },
+                            {
+                              "id": "4593b645-a3e1-4f6d-96e5-50d0e9f68f4f",
+                              "title": "In a singly linked list, each node has a pointer to the next node."
+                            },
+                            {
+                              "id": "edcf149b-df62-4c4e-93d5-528a7dc140f7",
+                              "title": "The first node of the list is called the head."
+                            },
+                            {
+                              "id": "2e4b6020-2ddc-4b73-baf1-06c54bb824e2",
+                              "title": "The last node has a pointer to null, indicating the end of the list."
+                            }
+                          ]
+                        },
+                        "id": "2cb810e0-3ba4-42c7-b0f4-63fb64fa4f24",
+                        "title": "Pointer"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "3a842cfe-1e34-40bf-8686-c0915c9f2499",
+                              "title": "To traverse a linked list, we use a temporary pointer."
+                            },
+                            {
+                              "id": "6b48979d-7583-4020-9227-d66598c4b00d",
+                              "title": "The temporary pointer initially points to the head of the list."
+                            },
+                            {
+                              "id": "fdbb2b68-0b57-489c-971c-d73989eea8d3",
+                              "title": "We can then follow the pointers to access the values stored in each node."
+                            }
+                          ]
+                        },
+                        "id": "6ee11b1b-62c8-417f-bf36-60a2ac03efe8",
+                        "title": "Traversing"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "5f28dab7-d6df-4f5d-bc13-8cb0944a8570",
+                              "title": "Adding a new node at the beginning of the list involves creating the node, assigning values to its fields, and updating the head pointer."
+                            },
+                            {
+                              "id": "2d4a8ade-c4e2-4e17-9108-6ba16e7b0cbb",
+                              "title": "To add a node at the end or in the middle of the list, we first traverse the list to find the correct position."
+                            },
+                            {
+                              "id": "f9add51a-2c4d-43b6-bdde-691fc3859fc7",
+                              "title": "We then create the new node, update the pointers of the adjacent nodes, and link the new node into the list."
+                            }
+                          ]
+                        },
+                        "id": "19504539-f2d7-4531-8f66-946e50f65184",
+                        "title": "Adding Nodes"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "75f35359-a9e1-4fcd-a6b4-20030663c8d7",
+                              "title": "Removing a node at the beginning of the list involves updating the head pointer."
+                            },
+                            {
+                              "id": "9fcab65d-f898-4461-b372-375caf928e4b",
+                              "title": "Removing a node at the end of the list involves updating the previous node's pointer."
+                            },
+                            {
+                              "id": "c41c8609-e2cd-4070-9c5a-7be3ed42884c",
+                              "title": "Removing a node in the middle of the list involves updating the pointers of the adjacent nodes, then deleting the node."
+                            }
+                          ]
+                        },
+                        "id": "e8b0d3d2-8e48-4a81-b962-b7363ed1669e",
+                        "title": "Removing Nodes"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "1aad0b73-9078-4acf-906d-e3b6daed15cf",
+                              "title": "Searching a linked list involves iterating through the list and comparing the values in each node."
+                            },
+                            {
+                              "id": "ef9b10ec-c3fa-444d-adfb-23859859d451",
+                              "title": "We can use a temporary pointer to traverse the list and stop when we find the desired value."
+                            }
+                          ]
+                        },
+                        "id": "1477bceb-678c-4423-8321-bffb38142d1f",
+                        "title": "Searching"
+                      }
+                    ]
+                  },
+                  "id": "375bde8c-22aa-431e-a647-40971ca48b0a",
+                  "title": "Linked Lists"
+                }
+              ]
+            },
+            "id": "53cbc13fc4fa6da5ccee697deb",
+            "title": "Data Structures"
+          },
+          {
+            "children": {
+              "attached": [
+                {
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "id": "fe1ee480-ee7b-4904-a635-cf4429362a3f",
+                        "title": "Algorithms can be abstracted into simple operations performed on data."
+                      },
+                      {
+                        "id": "02eb017f-6244-4527-9c5a-feeba880116a",
+                        "title": "Algorithm design involves considering the implementation of specific data structures."
+                      },
+                      {
+                        "id": "927b34e6-232a-4c0c-9df9-a0266106b0e0",
+                        "title": "Not all problems are suitable for all types of data structures."
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "3b3f2171-b609-4c20-af75-572367ff0b32",
+                                    "title": "The steps must be arranged in a clear, logical sequence so that after completing one step, the next step is obvious."
+                                  }
+                                ]
+                              },
+                              "id": "b3dd915c-0f97-4ecb-b03d-41c7ff34c61f",
+                              "title": "Ordered"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "7368f1ef-8987-45be-ac6f-a109787a420b",
+                                    "title": "Each instruction must be clear and precise, leaving no room for interpretation. There should be no confusion about what the algorithm is supposed to do at each step."
+                                  }
+                                ]
+                              },
+                              "id": "c816172f-567a-4e32-9b57-43de568b3b2b",
+                              "title": "Unambiguous"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "62df5296-cdc9-431c-8aab-2f53fa34a5f3",
+                                    "title": "Every step of the algorithm must be doable with the available resources. For example, an algorithm should not include an operation like dividing by zero, which is impossible to perform."
+                                  }
+                                ]
+                              },
+                              "id": "0d03e63f-4ee0-439b-9c73-93294d447eee",
+                              "title": "Executable"
+                            }
+                          ]
+                        },
+                        "id": "2ea1b920-0dd0-44db-9840-6fe782b23794",
+                        "title": "Characteristics"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "fec586a3-a29f-49a4-86e8-ca7bda188a57",
+                                    "title": "Clearly define the problem you want to solve."
+                                  }
+                                ]
+                              },
+                              "id": "59e65850-eee9-4029-aca8-3dba19623481",
+                              "title": "Understand the Problem"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "323f16c4-c6b7-4140-81eb-73b6af22813d",
+                                    "title": "Create a logical sequence of steps to solve the problem. This stage often involves creating a flowchart or pseudocode."
+                                  }
+                                ]
+                              },
+                              "id": "61f3a695-d9d6-48ad-b292-0176f1e197ea",
+                              "title": "Design the Algorithm"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "298910d8-3e11-4f0e-90d0-ad0933401722",
+                                    "title": "Ensure that the algorithm solves the problem correctly in all cases."
+                                  }
+                                ]
+                              },
+                              "id": "09ae96ff-e748-47a6-a58f-f98e77772003",
+                              "title": "Check Correctness"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "95c993c9-d91d-4733-82d4-cafc7b5b21b7",
+                                    "title": "Evaluate how efficiently the algorithm performs in terms of time (how fast it runs) and space (how much memory it uses)."
+                                  }
+                                ]
+                              },
+                              "id": "8267ebfb-e6e3-400e-8974-cd838d73717a",
+                              "title": "Analyze Efficiency"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "22e411ed-c251-4b32-bd5b-082a7fa6ed5b",
+                                    "title": "Convert the algorithm into a working program using a programming language."
+                                  }
+                                ]
+                              },
+                              "id": "8e0f9f84-091c-43f0-a89f-d46249c996d9",
+                              "title": "Implementation"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "f318eb5e-8662-482e-9180-77c4c14f1e07",
+                                    "title": "Run the program with different inputs to make sure it works correctly and efficiently."
+                                  }
+                                ]
+                              },
+                              "id": "0caf80ec-6e4d-4184-9128-1142a43c1ac8",
+                              "title": "Testing"
+                            }
+                          ]
+                        },
+                        "id": "02842dd2-e3e5-4486-a76a-f67d4f710211",
+                        "title": "Steps to Develop"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "7a6c3879-ea36-4f57-9988-f6be291c2539",
+                                    "title": "If an algorithm lacks clarity, such as the instruction “Sort 9, 18, 5, 3” without specifying whether to sort in ascending or descending order, it can lead to confusion."
+                                  }
+                                ]
+                              },
+                              "id": "a2791458-e3cf-4644-b893-67668a1b3191",
+                              "title": "Ambiguity"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "1c15a72e-1d2f-4bba-ad41-d96162466f48",
+                                    "title": "Instructions like “Print all real numbers between 1 and 2” are impossible because there are infinitely many real numbers in that interval."
+                                  }
+                                ]
+                              },
+                              "id": "bb63e44c-9137-403d-8468-f1c4a7551d4d",
+                              "title": "Non-executability"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "067ce345-7bea-4971-8902-102c159b0994",
+                                    "title": "An algorithm like “List all integers greater than 1” will never finish because there are infinitely many integers."
+                                  }
+                                ]
+                              },
+                              "id": "ea39a3d4-7271-4ebe-8807-4f3a822faa35",
+                              "title": "Non-termination"
+                            }
+                          ]
+                        },
+                        "id": "75166fcc-57d4-4554-9d4d-e257a710b073",
+                        "title": "Common Pitfalls"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "a0782635-344d-4b35-862f-b30ed42fecb2",
+                              "title": "Mathematical Formulae"
+                            },
+                            {
+                              "id": "bf42c81f-f041-48f2-a716-bc244aa4c641",
+                              "title": "Descriptive Steps"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "c8596791-9d95-430c-881d-8923f1b3ab58",
+                                          "title": "Different ways of representing algorithms can lead to varying levels of clarity. A consistent and standard approach avoids confusion."
+                                        }
+                                      ]
+                                    },
+                                    "id": "bde3aa3c-682c-47cc-bb4f-caa9420f227b",
+                                    "title": "Clarity"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "77c41680-bce6-48d8-8d4e-373e339b0b17",
+                                          "title": "An algorithm must be unambiguous and detailed enough to prevent misunderstandings in its execution."
+                                        }
+                                      ]
+                                    },
+                                    "id": "f065a95e-7b85-4156-84dc-c4e54f8275a1",
+                                    "title": "Precision"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "5cfff94b-2239-4b79-b3cd-5801a896f9c3",
+                                          "title": "While mathematical or descriptive forms might be easily understood by humans, they are not directly executable by machines."
+                                        }
+                                      ]
+                                    },
+                                    "id": "908e45b0-242d-4d9a-b77f-c5625418191f",
+                                    "title": "Execution"
+                                  }
+                                ]
+                              },
+                              "id": "78f354be-50ee-4de0-9068-1d2f62d74714",
+                              "title": "Why Representation Matters"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "e2726ac5-b60d-4c33-8a7f-5f163bc155a9",
+                                    "title": "Pseudocode is a semi-formal language used to represent algorithms. It is not intended to be executed by a computer but rather to be easily understood by humans."
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "71c3bd45-eb6d-469a-985b-3dbaef17db6a",
+                                                "title": "Setting a variable to a value using = (e.g., x = 10)."
+                                              }
+                                            ]
+                                          },
+                                          "id": "7a2c3334-817c-4be6-aef5-4ef2dca8cfe6",
+                                          "title": "Assignment"
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "33c46f63-a78f-4fa3-ad4f-c6503c17e89c",
+                                                "title": "Using if statements to execute code based on conditions (e.g., if x > 0 then … else …`)."
+                                              }
+                                            ]
+                                          },
+                                          "id": "133fd518-b56b-4036-b307-320f3290e7ec",
+                                          "title": "Conditionals"
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "0a01cac0-54e0-4951-ab44-8b72b169fee3",
+                                                "title": "Using while loops to repeat actions until a condition is no longer true (e.g., while x > 0 do ...)."
+                                              }
+                                            ]
+                                          },
+                                          "id": "89584d8b-1e93-477f-9db3-dcde3e2239ce",
+                                          "title": "Loops"
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "b00fdd6e-f6e1-4806-93c0-189f9189db64",
+                                                "title": "Defining reusable blocks of code with def and calling them as needed (e.g., def add(a, b))."
+                                              }
+                                            ]
+                                          },
+                                          "id": "4afde7cd-9f44-4d91-9827-bc36842d1582",
+                                          "title": "Functions"
+                                        }
+                                      ]
+                                    },
+                                    "id": "db12a137-f45b-4cd0-912c-bce8f55740b6",
+                                    "title": "Primitives"
+                                  }
+                                ]
+                              },
+                              "id": "2ecf98d2-dd85-465c-8055-c3f90235b713",
+                              "title": "Pseudocode"
+                            }
+                          ]
+                        },
+                        "id": "8c3ea810-ed35-4d98-af6b-6b76c2c95406",
+                        "title": "Representing"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "b7da3735-ad4d-4b8a-b294-857c7bcff2a9",
+                                          "title": "Break down a problem into smaller subproblems, solve each one recursively, and combine the solutions."
+                                        }
+                                      ]
+                                    },
+                                    "id": "120e89a3-2b97-4c20-8cb0-f951fa241879",
+                                    "title": "Concept"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "0a09e1b4-9fbe-49b4-9351-0d905b71fdf1",
+                                          "title": "Sorting algorithms like Merge Sort follow this approach by recursively dividing the array into smaller arrays, sorting them, and then merging the sorted arrays."
+                                        }
+                                      ]
+                                    },
+                                    "id": "7649430c-523c-4295-aa93-fa74cea9862f",
+                                    "title": "Example"
+                                  }
+                                ]
+                              },
+                              "id": "5a3feadf-a20e-4b8f-8726-c42ea06a5b90",
+                              "title": "Divide and Conquer"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "5b07a908-25e7-4632-a00e-f507323400f0",
+                                          "title": "Make the best possible choice at each step, without necessarily considering the overall problem."
+                                        }
+                                      ]
+                                    },
+                                    "id": "6897557d-75f4-488e-93ee-029e47ceff3f",
+                                    "title": "Concept"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "5ae839fc-db9c-42d1-94cc-7d243382212d",
+                                          "title": "Finding the shortest path in a network by always moving to the closest neighboring node."
+                                        }
+                                      ]
+                                    },
+                                    "id": "cffd7372-10df-44e0-85dd-5f7659a3be20",
+                                    "title": "Example"
+                                  }
+                                ]
+                              },
+                              "id": "b3a27a00-b3ea-4b91-9334-3fec4cd056a8",
+                              "title": "Greedy Algorithms"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "f01186f5-af9c-4ead-94b3-63cc3c17617b",
+                                          "title": "Try to build a solution one step at a time, and backtrack when a step leads to a dead end."
+                                        }
+                                      ]
+                                    },
+                                    "id": "b1aa7ba7-58c1-4baf-a497-1bd356ddb85d",
+                                    "title": "Concept"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "90e5198c-7dab-4b5b-95cd-dd33b907af7d",
+                                          "title": "Solving puzzles like Sudoku, where you fill in numbers and backtrack if a conflict arises."
+                                        }
+                                      ]
+                                    },
+                                    "id": "18118913-ea38-4ac0-a7a7-26a4a90e05d6",
+                                    "title": "Example"
+                                  }
+                                ]
+                              },
+                              "id": "a33e414a-098f-48a0-80ac-7270c621fd7a",
+                              "title": "Backtracking"
+                            }
+                          ]
+                        },
+                        "id": "efde6f0a-2f5a-4d35-815f-7e04081e6cd7",
+                        "title": "Designing"
+                      }
+                    ]
+                  },
+                  "id": "d0d61f0c-c29e-49c7-9554-16c66f150bd8",
+                  "title": "General"
+                },
+                {
+                  "children": {
+                    "attached": [
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "e7b0e16d-82c2-4cd0-b706-4958905edf1d",
+                              "title": "Utilization in daily life (e.g., Google's search engine)"
+                            },
+                            {
+                              "id": "1e4e87df-fc31-44b3-ab7a-4c3fc4986bc7",
+                              "title": "Importance in various computing problems"
+                            },
+                            {
+                              "id": "b7789dc1-6162-491d-9792-46f2d8a459c1",
+                              "title": "Relationship with data structures (vector, stack, queue)"
+                            }
+                          ]
+                        },
+                        "id": "1d2e9e64-925e-46b1-ae2b-724b6f8d9ed5",
+                        "title": "Introduction"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "branch": "folded",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "dca08c6e-baf8-4ec7-ba87-09cb8f5799ed",
+                                          "image": {
+                                            "height": 353.2428110385151,
+                                            "src": "xap:resources/919662162b7b2c6bb96dde110fc5627e33348a0dece25f91be63ceccd6d4a6c8.png",
+                                            "width": 602.8345625000011
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "id": "6d8eb78e-35b1-47a7-9712-527b64d07e67",
+                                    "title": "Problem: Navigating a labyrinth"
+                                  },
+                                  {
+                                    "id": "0774a3aa-ecc6-44ec-9c1b-916e1a3defdb",
+                                    "title": "Tools: Deck of cards, pencil"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "58aed1a9-0f71-490d-90c9-0690a735fc06",
+                                                "title": "Method: Placing cards to mark route"
+                                              },
+                                              {
+                                                "id": "5a3bc1d2-ab10-4073-a959-53e85011c268",
+                                                "title": "Analogy: Hansel and Gretel breadcrumb trail"
+                                              }
+                                            ]
+                                          },
+                                          "id": "fb5a9aeb-9a35-42e6-b405-f834c6892507",
+                                          "title": "Breadcrumbs Approach"
+                                        }
+                                      ]
+                                    },
+                                    "id": "1a4c99d8-d9a9-4205-b42e-8a311abc4b33",
+                                    "title": "Solutions"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "5acdc35d-1bdf-43d7-a04d-a2fed140eec9",
+                                          "title": "Starting Point: Marked with a black circle"
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "1b0467b0-c956-4f56-a61a-fea2bc1356b1",
+                                                "title": "Reach a junction"
+                                              },
+                                              {
+                                                "id": "bf0a1fc9-3bc1-43b5-b5b2-6a00eb764422",
+                                                "title": "Use the top card to mark junction's appearance and chosen path"
+                                              },
+                                              {
+                                                "id": "692eaa8e-04c2-4b2a-a3a8-2f293ce1fbc5",
+                                                "title": "Continue until a dead end is reached"
+                                              },
+                                              {
+                                                "id": "536ef03e-f63a-4c30-8f07-b06a6c942173",
+                                                "title": "Backtrack to the last junction"
+                                              },
+                                              {
+                                                "id": "643e33dd-5616-44a3-842a-b6867b098fe5",
+                                                "title": "Discard top card (incorrect route)"
+                                              },
+                                              {
+                                                "id": "9c35e80f-1df4-435b-a55d-c2de8a2d34e6",
+                                                "title": "Replace with a new card indicating a different choice"
+                                              },
+                                              {
+                                                "id": "dacf93b6-4c01-4756-b20c-05ab5c2574ac",
+                                                "title": "Continue to next junction"
+                                              }
+                                            ]
+                                          },
+                                          "id": "f54d10ea-eeaa-4f41-8b1c-504697ebe285",
+                                          "title": "Process"
+                                        },
+                                        {
+                                          "id": "253e989f-77a9-47e6-b135-6c54534b2cbb",
+                                          "title": "Efficiency: Minimal resources (2-3 cards) for a long route"
+                                        }
+                                      ]
+                                    },
+                                    "id": "c5b002c3-7403-453a-ad09-d921b9c65c5d",
+                                    "title": "Stack-Based Approach"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "f8a412a1-152e-4d54-8265-ba290b4a29fe",
+                                          "title": "Highlight: Stack's utility in problem-solving"
+                                        },
+                                        {
+                                          "id": "56dfcdfd-b440-49f4-b208-68da1d287f96",
+                                          "title": "Key Concept: Efficient tracking with limited resources"
+                                        }
+                                      ]
+                                    },
+                                    "id": "61bd6fda-0089-40a6-83da-780b6a3ffd68",
+                                    "title": "Conclusion on Stacks"
+                                  }
+                                ]
+                              },
+                              "id": "803e1884-9737-4e04-b005-dbc24f5fe6f1",
+                              "title": "Theseus and the Minotaur"
+                            }
+                          ]
+                        },
+                        "id": "b18581b8-0d35-4954-b33a-e769677b0345",
+                        "title": "Cases"
+                      },
+                      {
+                        "branch": "folded",
+                        "children": {
+                          "attached": [
+                            {
+                              "branch": "folded",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "6a2d2d36-b786-4bba-896e-d620cd1a8bb7",
+                                          "title": "Linear search algorithm is used to find whether a value exists in a vector or array."
+                                        },
+                                        {
+                                          "id": "9e4b2329-a1af-435e-a881-220967fc42f8",
+                                          "title": "Linear search algorithm can be used to solve different problems, such as finding the index of a value in a vector."
+                                        },
+                                        {
+                                          "id": "e54b362c-cafe-44b2-8aef-f41018e91510",
+                                          "title": "In linear search, every element is selected and inspected until the value is found or all elements have been checked."
+                                        },
+                                        {
+                                          "id": "9fff8a2c-f648-4fb1-b75e-858e5fe03d47",
+                                          "title": "The starting point of the search doesn't matter since we have no information about the location of the value."
+                                        },
+                                        {
+                                          "id": "288ed998-b0c9-4627-ad9a-fa70a49e34d7",
+                                          "title": "Linear search algorithm can be directly applied to arrays as well as vectors."
+                                        },
+                                        {
+                                          "id": "27bb0fbd-8f59-4120-b13a-f5ba35719828",
+                                          "image": {
+                                            "height": 339.1313782953207,
+                                            "src": "xap:resources/059b0d51e39de1068a7418cb2449f9207cf36158dc38606c214ffafd48124508.png",
+                                            "width": 626.3170312500015
+                                          }
+                                        },
+                                        {
+                                          "id": "754ef245-cf01-4ff3-ac57-8c29a67dc2cc",
+                                          "image": {
+                                            "height": 278.57903704588983,
+                                            "src": "xap:resources/2e8d4ba3498d27c4193db395f23f08d1e59f85a0da10304f387d6eafcc3defc0.png",
+                                            "width": 394.8423750000011
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "id": "760105ac-91e1-4c9c-852e-5fa280061592",
+                                    "title": "General"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "b24ca7fe-c981-4de4-a143-1a49a19dcadb",
+                                          "title": "Create a variable i and set it to 1, representing the index of the first element."
+                                        },
+                                        {
+                                          "id": "a2671533-71ce-475c-b2f7-5521ba441abe",
+                                          "title": "Iterate through the elements of the data structure, checking if the value at index i is equal to the target value."
+                                        },
+                                        {
+                                          "id": "5e5e8b4b-dba6-436d-a7c2-6f7bbdeef16a",
+                                          "title": "If a match is found, return true."
+                                        },
+                                        {
+                                          "id": "88736c8f-58a1-4be5-aead-b392ad216543",
+                                          "title": "If no match is found after examining all elements, return false."
+                                        }
+                                      ]
+                                    },
+                                    "id": "d41eb97d-7092-424b-aa23-a59cc0c56285",
+                                    "title": "if a value is present in a data structure"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "b95ccea9-2831-4d4a-acb1-fab1b17c6f0f",
+                                          "title": "Create a variable i and set it to 1, representing the index of the first element."
+                                        },
+                                        {
+                                          "id": "27a41099-26d7-4720-9b5c-735563505617",
+                                          "title": "Iterate through the elements of the data structure, checking if the value at index i is equal to the target value."
+                                        },
+                                        {
+                                          "id": "86dea07e-84c0-4359-b4cc-832515102896",
+                                          "title": "If a match is found, return the index i."
+                                        },
+                                        {
+                                          "id": "69d1b7e9-c0f9-40cf-bf4b-350a0a478fff",
+                                          "title": "If no match is found after examining all elements, return false."
+                                        }
+                                      ]
+                                    },
+                                    "id": "841ca61a-fe2b-4edc-b89c-90040e3e8eeb",
+                                    "title": "the index of a value in a data structure"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "e6eb8f4a-3a25-43fd-a947-7ac5caace706",
+                                          "title": "This means that the algorithm's performance is directly proportional to the size of the data structure."
+                                        }
+                                      ]
+                                    },
+                                    "id": "7c19dbc9-cd72-494d-adf5-c65272706674",
+                                    "title": "O(n)"
+                                  }
+                                ]
+                              },
+                              "id": "8265ce37-b3c5-4697-afd1-ba2389105818",
+                              "title": "Linear search algorithm"
+                            },
+                            {
+                              "branch": "folded",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "609c962c-e84b-44ff-8a1c-7ce1deb7f6ac",
+                                    "image": {
+                                      "height": 370.97856810224164,
+                                      "src": "xap:resources/e01d12dca336fac5339331f26c87e7527159ee8b3b18118017470a59bb9a32bd.png",
+                                      "width": 599.9517500000011
+                                    }
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "eebdbc52-6ca6-43e8-8c62-4d1b4e6cedf7",
+                                          "image": {
+                                            "height": 431.30575448207264,
+                                            "src": "xap:resources/8d7b1d5cd7a065a6d052a89c9b3bf5f8f8ded0f5bf24ae9af93913e4f97c506a.png",
+                                            "width": 492.0806562500011
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "id": "142cabf9-16ea-4321-8784-9cd746967211",
+                                    "notes": {
+                                      "plain": {
+                                        "content": "var fs = require('fs');\nvar text = fs.readFileSync(\"./pi.txt\").toString('utf-8');\nvar textByLine = text.split(\"\\n\")\n\n// now for the function that determines if numbers appear in Pi\n// it takes as input your number, converts it into an array and then searches the arrays\n\nfunction isInPi(n) {\n    // this will convert your number into an array with each element being a single digit stored as a string\n    var n = n.toString().split(\"\");\n\n    // this will not search through Pi to see if it is there\n    for (var i = 0; i < text.length; i++) {\n        if (text[i] === n[0]) {\n            var counter = 0;\n            for (var j = 0; j < n.length; j++) {\n                if (text[i + j] === n[j]) {\n                    counter++;\n                } else {\n                    break;\n                }\n            }\n            if (counter === n.length) {\n                return [true, i];\n            }\n        }\n    }\n    return \"maybe\";\n}\n\nvar readline = require('readline');\n\nvar rl = readline.createInterface({\n    input: process.stdin,\n    output: process.stdout\n});\n\nrl.question(\"What's your birthday? \", function(answer) {\n    if (isInPi(answer)[0] === true) {\n        console.log(\"Your birthday is at position \" + isInPi(answer)[1]);\n    } else {\n        console.log(\"Your birthday might be in PI\");\n    }\n    rl.close();\n});\n"
+                                      },
+                                      "realHTML": {
+                                        "content": "<div>var fs = require('fs');<br>var text = fs.readFileSync(\"./pi.txt\").toString('utf-8');<br>var textByLine = text.split(\"\\n\")<br><br>// now for the function that determines if numbers appear in Pi<br>// it takes as input your number, converts it into an array and then searches the arrays<br><br>function isInPi(n) {<br>&nbsp; &nbsp; // this will convert your number into an array with each element being a single digit stored as a string<br>&nbsp; &nbsp; var n = n.toString().split(\"\");<br><br>&nbsp; &nbsp; // this will not search through Pi to see if it is there<br>&nbsp; &nbsp; for (var i = 0; i &lt; text.length; i++) {<br>&nbsp; &nbsp; &nbsp; &nbsp; if (text[i] === n[0]) {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; var counter = 0;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; for (var j = 0; j &lt; n.length; j++) {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; if (text[i + j] === n[j]) {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; counter++;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; } else {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; break;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; if (counter === n.length) {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return [true, i];<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; }<br>&nbsp; &nbsp; return \"maybe\";<br>}<br><br>var readline = require('readline');<br><br>var rl = readline.createInterface({<br>&nbsp; &nbsp; input: process.stdin,<br>&nbsp; &nbsp; output: process.stdout<br>});<br><br>rl.question(\"What's your birthday? \", function(answer) {<br>&nbsp; &nbsp; if (isInPi(answer)[0] === true) {<br>&nbsp; &nbsp; &nbsp; &nbsp; console.log(\"Your birthday is at position \" + isInPi(answer)[1]);<br>&nbsp; &nbsp; } else {<br>&nbsp; &nbsp; &nbsp; &nbsp; console.log(\"Your birthday might be in PI\");<br>&nbsp; &nbsp; }<br>&nbsp; &nbsp; rl.close();<br>});</div>"
+                                      }
+                                    },
+                                    "title": "JS"
+                                  }
+                                ]
+                              },
+                              "id": "624b1a24-d1b3-4789-a5db-626b268b91d7",
+                              "title": "Searching π"
+                            },
+                            {
+                              "branch": "folded",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "5eee2542-f5bf-494d-8198-567c90dd6ffb",
+                                          "title": "Searching stacks and queues is different from searching vectors because we cannot select arbitrary elements directly."
+                                        },
+                                        {
+                                          "id": "ee6913b1-8f1d-4768-be2e-bd18054f52d7",
+                                          "title": "Popping or dequeuing elements can destroy the data structures, making them unusable for further searches."
+                                        },
+                                        {
+                                          "id": "4d198d6f-3596-4ab0-a8a2-0ceea49fc464",
+                                          "title": "In the forum, further discussion will be held on how to search stacks and queues while preserving the original data."
+                                        }
+                                      ]
+                                    },
+                                    "id": "c5093340-775c-4114-b5bb-81da0c565d56",
+                                    "title": "Problems"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "9404808c-7f4f-4b69-8c6e-580358f80539",
+                                          "image": {
+                                            "height": 408.10210323886787,
+                                            "src": "xap:resources/5fe0f2dbe5c42941368efdf38c6043149de7e3f3fbd6b92143afbd830cc6765a.png",
+                                            "width": 549.0262500000019
+                                          },
+                                          "title": "Create an empty second stack."
+                                        },
+                                        {
+                                          "id": "87401130-9cda-42c8-8160-ba3127695217",
+                                          "title": "Check the top of the initial stack to see if it has the desired value. If not, push the top element to the second stack and pop it from the initial stack."
+                                        },
+                                        {
+                                          "id": "8c26c000-55df-44c1-8e1d-0822f1492eb1",
+                                          "title": "Repeat step 2 until the initial stack is empty."
+                                        },
+                                        {
+                                          "id": "f72c9d35-c34b-462e-a7c7-7660bbf335d0",
+                                          "title": "If the desired value is found, return true. Otherwise, return false."
+                                        }
+                                      ]
+                                    },
+                                    "id": "6dbba402-894f-4c24-b7f5-6c6c6569c877",
+                                    "title": "Searching a stack"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "8b0d3361-2998-4a37-8200-5207f57cf08e",
+                                          "image": {
+                                            "height": 312.11981060529587,
+                                            "src": "xap:resources/ca16a339c8ff09a9f7dce6ca483af1dee46779a415e50686450e511b1157b5ee.png",
+                                            "width": 432.3540937500011
+                                          },
+                                          "title": "If the queue is empty, return false."
+                                        },
+                                        {
+                                          "id": "52ee6fc9-cb9f-44a5-8290-0c7745120491",
+                                          "title": "Check if the head of the queue is equal to the desired value. If so, return true and stop."
+                                        },
+                                        {
+                                          "id": "0525dfc6-4df5-44ff-ad35-ec58d885afc1",
+                                          "title": "Create a new variable y and set it equal to the value at the head of the queue."
+                                        },
+                                        {
+                                          "id": "81156118-9899-47a1-95f8-14abed48b0dc",
+                                          "title": "Dequeue the head element from the queue and enqueue it to the back."
+                                        },
+                                        {
+                                          "id": "8d6c5265-c939-4c3f-8c75-c017aabce2ab",
+                                          "title": "Repeat steps 2-4 until the head of the queue is equal to a special value known as the \"end of queue\"."
+                                        },
+                                        {
+                                          "id": "64f6e449-1b46-4410-82c7-9dc467849ca2",
+                                          "title": "If the \"end of queue\" value is reached, return false."
+                                        }
+                                      ]
+                                    },
+                                    "id": "fcd42292-494d-4021-9d83-ba54a6c83790",
+                                    "title": "Searching a queue"
+                                  }
+                                ]
+                              },
+                              "id": "5bea6c8b-d8b6-414b-9677-681a139304f0",
+                              "title": "Searching Stacks and Queues"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "4093db72-a39c-4ded-a868-4912435d877d",
+                                    "title": "Binary Search is an efficient algorithm for finding an item in a sorted list. It works by repeatedly dividing the search interval in half. If the value of the search key is less than the item in the middle of the interval, the search continues in the lower half, otherwise, it continues in the upper half. This process is repeated until the item is found or the interval is empty."
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "ee7477cf-9dcc-4655-a7b9-1dea73fc35a4",
+                                                "title": "Start with the entire list: 3, 7, 10, 14, 18, 21, 41, 45, 56."
+                                              },
+                                              {
+                                                "id": "a34cff84-0048-4db5-8b99-0ebccd125fb6",
+                                                "title": "The first step is to identify the middle item of the list. In this case, the middle item is 18."
+                                              }
+                                            ]
+                                          },
+                                          "id": "b7f87f24-8cd4-4f6b-ac65-fc2909e73639",
+                                          "title": "Initial Setup"
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "48d873b9-a82b-4f8d-b7cb-4295f2a83bcb",
+                                                "title": "Compare 21 with 18."
+                                              },
+                                              {
+                                                "id": "4a7c517d-cb51-4c70-b154-880227696e86",
+                                                "title": "Since 21 is greater than 18, we can ignore the left half of the list (i.e., all numbers less than 18)."
+                                              },
+                                              {
+                                                "id": "5592f07d-2838-4202-803f-4c3c71ce3152",
+                                                "title": "•\tNew search space: 21, 41, 45, 56."
+                                              }
+                                            ]
+                                          },
+                                          "id": "ad7fdc4e-44d4-4a0e-9187-a51ed979ed60",
+                                          "title": "First Comparison"
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "fc6593f7-5c78-4337-86b7-57ccc8cfa86b",
+                                                "title": "•\tNow, the middle item of the new list is 41."
+                                              },
+                                              {
+                                                "id": "15465e6e-3303-42d9-adac-41bc4f09efe2",
+                                                "title": "•\tCompare 21 with 41."
+                                              },
+                                              {
+                                                "id": "3e312663-e88f-4ccc-83f3-239987305914",
+                                                "title": "•\tSince 21 is less than 41, we can ignore the right half of the list (i.e., all numbers greater than 41)."
+                                              },
+                                              {
+                                                "id": "70a684e9-84ba-461b-9e75-08b1e5066009",
+                                                "title": "•\tNew search space: 21."
+                                              }
+                                            ]
+                                          },
+                                          "id": "9223dcf8-aef3-410f-bcb2-2de62894081b",
+                                          "title": "Second Comparison"
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "6ae38f2a-6d61-4ad0-a458-9a0d9ce3265f",
+                                                "title": "•\tThe new middle item is 21, which is the item we’re searching for."
+                                              },
+                                              {
+                                                "id": "ff403c30-8618-4e69-826a-c9e450d8c51a",
+                                                "title": "•\tWe have found 21, and the search is complete."
+                                              }
+                                            ]
+                                          },
+                                          "id": "db1b8d6f-60ce-4e4b-8e8d-6a9bf055a9e6",
+                                          "title": "Final Comparison"
+                                        }
+                                      ]
+                                    },
+                                    "id": "a7fb64f2-a80e-4b73-bc20-469d73a18ee7",
+                                    "title": "Process"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "3af0b4f9-2871-44c5-abbb-518be6ca7523",
+                                          "image": {
+                                            "height": 176.78687429696288,
+                                            "src": "xap:resources/a1c73fe1e5a460848c1765b102a0e3f486e146840256504157f476a531fdc1af.png",
+                                            "width": 611.53125
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "id": "1a425920-882c-4278-9841-d2b04ffa0e93",
+                                    "notes": {
+                                      "plain": {
+                                        "content": "function binarySearch(list, item):\n    if length(list) == 0:\n        return \"Item not found\" // The list is empty\n    else:\n        middle = length(list) / 2\n        if list[middle] == item:\n            return \"Item found at position\" + middle\n        else if list[middle] > item:\n            return binarySearch(list[0:middle-1], item) // Search in the left sublist\n        else:\n            return binarySearch(list[middle+1:end], item) // Search in the right sublist\n"
+                                      },
+                                      "realHTML": {
+                                        "content": "<div>function binarySearch(list, item):<br>&nbsp; &nbsp; if length(list) == 0:<br>&nbsp; &nbsp; &nbsp; &nbsp; return \"Item not found\" // The list is empty<br>&nbsp; &nbsp; else:<br>&nbsp; &nbsp; &nbsp; &nbsp; middle = length(list) / 2<br>&nbsp; &nbsp; &nbsp; &nbsp; if list[middle] == item:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return \"Item found at position\" + middle<br>&nbsp; &nbsp; &nbsp; &nbsp; else if list[middle] &gt; item:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return binarySearch(list[0:middle-1], item) // Search in the left sublist<br>&nbsp; &nbsp; &nbsp; &nbsp; else:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; return binarySearch(list[middle+1:end], item) // Search in the right sublist</div>"
+                                      }
+                                    },
+                                    "title": "Pseudocode"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "dc266d75-ea48-439f-82ea-ac9a25fc3676",
+                                                "title": "If the list is empty, return “Item not found”. This is the base case for the recursion."
+                                              }
+                                            ]
+                                          },
+                                          "id": "5aac4085-31f7-4921-a9f5-41007eb159e8",
+                                          "title": "Base Case"
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "6aeebc62-73af-4135-b5de-63ba049bd5e2",
+                                                "title": "Calculate the middle index of the current list."
+                                              }
+                                            ]
+                                          },
+                                          "id": "41581ab3-297c-4c94-94b9-76508ca7ca85",
+                                          "title": "Middle Calculation"
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "b14e8cb2-5926-4034-9e69-089315ece1e3",
+                                                "title": "•\tIf the middle item is equal to the target item, return the position of the middle item."
+                                              },
+                                              {
+                                                "id": "b81ca442-8929-4028-af2b-626d3f67fd7e",
+                                                "title": "•\tIf the middle item is greater than the target item, continue the search in the left half of the list."
+                                              },
+                                              {
+                                                "id": "49ab036c-6d6b-4f2e-b325-630b0433590b",
+                                                "title": "•\tIf the middle item is less than the target item, continue the search in the right half of the list."
+                                              }
+                                            ]
+                                          },
+                                          "id": "42d4ab97-3dd4-49e1-98e9-30e54785b94c",
+                                          "title": "Comparison"
+                                        }
+                                      ]
+                                    },
+                                    "id": "471fa9b9-36c9-41a9-b0e9-baf65ee2e508",
+                                    "title": "Explanation"
+                                  },
+                                  {
+                                    "extensions": [
+                                      {
+                                        "content": {
+                                          "content": "O(\\log n)"
+                                        },
+                                        "provider": "org.xmind.ui.mathJax"
+                                      }
+                                    ],
+                                    "id": "20a761ce-9aec-4252-a195-6d4364879e3a",
+                                    "image": {
+                                      "isMathJaxImage": true,
+                                      "src": "xap:resources/39c815594f83cc8e2d555434ca988ed74aae465979f592c250a73fe1d0bcd029.png"
+                                    },
+                                    "title": "Time Complexity"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "3991ae10-0814-40b3-9ec3-3376075b008f",
+                                                "title": "Binary search requires that the list be sorted. If the list is not sorted, binary search cannot be applied directly."
+                                              }
+                                            ]
+                                          },
+                                          "id": "cdd3d327-02ab-4912-9772-732fb596b334",
+                                          "title": "Sorted List"
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "ebae5ac4-5c0e-4d9b-8922-ff4c0c7f4675",
+                                                "title": " Binary search can be implemented both recursively (as shown above) or iteratively."
+                                              }
+                                            ]
+                                          },
+                                          "id": "1b4a832d-fba8-4089-b9e4-1c137c273031",
+                                          "title": "Recursive or Iterative"
+                                        }
+                                      ]
+                                    },
+                                    "id": "7c0fcfda-48f8-46f3-9f8e-9dfa0dd5071e",
+                                    "title": "Limitations and Assumptions"
+                                  }
+                                ]
+                              },
+                              "id": "0c7ed66b-af1e-4913-8509-61cd340b5a32",
+                              "title": "Binary Search "
+                            }
+                          ]
+                        },
+                        "id": "d547bfd7-dc5e-4ffc-ad0e-36480ce5f9c8",
+                        "title": "Variants"
+                      }
+                    ]
+                  },
+                  "id": "3539da93c4281cac1e71d916a5",
+                  "title": "Search"
+                },
+                {
+                  "children": {
+                    "attached": [
+                      {
+                        "branch": "folded",
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "67a763b2-43c5-4126-a857-08e412e1ed61",
+                              "title": "This algorithm compares adjacent elements of the data structure and swaps them if they are in the wrong order. This process is repeated until the entire structure is sorted."
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "21891960-4993-4bc1-8bbc-63f0943caca8",
+                                          "title": "Create a swap function that swaps the values of two elements in the vector."
+                                        },
+                                        {
+                                          "id": "4e7ea839-1b30-459b-86a3-360f2e974533",
+                                          "title": "Iterate through the vector and compare neighboring elements. If they are in the wrong order, swap them."
+                                        },
+                                        {
+                                          "id": "7a882ee1-8658-4b8d-b3aa-a9fe4b56d117",
+                                          "title": "Repeat the iteration until no more swaps are needed."
+                                        },
+                                        {
+                                          "id": "20edc0a8-54d8-4fa3-a164-244f1a73e6ac",
+                                          "title": "The vector is sorted when no more swaps are needed."
+                                        }
+                                      ]
+                                    },
+                                    "id": "0ba56e73-eb00-4647-abff-d4b0cfda8725",
+                                    "title": "vectors"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "863840f9-7456-4204-bb8d-cf5e43e2f0b7",
+                                          "title": "Passes: n-1 (n = number of elements in the array)"
+                                        },
+                                        {
+                                          "id": "e6a0f908-781f-40ce-930a-e0b6e6c94945",
+                                          "title": "Comparison and swap: compare adjacent elements of the array and swap if necessary using the swap function."
+                                        }
+                                      ]
+                                    },
+                                    "id": "d5004033-f22e-48bd-b9f7-8a6b4daf2355",
+                                    "title": "arrays"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "fc66964a-b884-46e5-8570-66d6fcc2a3a5",
+                                          "title": "Similarity between vector and dynamic array operations"
+                                        }
+                                      ]
+                                    },
+                                    "id": "bf995e09-8bcc-4d8a-bb2a-d712f061d311",
+                                    "title": "dynamic arrays"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "a8ab51e5-069f-4fa5-9fae-c3fa74be5b2f",
+                                          "title": "Transfer the top element of the first stack to the second stack."
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "d6b2d761-be19-4fe1-ac11-98ebec6e1e0f",
+                                                "title": "If the top of the second stack is smaller than the top of the first stack, no swapping is needed."
+                                              },
+                                              {
+                                                "id": "be65359b-d57e-42d4-a9bd-027769c75db2",
+                                                "title": "If the top of the second stack is larger than the top of the first stack, swap the values on the tops of the stack."
+                                              }
+                                            ]
+                                          },
+                                          "id": "408e100f-0e1b-4162-b829-907e53fa937d",
+                                          "title": "Compare the tops of the two stacks."
+                                        },
+                                        {
+                                          "id": "4fa48d66-8b15-4f2f-9754-78f18e223328",
+                                          "title": "Push the next element from the first stack to the second stack."
+                                        },
+                                        {
+                                          "id": "6a61f81d-ab43-42ef-9558-c59aad40519f",
+                                          "title": "Repeat the comparison and swapping until the stack is sorted."
+                                        }
+                                      ]
+                                    },
+                                    "id": "56ddc4c3-020c-4515-8b9a-e14db0b44f17",
+                                    "title": "stack"
+                                  }
+                                ]
+                              },
+                              "id": "c102cfc8-2a66-4bf8-ab96-a9bdfdc867e3",
+                              "title": "Data structures "
+                            }
+                          ]
+                        },
+                        "id": "cf99bd3b-f3ac-47f2-aa43-ee7828e8334c",
+                        "title": "Bubble Sort"
+                      },
+                      {
+                        "branch": "folded",
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "39890ffe-27bd-4fb8-9979-cf591038c701",
+                              "title": "This algorithm starts with an empty sorted portion of the data structure and iteratively inserts elements from the unsorted portion into their correct position in the sorted portion."
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "6381b960-f097-48bc-a5a0-d3124f2c1b68",
+                                    "title": "Comparing elements with all previous elements"
+                                  },
+                                  {
+                                    "id": "b4423649-81cc-4c1d-a1bc-721eff168f56",
+                                    "title": "If element is smaller than previous elements but larger than element k for k less than j, the element is inserted at element k+1 and other values are shifted forward"
+                                  },
+                                  {
+                                    "id": "a7eca821-f61d-41e9-851d-34c685298be0",
+                                    "title": "Utilizes a shift function"
+                                  }
+                                ]
+                              },
+                              "id": "fe54dccc-1eac-4337-95c6-37811beae8ec",
+                              "title": "Comparisons"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "58558e30-5b79-4415-88fd-f155a76892ba",
+                                    "title": "Starting with an initial vector"
+                                  },
+                                  {
+                                    "id": "67d65e88-c52b-499e-9eb7-4925cdd4332b",
+                                    "title": "Compare each element with previous elements"
+                                  },
+                                  {
+                                    "id": "762e3793-e3c7-4cb5-ad77-2adfaa36532f",
+                                    "title": "Insert element at correct position and shift other elements"
+                                  },
+                                  {
+                                    "id": "4c2b0cfe-bb47-4a73-94f6-38b7585fcc5a",
+                                    "title": "Repeat until all elements are sorted"
+                                  }
+                                ]
+                              },
+                              "id": "7b586cee-8b6f-48ab-875f-03453831e91d",
+                              "title": "Illustration"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "6a022648-1352-440f-bdaf-72801bb65351",
+                                    "image": {
+                                      "height": 236.51768642447416,
+                                      "src": "xap:resources/181f8228f1d8a9286a65485ba56da5da6df692c994b3f3e32202028a95757f1d.png",
+                                      "width": 293.125
+                                    }
+                                  }
+                                ]
+                              },
+                              "id": "c4ce2acf-2edd-4aad-b860-02f83bf6e1a8",
+                              "title": "Shift"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "d3c1d192-5ea1-4391-b5b1-5e95be24d98a",
+                                    "image": {
+                                      "height": 219.0090353764837,
+                                      "src": "xap:resources/164fdc56da0ee9e4eea0f815dfc21eda7010af1a5cfd0b5c976f14b108982000.png",
+                                      "width": 385.41015625
+                                    }
+                                  }
+                                ]
+                              },
+                              "id": "142bc243-c5c5-4454-89e6-1fa63b6c2187",
+                              "title": "Algo"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "id": "75dec6ac-3f55-4664-b69b-0b9192621b46",
+                                    "image": {
+                                      "height": 138.76469809322032,
+                                      "src": "xap:resources/925d2e9ca7d9370286527aa1477c6389820ecd509a676f8cc5593356867f238c.png",
+                                      "width": 303.2265625
+                                    }
+                                  }
+                                ]
+                              },
+                              "id": "204a8ad9-de1d-49ea-b077-809bc3767914",
+                              "title": "Comparing"
+                            }
+                          ]
+                        },
+                        "id": "8f5520e3-7292-44b9-b335-c67462800524",
+                        "title": "Insertion Sort"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "ba5a93ba-e831-476a-9504-00d0e674f3bf",
+                              "image": {
+                                "height": 486.0433999260842,
+                                "src": "xap:resources/682b0ab527519257b11481f2058433ab16b1da83e09d85fb88f9f690880940a7.png",
+                                "width": 750.26171875
+                              },
+                              "title": "Complexity"
+                            },
+                            {
+                              "id": "a82cb8b2-6093-40f5-8e15-d41bf63ba209",
+                              "image": {
+                                "height": 436.2630716703401,
+                                "src": "xap:resources/37c46d7a30a9794cb4bbc7a2173b379d87b52d2d98f752a493b1174071385fab.png",
+                                "width": 751.39453125
+                              },
+                              "title": "Graph"
+                            }
+                          ]
+                        },
+                        "id": "9b5717b4-2190-4b0f-b2ac-3e74e6e4b09c",
+                        "title": "All"
+                      }
+                    ]
+                  },
+                  "id": "009781d7-d00c-45c8-802c-ed93fa8c745d",
+                  "title": "Sorting"
+                },
+                {
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "branch": "folded",
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "cebc9d9e-fa8f-471e-b096-a85ad74489a1",
+                                          "title": "O(f(n))"
+                                        },
+                                        {
+                                          "id": "2ba81e1a-624b-4277-9ce1-508af0a09767",
+                                          "title": "In computational complexity theory, non-deterministic space or NSPACE is the computational resource describing the memory space for a non-deterministic Turing machine."
+                                        }
+                                      ]
+                                    },
+                                    "id": "d7991bd0-7236-4b1b-97d3-d3494db31c2e",
+                                    "title": "NSPACE(f(n))"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "cb01fde9-63e9-4b46-aa9c-1ff0c5f406da",
+                                          "title": "O(log n)"
+                                        }
+                                      ]
+                                    },
+                                    "id": "cafba1f6-9be1-4d71-9f17-d6ddc8098c92",
+                                    "title": "NL"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "b7960fe0-7447-441a-996d-66341b0f35d8",
+                                          "title": "O(poly(n))"
+                                        }
+                                      ]
+                                    },
+                                    "id": "850bace7-e1de-43d9-a65a-5688dda244e1",
+                                    "title": "NPSPACE"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "extensions": [
+                                            {
+                                              "content": {
+                                                "content": "O(2^{poly(n)})"
+                                              },
+                                              "provider": "org.xmind.ui.mathJax"
+                                            }
+                                          ],
+                                          "id": "7635a594-49dd-48c0-b64f-c363618fb64c",
+                                          "image": {
+                                            "isMathJaxImage": true,
+                                            "src": "xap:resources/07f55a2dc4a34477135f700ac71b3ea37c8fe087a85cfa1a6feff37607c93be6.png"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "id": "3f7ee30d-bedc-47ea-aaa9-b55561571666",
+                                    "title": "NEXSPACE"
+                                  }
+                                ]
+                              },
+                              "id": "1871aee0-c3dd-4185-be1a-cf42cb447e13",
+                              "title": "Non-Deterministic\t"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "2883967f-cbbf-49d8-8806-5c5928e71c5d",
+                                          "title": "O(f(n))"
+                                        }
+                                      ]
+                                    },
+                                    "id": "749eba07-292a-4f08-abea-45128f214479",
+                                    "title": "DSPACE(f(n))"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "62c12768-6ca3-40c8-be3e-34113e6c822a",
+                                          "title": "O(log(n))"
+                                        }
+                                      ]
+                                    },
+                                    "id": "fb897d9c-2de7-4ce0-97b1-6f0e536ff73a",
+                                    "title": "L"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "44ace6ad-6e1b-41a7-abe8-68fed3c1179e",
+                                          "title": "O(poly(n))"
+                                        },
+                                        {
+                                          "id": "b6f9c52d-789e-446d-95a5-a02bb6080735",
+                                          "title": "the set of all decision problems"
+                                        },
+                                        {
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "id": "3378c5ce-d91f-4728-9f97-4e3a322a06f5",
+                                                "title": "a mathematical expression consisting of indeterminates (also called variables) and coefficients, that involves only the operations of addition, subtraction, multiplication, and positive-integer powers of variables. "
+                                              }
+                                            ]
+                                          },
+                                          "id": "756b62f9-a367-4af7-a601-edfc276a3aa2",
+                                          "title": "Polynomial"
+                                        },
+                                        {
+                                          "extensions": [
+                                            {
+                                              "content": {
+                                                "content": "{PSPACE}=\\bigcup _{k\\in \\mathbb {N} }{\\mathsf {SPACE}}(n^{k})"
+                                              },
+                                              "provider": "org.xmind.ui.mathJax"
+                                            }
+                                          ],
+                                          "id": "0fb592b4-242e-476f-83cf-6186cafaf557",
+                                          "image": {
+                                            "isMathJaxImage": true,
+                                            "src": "xap:resources/75b7a81981862cab9554bbd96bd6cdebb1b3690543a01f6e33c558a12ec4c3bf.png"
+                                          }
+                                        },
+                                        {
+                                          "id": "a629103f-ecd4-472f-97fd-df12fc176498",
+                                          "title": "PSPACE is a strict superset of the set of context-sensitive languages"
+                                        }
+                                      ]
+                                    },
+                                    "id": "a8cccfbd-1bdb-46af-bcb7-bbbc0f78631b",
+                                    "title": "PSPACE"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "extensions": [
+                                            {
+                                              "content": {
+                                                "content": "O(2^{poly(n)})"
+                                              },
+                                              "provider": "org.xmind.ui.mathJax"
+                                            }
+                                          ],
+                                          "id": "7bd0c00d-5734-4d1e-8dc3-a9e540ea2d7a",
+                                          "image": {
+                                            "isMathJaxImage": true,
+                                            "src": "xap:resources/07f55a2dc4a34477135f700ac71b3ea37c8fe087a85cfa1a6feff37607c93be6.png"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "id": "0bf4d78c-3923-4d10-9592-83d705ed2cbd",
+                                    "title": "EXPSPACE"
+                                  }
+                                ]
+                              },
+                              "id": "12df6b31-9216-4f6f-a07c-4da7fbbc1e92",
+                              "title": "Deterministic"
+                            }
+                          ]
+                        },
+                        "id": "f5063e3c-2361-4f8a-b8cf-8fcb920aa36b",
+                        "title": "Space"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "3a2b6de9-fcda-4e05-85c5-cf8c0e3c0680",
+                                          "title": "O(f(n))"
+                                        }
+                                      ]
+                                    },
+                                    "id": "e9ebfc1b-5be0-4ac1-9660-8cd7a0858495",
+                                    "title": "NTIME(f(n))"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "5cacd5d1-4487-42db-905e-302a32dd2f5c",
+                                          "title": "O(poly(n))"
+                                        }
+                                      ]
+                                    },
+                                    "id": "fde4455f-0c2b-4fc8-85f7-c639e9e75e86",
+                                    "title": "NP"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "extensions": [
+                                            {
+                                              "content": {
+                                                "content": "O(2^{poly(n)})"
+                                              },
+                                              "provider": "org.xmind.ui.mathJax"
+                                            }
+                                          ],
+                                          "id": "e6401a3c-3e61-4e43-b3f3-90490b04f4af",
+                                          "image": {
+                                            "isMathJaxImage": true,
+                                            "src": "xap:resources/07f55a2dc4a34477135f700ac71b3ea37c8fe087a85cfa1a6feff37607c93be6.png"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "id": "38162c79-749a-46ed-aafa-b68e4523b885",
+                                    "title": "NEXPTIME"
+                                  }
+                                ]
+                              },
+                              "id": "7b0a7015-2dd6-4e50-bca8-75cc6a0f956c",
+                              "title": "Non-Deterministic\t"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "d40afa14-7ceb-4679-b49e-4e4386eb7a89",
+                                          "title": "O(f(n))"
+                                        }
+                                      ]
+                                    },
+                                    "id": "1abe9549-16fa-40c0-a849-81bd778afd04",
+                                    "title": "DTIME(f(n))"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "id": "0f76d62f-d5cc-45f2-9d20-29868d132e41",
+                                          "title": "O(poly(n))"
+                                        }
+                                      ]
+                                    },
+                                    "id": "e0b8ada2-d651-4565-894d-20d8bc47dd51",
+                                    "title": "P"
+                                  },
+                                  {
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "extensions": [
+                                            {
+                                              "content": {
+                                                "content": "O(2^{poly(n)})"
+                                              },
+                                              "provider": "org.xmind.ui.mathJax"
+                                            }
+                                          ],
+                                          "id": "d58a8c26-2e1b-47a8-8875-77080722f4c3",
+                                          "image": {
+                                            "isMathJaxImage": true,
+                                            "src": "xap:resources/07f55a2dc4a34477135f700ac71b3ea37c8fe087a85cfa1a6feff37607c93be6.png"
+                                          }
+                                        }
+                                      ]
+                                    },
+                                    "id": "b08d1da9-8cb3-4662-9c43-bbbe176b6cd9",
+                                    "title": "EXPTIME"
+                                  }
+                                ]
+                              },
+                              "id": "96869306-95a4-4184-8b21-7b3a05a82af0",
+                              "title": "Deterministic"
+                            }
+                          ]
+                        },
+                        "id": "5eadfe92-59a3-478e-98c4-d47aaff3b0c0",
+                        "title": "Time"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "323c9ad1-f6b3-44e5-9f13-b411ef326077",
+                              "image": {
+                                "height": 264.4185424804688,
+                                "src": "xap:resources/e2e75a68a7f0b74a98ac1dc22c2443c8f9bd9ae52574ccbf7e4163d06d7131f5.png",
+                                "width": 290.76953125
+                              }
+                            },
+                            {
+                              "id": "982ca411-46b0-483a-8987-721d4f5c11f1",
+                              "image": {
+                                "height": 190.11720657348633,
+                                "src": "xap:resources/ba84035167242ffb84869a5606ca90325aa4d6fc9841a9f222e304b717032157.png",
+                                "width": 321.78515625
+                              }
+                            }
+                          ]
+                        },
+                        "id": "04f30469-dfdf-4aca-a8f0-751dbb9455bd",
+                        "title": "Representation"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "d7047708-9e08-4211-9459-a311d5a379c7",
+                              "title": "O(1)"
+                            }
+                          ]
+                        },
+                        "id": "e305ec9e-9edd-4467-b3df-282b183cd47b",
+                        "title": "REG"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "adf29e1a-1cd7-4d0c-8f75-65b1a4271f0c",
+                              "title": "a theoretical model of computation whose governing rules specify more than one possible action when in some given situations."
+                            }
+                          ]
+                        },
+                        "id": "8d428e07-8e41-40b4-83e0-8ac283cd11ed",
+                        "title": "Nondeterministic Turing machine"
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "id": "e5d733df-24d6-496e-ba9a-f106fafd8ba3",
+                              "title": "In a deterministic Turing machine (DTM), the set of rules prescribes at most one action to be performed for any given situation."
+                            }
+                          ]
+                        },
+                        "id": "96616ef3-e65b-4a03-8649-c66207c6c82e",
+                        "title": "Deterministic Turing machine"
+                      },
+                      {
+                        "id": "437e6091-d1d4-40a3-ad7e-c8f867068816",
+                        "image": {
+                          "height": 178.31000228785382,
+                          "src": "xap:resources/de6e357773faa9eac146d680b959195b16691aa1387caa0e60eab0aad8389423.png",
+                          "width": 811.8508437500011
+                        }
+                      },
+                      {
+                        "children": {
+                          "attached": [
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "extensions": [
+                                      {
+                                        "content": {
+                                          "content": "T(n) = O(n^{\\log_b{a}})"
+                                        },
+                                        "provider": "org.xmind.ui.mathJax"
+                                      }
+                                    ],
+                                    "id": "71f115c6-a99d-4e4d-be9d-54c02149af5e",
+                                    "image": {
+                                      "isMathJaxImage": true,
+                                      "src": "xap:resources/90c9592fb94cba65268a9ccefa9248d0411b6e69d885c22e0fbec779e5995ead.png"
+                                    }
+                                  }
+                                ]
+                              },
+                              "extensions": [
+                                {
+                                  "content": {
+                                    "content": "d < \\log_b{a}"
+                                  },
+                                  "provider": "org.xmind.ui.mathJax"
+                                }
+                              ],
+                              "id": "2bc2f161-7791-4dc6-b7fb-98f9d4da94b4",
+                              "image": {
+                                "isMathJaxImage": true,
+                                "src": "xap:resources/058388d15819f855c76bf3b3004a6f6f991775cac42cb434970a585efaa4738b.png"
+                              },
+                              "title": "Case 1"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "extensions": [
+                                      {
+                                        "content": {
+                                          "content": "T(n) = O(n^d \\log n)"
+                                        },
+                                        "provider": "org.xmind.ui.mathJax"
+                                      }
+                                    ],
+                                    "id": "f60077cb-c8a3-4e77-a211-7d2ab4f3cd71",
+                                    "image": {
+                                      "isMathJaxImage": true,
+                                      "src": "xap:resources/5686c532849a21042dbe4eeebbb522dfec04d531d2c993b576186e0eb60b2b16.png"
+                                    }
+                                  }
+                                ]
+                              },
+                              "extensions": [
+                                {
+                                  "content": {
+                                    "content": "d = \\log_b{a}"
+                                  },
+                                  "provider": "org.xmind.ui.mathJax"
+                                }
+                              ],
+                              "id": "d7656e2d-819a-4a50-8bee-e652e4a5c38b",
+                              "image": {
+                                "isMathJaxImage": true,
+                                "src": "xap:resources/de3456c25626a83313001d5ae65733a57ce4bcba635a6965b38ed633db44e9e5.png"
+                              },
+                              "title": "Case 2"
+                            },
+                            {
+                              "children": {
+                                "attached": [
+                                  {
+                                    "extensions": [
+                                      {
+                                        "content": {
+                                          "content": " T(n) = O(n^d) "
+                                        },
+                                        "provider": "org.xmind.ui.mathJax"
+                                      }
+                                    ],
+                                    "id": "9107642a-ad78-4859-a7a8-f25824338ede",
+                                    "image": {
+                                      "isMathJaxImage": true,
+                                      "src": "xap:resources/b53b8ace36687eff328a739d95b8d4109dbbc6b05d68c805dafc5f755705ff01.png"
+                                    }
+                                  }
+                                ]
+                              },
+                              "extensions": [
+                                {
+                                  "content": {
+                                    "content": " d > \\log_b{a} "
+                                  },
+                                  "provider": "org.xmind.ui.mathJax"
+                                }
+                              ],
+                              "id": "7a8b55a0-68b5-4411-ba27-e5d1e44e0238",
+                              "image": {
+                                "isMathJaxImage": true,
+                                "src": "xap:resources/70eab7e038c271b2485270a7c2002fcf6a27d1fba9dd2e002b3f3fb2ef7266e8.png"
+                              },
+                              "title": "Case 3"
+                            }
+                          ]
+                        },
+                        "extensions": [
+                          {
+                            "content": {
+                              "content": "T(n) = aT\\left(\\frac{n}{b}\\right) + O(n^d)"
+                            },
+                            "provider": "org.xmind.ui.mathJax"
+                          }
+                        ],
+                        "id": "96f6abb9-be60-4e47-b9d0-bf2cb79821e9",
+                        "image": {
+                          "isMathJaxImage": true,
+                          "src": "xap:resources/3c9deef83e9bbbb96bbcba27f386bd10e1f4c7107fc584de3fea20b6da026170.png"
+                        },
+                        "title": "Master Theorem"
+                      }
+                    ]
+                  },
+                  "id": "f4dd6d9d-8bc2-4b6c-991b-8eab2cd6a1db",
+                  "title": "Complexity classes"
+                }
+              ]
+            },
+            "id": "cb45e84b-2466-4de5-8aa8-76765a06dfea",
+            "title": "Algorithms"
+          }
+        ]
+      },
+      "class": "topic",
+      "id": "ec2937d679fac94ab7e4aa0d63",
+      "structureClass": "org.xmind.ui.map.clockwise",
+      "title": "Algorithms and Data Structures"
+    },
+    "theme": {
+      "boundary": {
+        "id": "2b7a8730-e810-4efc-9797-5e7e71e2f2d8",
+        "properties": {
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "'NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "#000229",
+          "line-pattern": "dash",
+          "line-width": "2",
+          "shape-class": "org.xmind.boundaryShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "calloutTopic": {
+        "id": "733186c1-a97e-47ea-bd5a-552f64b278df",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "#000229",
+          "border-line-pattern": "inherited",
+          "border-line-width": "inherited",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "centralTopic": {
+        "id": "47d059d6-2774-4661-b055-b031af920212",
+        "properties": {
+          "alignment-by-level": "inactived",
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "30pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.curve",
+          "line-color": "#000229",
+          "line-pattern": "solid",
+          "line-width": "3pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
+      "expiredTopic": {
+        "id": "7ab098d9-c466-44fe-9f17-e074bc1c1a52",
+        "properties": {
+          "fill-pattern": "none",
+          "fo:text-decoration": "line-through"
+        }
+      },
+      "floatingTopic": {
+        "id": "9006c7cd-bb2c-45a0-b0e0-52dc9859aef7",
+        "properties": {
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "border-line-color": "#EEEBEE",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "solid",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#EEEBEE"
+        }
+      },
+      "importantTopic": {
+        "id": "94ddf94f-e5bc-42e3-b34e-56c864b0a453",
+        "properties": {
+          "border-line-color": "#460400",
+          "fill-pattern": "solid",
+          "svg:fill": "#460400"
+        }
+      },
+      "mainTopic": {
+        "id": "aaec1be9-21ff-4b15-ac3a-50ef17667ff2",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "18pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "inherited"
+        }
+      },
+      "map": {
+        "id": "31ff60bf-85af-4a06-9f36-f927fea2cbfa",
+        "properties": {
+          "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
+          "line-tapered": "none",
+          "multi-line-colors": "#F9423A #F6A04D #F3D321 #00BC7B #486AFF #4D49BE",
+          "svg:fill": "#ffffff"
+        }
+      },
+      "minorTopic": {
+        "id": "be8fffd6-8edc-40b2-ae24-79db66d6ed55",
+        "properties": {
+          "border-line-color": "#703D00",
+          "fill-pattern": "solid",
+          "svg:fill": "#703D00"
+        }
+      },
+      "relationship": {
+        "id": "493249e3-06e0-4bdb-90dd-a9f86027a84e",
+        "properties": {
+          "arrow-begin-class": "org.xmind.arrowShape.none",
+          "arrow-end-class": "org.xmind.arrowShape.triangle",
+          "fo:color": "inherited",
+          "fo:font-family": "'NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
+          "fo:font-size": "13pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "#000229",
+          "line-pattern": "dash",
+          "line-width": "2",
+          "shape-class": "org.xmind.relationshipShape.curved"
+        }
+      },
+      "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
+      "subTopic": {
+        "id": "7d8dd7fc-8c80-4c92-9279-5c64d7b05039",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "inherited"
+        }
+      },
+      "summary": {
+        "id": "16004ef1-9e4f-4dad-8270-5155cad949a6",
+        "properties": {
+          "line-color": "#000229",
+          "line-pattern": "solid",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.summaryShape.round"
+        }
+      },
+      "summaryTopic": {
+        "id": "ce0460bf-0f24-485f-8336-126f05fa1e45",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "#000229",
+          "border-line-pattern": "inherited",
+          "border-line-width": "inherited",
+          "fill-pattern": "none",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      }
+    },
+    "title": "Map 1"
+  }
+]
