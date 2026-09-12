@@ -3,3 +3,4 @@ __pycache__/
 *.py[cod]
 *.tmp
 *.swp
+maps/*/.candidate-state.json
