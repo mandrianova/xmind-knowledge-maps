@@ -1,0 +1,25 @@
+{
+  "name": "xmind-knowledge-maps",
+  "version": "0.1.0",
+  "description": "Create and version rich, editable Xmind knowledge maps from structured source.",
+  "author": {
+    "name": "Xmind Knowledge Maps contributors"
+  },
+  "license": "MIT",
+  "keywords": ["xmind", "mind-map", "knowledge-map", "latex", "codex"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Xmind Knowledge Maps",
+    "shortDescription": "Build editable, versioned Xmind maps.",
+    "longDescription": "Generate, inspect, import, synchronize, and release editable Xmind knowledge maps with diagrams, links, copyable code, and native LaTeX formulas.",
+    "developerName": "Xmind Knowledge Maps contributors",
+    "category": "Productivity",
+    "capabilities": ["Write"],
+    "brandColor": "#00A66C",
+    "defaultPrompt": [
+      "Turn this subject into an illustrated Xmind knowledge map.",
+      "Import this Xmind workbook and preserve its editable source.",
+      "Update this Xmind map and create a versioned release."
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Xmind Knowledge Maps"
+  short_description: "Build rich, editable Xmind knowledge maps"
+  brand_color: "#00A66C"
+  default_prompt: "Use $xmind-knowledge-maps to turn this subject into a clear, illustrated Xmind knowledge map."

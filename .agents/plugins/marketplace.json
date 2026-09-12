@@ -1,0 +1,20 @@
+{
+  "name": "xmind-tools",
+  "interface": {
+    "displayName": "Xmind Tools"
+  },
+  "plugins": [
+    {
+      "name": "xmind-knowledge-maps",
+      "source": {
+        "source": "local",
+        "path": "./plugins/xmind-knowledge-maps"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

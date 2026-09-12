@@ -1,0 +1,121 @@
+{
+  "title": "Knowledge Map",
+  "sheet_title": "Style Reference",
+  "fold_depth": 2,
+  "topics": [
+    {
+      "key": "concept",
+      "title": "Concept",
+      "children": [
+        {
+          "title": "A concise definition written as a separate topic."
+        },
+        {
+          "title": "A worked example",
+          "image": "workflow-example.png",
+          "image_width": 520
+        },
+        {
+          "title": "Copyable code",
+          "folded": false,
+          "children": [
+            {
+              "code": "def choose_action(q_values):\n    return max(range(len(q_values)), key=q_values.__getitem__)",
+              "width": 600
+            }
+          ]
+        },
+        {
+          "key": "formula",
+          "formula": "y = r + \\gamma \\max_a Q(s',a)",
+          "caption": "One-step Q-learning target",
+          "children": [
+            {
+              "formula": "y",
+              "caption": "Learning target for the current state–action estimate."
+            },
+            {
+              "formula": "r",
+              "caption": "Observed immediate reward."
+            },
+            {
+              "formula": "\\gamma",
+              "caption": "Discount factor for the continuation."
+            },
+            {
+              "formula": "s'",
+              "caption": "Next state reached after the action."
+            },
+            {
+              "formula": "a",
+              "caption": "Candidate next action."
+            },
+            {
+              "formula": "Q(s',a)",
+              "caption": "Estimated return for this next state and action."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "context",
+      "title": "Connected idea",
+      "children": [
+        {
+          "title": "Visible relationships should be sparse and meaningful."
+        },
+        {
+          "title": "External reference ↗",
+          "href": "https://xmind.app/"
+        }
+      ]
+    },
+    {
+      "title": "Artificial neuron",
+      "children": [
+        {
+          "formula": "z=\\sum_i w_i x_i+b,\\qquad y=f(z)",
+          "caption": "Weighted sum followed by activation",
+          "children": [
+            {
+              "formula": "x_i",
+              "caption": "Input feature at this index."
+            },
+            {
+              "formula": "w_i",
+              "caption": "Learned weight multiplying this input feature."
+            },
+            {
+              "formula": "i",
+              "caption": "Index identifying an input and its matching weight."
+            },
+            {
+              "formula": "b",
+              "caption": "Bias: learned offset added to the sum."
+            },
+            {
+              "formula": "z",
+              "caption": "Weighted sum plus bias, before activation."
+            },
+            {
+              "formula": "f",
+              "caption": "Activation function applied to the sum."
+            },
+            {
+              "formula": "y",
+              "caption": "Neuron output after activation."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "from": "concept",
+      "to": "context",
+      "label": "is related to"
+    }
+  ]
+}
