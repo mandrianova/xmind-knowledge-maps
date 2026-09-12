@@ -1,0 +1,710 @@
+[
+  {
+    "class": "sheet",
+    "extensions": [
+      {
+        "content": {
+          "centralTopic": "org.xmind.ui.map.clockwise"
+        },
+        "provider": "org.xmind.ui.skeleton.structure.style"
+      }
+    ],
+    "id": "0248e61099b9a2b678dbe8feb0",
+    "rootTopic": {
+      "attributedTitle": [
+        {
+          "text": "DS"
+        }
+      ],
+      "children": {
+        "attached": [
+          {
+            "attributedTitle": [
+              {
+                "text": "Glossary"
+              }
+            ],
+            "children": {
+              "attached": [
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Algorithms"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A set of step-by-step instructions to solve a problem or complete a task.\t"
+                          }
+                        ],
+                        "id": "3449559c-82ab-4830-a1a9-d78e18e7bc7e",
+                        "title": "A set of step-by-step instructions to solve a problem or complete a task.\t"
+                      }
+                    ]
+                  },
+                  "id": "5211ada6-2567-4796-854b-aa391b8faa6b",
+                  "title": "Algorithms"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Model"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A representation of the relationships and patterns found in data to make predictions or analyze complex systems retaining essential elements needed for analysis.\t"
+                          }
+                        ],
+                        "id": "1711a193-dfe6-4629-941f-6c1f1be61a89",
+                        "title": "A representation of the relationships and patterns found in data to make predictions or analyze complex systems retaining essential elements needed for analysis.\t"
+                      }
+                    ]
+                  },
+                  "id": "4e697823-4e5e-4103-8868-fd24e6016f94",
+                  "title": "Model"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Outliers"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "When a data point or points occur significantly outside of most of the other data in a data set, potentially indicating anomalies, errors, or unique phenomena that could impact statistical analysis or modeling.\t"
+                          }
+                        ],
+                        "id": "63dfb244-1a79-4178-9d76-3bf4f54958e8",
+                        "title": "When a data point or points occur significantly outside of most of the other data in a data set, potentially indicating anomalies, errors, or unique phenomena that could impact statistical analysis or modeling.\t"
+                      }
+                    ]
+                  },
+                  "id": "b9f15083-e723-4692-a193-bd24c7dca47d",
+                  "title": "Outliers"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Quantitative analysis"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A systematic approach using mathematical and statistical analysis is used to interpret numerical data.\t"
+                          }
+                        ],
+                        "id": "0ce5646d-3e02-4598-a402-5ef68a7a3ff2",
+                        "title": "A systematic approach using mathematical and statistical analysis is used to interpret numerical data.\t"
+                      }
+                    ]
+                  },
+                  "id": "eb540e77-0f2c-43a3-b30a-a81c5400ced7",
+                  "title": "Quantitative analysis"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Structured data"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Data is organized and formatted into a predictable schema, usually related tables with rows and columns.\t"
+                          }
+                        ],
+                        "id": "12189d02-1fd6-491a-b5f3-180f174585d7",
+                        "title": "Data is organized and formatted into a predictable schema, usually related tables with rows and columns.\t"
+                      }
+                    ]
+                  },
+                  "id": "bb42b1b0-3528-4161-a0ca-efdce9e1565c",
+                  "title": "Structured data"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Unstructured data\t"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Unorganized data that lacks a predefined data model or organization makes it harder to analyze using traditional methods. This data type often includes text, images, videos, and other content that doesn’t fit neatly into rows and columns like structured data.\t"
+                          }
+                        ],
+                        "id": "2d3c2a15-af7c-4351-890c-3033c7374b25",
+                        "title": "Unorganized data that lacks a predefined data model or organization makes it harder to analyze using traditional methods. This data type often includes text, images, videos, and other content that doesn’t fit neatly into rows and columns like structured data.\t"
+                      }
+                    ]
+                  },
+                  "id": "5171b43a-1344-4c59-9763-90215db27e99",
+                  "title": "Unstructured data\t"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Regression"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A statistical model that shows a relationship between one or more predictor variables with a response variable.\t"
+                          }
+                        ],
+                        "id": "c580d864-2725-4379-9fd4-57306f7478b9",
+                        "title": "A statistical model that shows a relationship between one or more predictor variables with a response variable.\t"
+                      }
+                    ]
+                  },
+                  "id": "4a368efa-559b-4723-99b9-4fbf2d26d9f7",
+                  "title": "Regression"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Recommendation engine"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A computer program that analyzes user input, such as behaviors or preferences, and makes personalized recommendations based on that analysis.\t"
+                          }
+                        ],
+                        "id": "f321f56c-838f-4a31-8b82-c580ea62a780",
+                        "title": "A computer program that analyzes user input, such as behaviors or preferences, and makes personalized recommendations based on that analysis.\t"
+                      }
+                    ]
+                  },
+                  "id": "07093f88-2e4b-4bf1-a94b-f99d7fc0d668",
+                  "title": "Recommendation engine"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Nearest neighbor\t"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A machine learning algorithm that predicts a target variable based on its similarity to other values in the dataset.\t"
+                          }
+                        ],
+                        "id": "bff0ae26-6923-4b96-9dfc-62ad19da2cab",
+                        "title": "A machine learning algorithm that predicts a target variable based on its similarity to other values in the dataset.\t"
+                      }
+                    ]
+                  },
+                  "id": "a4980c59-0810-4114-b3f8-9a54cea3ab0f",
+                  "title": "Nearest neighbor\t"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Neural networks"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A computational model used in deep learning that mimics the structure and functioning of the human brain’s neural pathways. It takes an input, processes it using previous learning, and produces an output.\t"
+                          }
+                        ],
+                        "id": "6285c323-bf15-44a9-8251-0ae180f73596",
+                        "title": "A computational model used in deep learning that mimics the structure and functioning of the human brain’s neural pathways. It takes an input, processes it using previous learning, and produces an output.\t"
+                      }
+                    ]
+                  },
+                  "id": "38f81b42-9454-46d7-ab8c-0bdfb58173e8",
+                  "title": "Neural networks"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Hadoop"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "An open-source framework designed to store and process large datasets across clusters of computers.\t"
+                          }
+                        ],
+                        "id": "ec3eed1c-e381-47d5-bc88-d8b4a0ff6eef",
+                        "title": "An open-source framework designed to store and process large datasets across clusters of computers.\t"
+                      }
+                    ]
+                  },
+                  "id": "c0358206-bbee-41ef-948d-452b3ba8864b",
+                  "title": "Hadoop"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Variety"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "The diversity of data types, including structured and unstructured data from various sources such as text, images, video, and more, posing data management challenges."
+                          }
+                        ],
+                        "id": "59e534a6-0975-4b8b-acf2-5d4cc6c3f7c2",
+                        "title": "The diversity of data types, including structured and unstructured data from various sources such as text, images, video, and more, posing data management challenges."
+                      }
+                    ]
+                  },
+                  "id": "66b191f7-2a65-4e42-9252-b6238406eaee",
+                  "title": "Variety"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Velocity"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "The speed at which data accumulates and is generated, often in real-time or near-real-time, drives the need for rapid data processing and analytics.\t"
+                          }
+                        ],
+                        "id": "0bffe74d-ea5d-48dc-ae7c-b5a55c98c909",
+                        "title": "The speed at which data accumulates and is generated, often in real-time or near-real-time, drives the need for rapid data processing and analytics.\t"
+                      }
+                    ]
+                  },
+                  "id": "c10881d7-32e1-41a9-91ff-6ed338339ebc",
+                  "title": "Velocity"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Veracity"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "The quality and accuracy of data, ensuring that it conforms to facts and is consistent, complete, and free from ambiguity, impacts data reliability and trustworthiness.\t"
+                          }
+                        ],
+                        "id": "207f954a-f36e-42c1-8281-c45f91f49556",
+                        "title": "The quality and accuracy of data, ensuring that it conforms to facts and is consistent, complete, and free from ambiguity, impacts data reliability and trustworthiness.\t"
+                      }
+                    ]
+                  },
+                  "id": "15ea5daa-8dc2-45d1-956f-4cef6341032f",
+                  "title": "Veracity"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Volume"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "The scale of data generated and stored is driven by increased data sources, higher-resolution sensors, and scalable infrastructure.\t"
+                          }
+                        ],
+                        "id": "ed76fc03-1adf-49c6-b700-c04c5514c725",
+                        "title": "The scale of data generated and stored is driven by increased data sources, higher-resolution sensors, and scalable infrastructure.\t"
+                      }
+                    ]
+                  },
+                  "id": "591cacaf-8de7-4661-a1cf-c608043eb4d8",
+                  "title": "Volume"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "V's of Big Data"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A set of characteristics common across Big Data definitions, including Velocity, Volume, Variety, Veracity, and Value, highlighting the rapid generation, scale, diversity, quality, and value of data.\t"
+                          }
+                        ],
+                        "id": "12a5ec15-c274-47bd-a659-7ea4f5d8ed55",
+                        "title": "A set of characteristics common across Big Data definitions, including Velocity, Volume, Variety, Veracity, and Value, highlighting the rapid generation, scale, diversity, quality, and value of data.\t"
+                      }
+                    ]
+                  },
+                  "id": "6673ecac-ba08-456b-8813-07610e2726fd",
+                  "title": "V's of Big Data"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Data Mining\t"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "The process of automatically searching and analyzing data to discover patterns and insights that were previously unknown.\t"
+                          }
+                        ],
+                        "id": "141273c4-9826-4462-92d1-8f08c43548fa",
+                        "title": "The process of automatically searching and analyzing data to discover patterns and insights that were previously unknown.\t"
+                      }
+                    ]
+                  },
+                  "id": "43588d3c-e453-40cd-8594-6a2e665e45ea",
+                  "title": "Data Mining\t"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Bayesian Analysis"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A statistical technique that uses Bayes' theorem to update probabilities based on new evidence.\t"
+                          }
+                        ],
+                        "id": "d0f08022-e2b2-4059-b01a-3e05c6a70e0a",
+                        "title": "A statistical technique that uses Bayes' theorem to update probabilities based on new evidence.\t"
+                      }
+                    ]
+                  },
+                  "id": "068bdd1f-772e-4869-b583-47d2384cec66",
+                  "title": "Bayesian Analysis"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Naive Bayes"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A simple probabilistic classification algorithm based on Bayes' theorem.\t"
+                          }
+                        ],
+                        "id": "b23f433b-15d2-4ee0-9c86-b9fcc3007fac",
+                        "title": "A simple probabilistic classification algorithm based on Bayes' theorem.\t"
+                      }
+                    ]
+                  },
+                  "id": "b652a90b-484d-4bae-b986-a0a2412219f1",
+                  "title": "Naive Bayes"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Precision vs. Recall"
+                    }
+                  ],
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Metrics are used to evaluate the performance of classification models.\t"
+                          }
+                        ],
+                        "id": "c26d1f7e-8ff4-4f6b-8f1b-9d5e5a8f8d57",
+                        "title": "Metrics are used to evaluate the performance of classification models.\t"
+                      }
+                    ]
+                  },
+                  "id": "f10385fa-603a-4a81-8a12-ce5169dba1ea",
+                  "title": "Precision vs. Recall"
+                }
+              ]
+            },
+            "id": "68ab23ccaee9932db190a87580",
+            "title": "Glossary"
+          }
+        ]
+      },
+      "class": "topic",
+      "id": "ff291d1dd7ba2e890fd918bf84",
+      "structureClass": "org.xmind.ui.map.clockwise",
+      "title": "DS"
+    },
+    "theme": {
+      "boundary": {
+        "id": "9dde6825-0568-4273-b819-3d8c27a30971",
+        "properties": {
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "'NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "#000229",
+          "line-pattern": "dash",
+          "line-width": "2",
+          "shape-class": "org.xmind.boundaryShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "calloutTopic": {
+        "id": "96424c81-8784-4682-952f-7e964c07e3e1",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "#000229",
+          "border-line-pattern": "inherited",
+          "border-line-width": "inherited",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "centralTopic": {
+        "id": "850647e1-9034-42f1-b65a-d23994ab23df",
+        "properties": {
+          "alignment-by-level": "inactived",
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "30pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.curve",
+          "line-color": "#000229",
+          "line-pattern": "solid",
+          "line-width": "3pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
+      "expiredTopic": {
+        "id": "e302119e-d728-42e5-8763-a0a56875e161",
+        "properties": {
+          "fill-pattern": "none",
+          "fo:text-decoration": "line-through"
+        }
+      },
+      "floatingTopic": {
+        "id": "c9c049e3-4d5d-456e-bfd9-a38d586f8b5c",
+        "properties": {
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "border-line-color": "#EEEBEE",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "solid",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#EEEBEE"
+        }
+      },
+      "importantTopic": {
+        "id": "6b8700a3-97b7-4f20-8720-23a49c7c6c65",
+        "properties": {
+          "border-line-color": "#460400",
+          "fill-pattern": "solid",
+          "svg:fill": "#460400"
+        }
+      },
+      "mainTopic": {
+        "id": "d3135b9a-0d05-42a8-9ae5-b353e4bbb7f5",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "18pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "inherited"
+        }
+      },
+      "map": {
+        "id": "460f9339-398f-408f-b116-b95a01ba3a4d",
+        "properties": {
+          "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
+          "line-tapered": "none",
+          "multi-line-colors": "#F9423A #F6A04D #F3D321 #00BC7B #486AFF #4D49BE",
+          "svg:fill": "#ffffff"
+        }
+      },
+      "minorTopic": {
+        "id": "d7faee49-b4ab-4524-a5bc-eb1e534c9f15",
+        "properties": {
+          "border-line-color": "#703D00",
+          "fill-pattern": "solid",
+          "svg:fill": "#703D00"
+        }
+      },
+      "relationship": {
+        "id": "e942bfb8-6655-459a-9279-d6a45a6884f8",
+        "properties": {
+          "arrow-begin-class": "org.xmind.arrowShape.none",
+          "arrow-end-class": "org.xmind.arrowShape.triangle",
+          "fo:color": "inherited",
+          "fo:font-family": "'NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
+          "fo:font-size": "13pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "#000229",
+          "line-pattern": "dash",
+          "line-width": "2",
+          "shape-class": "org.xmind.relationshipShape.curved"
+        }
+      },
+      "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
+      "subTopic": {
+        "id": "db9dcc58-411f-4c9c-8485-4ab8b62d39a2",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "inherited"
+        }
+      },
+      "summary": {
+        "id": "df4f4207-f9e3-4482-8fb4-7bef292cfe6f",
+        "properties": {
+          "line-color": "#000229",
+          "line-pattern": "solid",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.summaryShape.round"
+        }
+      },
+      "summaryTopic": {
+        "id": "bd3cc48a-c2fa-4fb0-a759-33b03cca0a16",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "#000229",
+          "border-line-pattern": "inherited",
+          "border-line-width": "inherited",
+          "fill-pattern": "none",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      }
+    },
+    "title": "Map 1"
+  }
+]
