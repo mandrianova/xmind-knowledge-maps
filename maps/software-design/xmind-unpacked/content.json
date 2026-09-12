@@ -1,0 +1,2232 @@
+[
+  {
+    "class": "sheet",
+    "extensions": [
+      {
+        "content": {
+          "centralTopic": "org.xmind.ui.map.clockwise"
+        },
+        "provider": "org.xmind.ui.skeleton.structure.style"
+      }
+    ],
+    "id": "a34d7a6d-c43e-4e19-ac74-b42e8dadaa63",
+    "rootTopic": {
+      "attributedTitle": [
+        {
+          "text": "Software Design"
+        }
+      ],
+      "children": {
+        "attached": [
+          {
+            "attributedTitle": [
+              {
+                "text": "Module"
+              }
+            ],
+            "children": {
+              "attached": [
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Definition"
+                    }
+                  ],
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A module is a program unit identifiable through compiling, combining, and loading processes."
+                          }
+                        ],
+                        "extensions": [
+                          {
+                            "content": {
+                              "content": "a_{n} = c_1 a_{n-1} + c_2 a_{n-2} + \\ldots + c_{k} a_{n-k}"
+                            },
+                            "provider": "org.xmind.ui.mathJax"
+                          }
+                        ],
+                        "id": "4651ae3e-9816-4d5d-acf9-041128bbc9c1",
+                        "image": {
+                          "isMathJaxImage": true,
+                          "src": "xap:resources/505c44d9eec974544c9efa129af7c8fc048bfb2e70a354f0053d3fabaf1a2fa6.png"
+                        },
+                        "title": "A module is a program unit identifiable through compiling, combining, and loading processes."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Modules are logically separable parts of a program, focusing on discrete functionalities. Functions and routines should be logically separable if placed in distinct modules."
+                          }
+                        ],
+                        "id": "9872c2ad-040b-490d-a2dc-10efef5f528d",
+                        "title": "Modules are logically separable parts of a program, focusing on discrete functionalities. Functions and routines should be logically separable if placed in distinct modules."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Modules represent a collection of source code files managed separately in the build process. This definition emphasizes the structuring and handling of files within the software engineering context."
+                          }
+                        ],
+                        "id": "c20e175c-3752-4a68-9e43-5077fe2ba9f3",
+                        "title": "Modules represent a collection of source code files managed separately in the build process. This definition emphasizes the structuring and handling of files within the software engineering context."
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "A module consists of data, functions, and routines operating on that data. This definition aligns closely with the concept of a class in object-oriented programming, combining data and behavior."
+                          }
+                        ],
+                        "id": "77194b40-3701-45d5-a2ce-e093deaf13b3",
+                        "title": "A module consists of data, functions, and routines operating on that data. This definition aligns closely with the concept of a class in object-oriented programming, combining data and behavior."
+                      }
+                    ]
+                  },
+                  "id": "5813a72b-5ec6-4fa1-8cc7-257377de114b",
+                  "title": "Definition"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Motivation for Modularity"
+                    }
+                  ],
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Flexibility"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Once software is modularized, changes can be made more easily. Modules can be reused in other software, providing two types of flexibility."
+                                }
+                              ],
+                              "id": "70645445-9eb8-4ed9-ad41-5be008676347",
+                              "title": "Once software is modularized, changes can be made more easily. Modules can be reused in other software, providing two types of flexibility."
+                            }
+                          ]
+                        },
+                        "id": "64cb6538-6527-4148-8dc7-58c079b4ee7e",
+                        "title": "Flexibility"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Comprehensibility"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Breaking a program into modules enhances understanding. Each module can be comprehended individually, leading to a clearer understanding of the program as a whole."
+                                }
+                              ],
+                              "id": "463ba2c6-3fa7-402d-ade7-7481e6d22ccb",
+                              "title": "Breaking a program into modules enhances understanding. Each module can be comprehended individually, leading to a clearer understanding of the program as a whole."
+                            }
+                          ]
+                        },
+                        "id": "66ebba53-729b-4aa7-b3ff-f17640ebb594",
+                        "title": "Comprehensibility"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Shortening Software Development"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Discrete development of each program section by different teams can shorten the life cycle. Working with modules is more efficient than working on a monolithic codebase."
+                                }
+                              ],
+                              "id": "583655ed-b503-4ff2-9729-661ff5e3427d",
+                              "title": "Discrete development of each program section by different teams can shorten the life cycle. Working with modules is more efficient than working on a monolithic codebase."
+                            }
+                          ]
+                        },
+                        "id": "ae90394c-967c-42fd-a1bf-dfbbdcc1d4df",
+                        "title": "Shortening Software Development"
+                      }
+                    ]
+                  },
+                  "id": "99b2069e-7e8a-4fbb-8fc9-8bf7cc776ee8",
+                  "title": "Motivation for Modularity"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Module Complexity"
+                    }
+                  ],
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Definition"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Difficulty to understand"
+                                }
+                              ],
+                              "id": "2019e7a3-8163-4428-9b38-78b99393d3e3",
+                              "title": "Difficulty to understand"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Dependency on multiple interacting components"
+                                }
+                              ],
+                              "id": "4cca81e2-cf72-4abf-94d8-025fa6a42572",
+                              "title": "Dependency on multiple interacting components"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Difficulty in verification and testing"
+                                }
+                              ],
+                              "id": "4c930873-6e90-40ef-87b8-2591ba750f5d",
+                              "title": "Difficulty in verification and testing"
+                            }
+                          ]
+                        },
+                        "id": "d07b411a-575c-42fb-a050-17b2427e5415",
+                        "title": "Definition"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Metric"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Software complexity can be measured using metrics such as excessive cyclomatic interaction"
+                                }
+                              ],
+                              "id": "a46e0fc2-9b29-45f7-8449-1c8143a17e8c",
+                              "title": "Software complexity can be measured using metrics such as excessive cyclomatic interaction"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Measuring Software Quality"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Excessive Structural Complexity Metric"
+                                      }
+                                    ],
+                                    "id": "37df1160-5b07-432d-a78d-025e3f64d8f9",
+                                    "title": "Excessive Structural Complexity Metric"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Metrics"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Fat"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "amount within modules"
+                                                  }
+                                                ],
+                                                "id": "7c3ebf66-3aae-4271-8f86-4eefc4b779a0",
+                                                "title": "amount within modules"
+                                              }
+                                            ]
+                                          },
+                                          "id": "a5c8af48-66ae-4eaf-a9b7-89990bc8f755",
+                                          "title": "Fat"
+                                        },
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Tangle"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "interactions between modules"
+                                                  }
+                                                ],
+                                                "id": "ef69567d-72a6-48b1-b19d-00c79363138d",
+                                                "title": "interactions between modules"
+                                              }
+                                            ]
+                                          },
+                                          "id": "2c395b65-5428-4fbd-b1d3-6af445ef447d",
+                                          "title": "Tangle"
+                                        }
+                                      ]
+                                    },
+                                    "id": "24886da7-adac-4d9a-b5fc-679942c18651",
+                                    "title": "Metrics"
+                                  }
+                                ]
+                              },
+                              "id": "ec3d2eb1-b18d-4192-8672-b2b886146be2",
+                              "title": "Measuring Software Quality"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Classic Metrics"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Cyclomatic Complexity"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Evaluates pathways through code blocks"
+                                            }
+                                          ],
+                                          "id": "55ae72c5-7860-44a2-ade3-0e54100389d8",
+                                          "title": "Evaluates pathways through code blocks"
+                                        }
+                                      ]
+                                    },
+                                    "id": "46b993e3-0e66-43cd-a7ea-888ccdfcd228",
+                                    "title": "Cyclomatic Complexity"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Module Coupling"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Interaction between modules"
+                                            }
+                                          ],
+                                          "id": "27cbca25-a65c-4ec8-b319-adde01903f53",
+                                          "title": "Interaction between modules"
+                                        }
+                                      ]
+                                    },
+                                    "id": "496d308e-1c1d-494e-a2f1-c0d5b7aa49d8",
+                                    "title": "Module Coupling"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Module Cohesion"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Content within modules"
+                                            }
+                                          ],
+                                          "id": "d4350d32-5201-4011-94c8-379261957de5",
+                                          "title": "Content within modules"
+                                        }
+                                      ]
+                                    },
+                                    "id": "757f6998-0b71-4966-8627-da6f166ea551",
+                                    "title": "Module Cohesion"
+                                  }
+                                ]
+                              },
+                              "id": "8a7e6cde-d005-4e78-b45b-008001b13b5d",
+                              "title": "Classic Metrics"
+                            }
+                          ]
+                        },
+                        "id": "91d94276-bf32-4e88-b150-897989121286",
+                        "title": "Metric"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "David Parnas' Motivation for Modularity"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Comprehensibility is a key aspect of modularity"
+                                }
+                              ],
+                              "id": "1a775c7e-e6b0-485f-b60a-7219bb5cb905",
+                              "title": "Comprehensibility is a key aspect of modularity"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Software should be designed for easy understanding and future adaptability"
+                                }
+                              ],
+                              "id": "45549c77-1598-474e-93fe-cb2822e70d3a",
+                              "title": "Software should be designed for easy understanding and future adaptability"
+                            }
+                          ]
+                        },
+                        "id": "006ad84c-b32d-4ac8-86d7-18d3b6f104e8",
+                        "title": "David Parnas' Motivation for Modularity"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Simplicity vs. Complexity"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Simplicity"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Easy to understand, straightforward design"
+                                      }
+                                    ],
+                                    "id": "3aeb47d6-c7f4-4d11-b3c1-f44b43fe9439",
+                                    "title": "Easy to understand, straightforward design"
+                                  }
+                                ]
+                              },
+                              "id": "6f77161a-78c7-42ec-9850-6f9491e048d6",
+                              "title": "Simplicity"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Complexity"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Associated with excessive difficulty in understanding"
+                                      }
+                                    ],
+                                    "id": "8e558c18-47f0-4b82-bbc4-95f6d9c7655e",
+                                    "title": "Associated with excessive difficulty in understanding"
+                                  }
+                                ]
+                              },
+                              "id": "ace42628-a5c8-440c-aa38-4534e8d9c5da",
+                              "title": "Complexity"
+                            }
+                          ]
+                        },
+                        "id": "3d63e7fa-3d23-43cb-84b2-9c3ba7f290d7",
+                        "title": "Simplicity vs. Complexity"
+                      }
+                    ]
+                  },
+                  "id": "7ccdf121-fbcf-4242-aece-2c32d6fadebd",
+                  "title": "Module Complexity"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Module Cohesion"
+                    }
+                  ],
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Definition"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Module cohesion is a way to reason about the contents of a single module, focusing on the relationships between its elements."
+                                }
+                              ],
+                              "id": "51051d5b-fe67-4cca-a3c1-42b7a9828742",
+                              "position": {
+                                "x": 652.85546875,
+                                "y": -66.56640625
+                              },
+                              "title": "Module cohesion is a way to reason about the contents of a single module, focusing on the relationships between its elements."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "There are different ways for the elements to relate; for example, they might be functions that work on the same type of data or the program might execute the function at a similar point in time. Some of these are desirable, others are not."
+                                }
+                              ],
+                              "id": "e7005c9e-98cf-4fdc-b53e-c7b4b52361b1",
+                              "title": "There are different ways for the elements to relate; for example, they might be functions that work on the same type of data or the program might execute the function at a similar point in time. Some of these are desirable, others are not."
+                            }
+                          ]
+                        },
+                        "id": "79a71c5f-3a51-4293-a399-83f3e302252d",
+                        "title": "Definition"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "ISO"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Task Relatedness"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "The manner and degree to which tasks in a module are related to each other."
+                                      }
+                                    ],
+                                    "id": "3b5f5311-8b0c-4858-947e-2ae612e0932b",
+                                    "title": "The manner and degree to which tasks in a module are related to each other."
+                                  }
+                                ]
+                              },
+                              "id": "77ba41ac-dc00-4427-9b90-2aa88f815329",
+                              "title": "Task Relatedness"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Strength of Association"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "A measure of the strength of the relationship between items within a module."
+                                      }
+                                    ],
+                                    "id": "1448f042-3ddc-412a-954c-9a27ca88f229",
+                                    "title": "A measure of the strength of the relationship between items within a module."
+                                  }
+                                ]
+                              },
+                              "id": "f6147bcd-aa15-4cce-9608-c648d67f78f1",
+                              "title": "Strength of Association"
+                            }
+                          ]
+                        },
+                        "id": "5e16fe4f-bff5-40ca-b751-93a0be24e6a7",
+                        "title": "ISO"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Types"
+                          }
+                        ],
+                        "branch": "folded",
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Functional Cohesion"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "All parts of the module perform a single well-defined task."
+                                      }
+                                    ],
+                                    "id": "5927d9dd-26b0-443f-8e79-3622978b342b",
+                                    "title": "All parts of the module perform a single well-defined task."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Enhances modularity, makes the module's purpose clear, improves maintainability."
+                                      }
+                                    ],
+                                    "id": "20d507df-fefc-4d08-9f79-9b5d92a8b78c",
+                                    "title": "Enhances modularity, makes the module's purpose clear, improves maintainability."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules working together towards a specific defined goal."
+                                      }
+                                    ],
+                                    "id": "20bfb303-af16-4cdc-b284-5931bf7d9847",
+                                    "title": "Modules working together towards a specific defined goal."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Best type. "
+                                      }
+                                    ],
+                                    "id": "e9f68f96-966f-4845-a60f-24f8f693dac2",
+                                    "title": "Best type. "
+                                  }
+                                ]
+                              },
+                              "id": "cc6694ee-4ce5-47d7-8fd1-3c8f36df7f12",
+                              "style": {
+                                "id": "772cd72f-2f34-4577-8fb1-50aeebf98b8d",
+                                "properties": {
+                                  "svg:fill": "#8EDE9933"
+                                }
+                              },
+                              "title": "Functional Cohesion"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Communicational Cohesion"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Elements operate on the same data or are involved in the same task."
+                                      }
+                                    ],
+                                    "id": "5857ff07-2596-4f7b-aab7-8acd0dbdf90f",
+                                    "title": "Elements operate on the same data or are involved in the same task."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Reduces coupling and promotes better organization within the module."
+                                      }
+                                    ],
+                                    "id": "0ee824e2-4cfb-4e5f-b4ed-aed0512e61d4",
+                                    "title": "Reduces coupling and promotes better organization within the module."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Combining modules that operate on the same inputs and outputs."
+                                      }
+                                    ],
+                                    "id": "32342681-0203-4048-aa89-5b9147ed3c74",
+                                    "title": "Combining modules that operate on the same inputs and outputs."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Generally okay. "
+                                      }
+                                    ],
+                                    "id": "02601299-a279-44ea-8ad1-3efd310f373a",
+                                    "title": "Generally okay. "
+                                  }
+                                ]
+                              },
+                              "id": "48de5519-8481-4a69-8e5e-356539c0626b",
+                              "style": {
+                                "id": "634392ee-2eca-4e1e-8b57-cb446946a855",
+                                "properties": {
+                                  "svg:fill": "#FDD83433"
+                                }
+                              },
+                              "title": "Communicational Cohesion"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Sequential Cohesion"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "The output of one part is the input to another, forming a pipeline."
+                                      }
+                                    ],
+                                    "id": "ab8b19d0-4e6d-4e97-a9a4-82139790c347",
+                                    "title": "The output of one part is the input to another, forming a pipeline."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Useful in stream processing but can be less flexible."
+                                      }
+                                    ],
+                                    "id": "e70bf141-76c2-4c9a-850d-43726adabd44",
+                                    "title": "Useful in stream processing but can be less flexible."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Generally okay."
+                                      }
+                                    ],
+                                    "id": "f839aa44-9b35-4acd-ac71-2c258cd4b120",
+                                    "title": "Generally okay."
+                                  }
+                                ]
+                              },
+                              "id": "9265f414-af03-4f83-81ab-4bb814aec271",
+                              "style": {
+                                "id": "7bb72c22-3592-446a-ace3-c5ed4264d9c1",
+                                "properties": {
+                                  "svg:fill": "#FDD83433"
+                                }
+                              },
+                              "title": "Sequential Cohesion"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Procedural Cohesion"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Elements contribute to a series of steps in a procedure."
+                                      }
+                                    ],
+                                    "id": "53c4a340-948b-45c4-a896-c98dece75eb1",
+                                    "title": "Elements contribute to a series of steps in a procedure."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Weaker than functional cohesion; related by sequence rather than function."
+                                      }
+                                    ],
+                                    "id": "9220d012-a114-43f9-ae35-17e3df8655fe",
+                                    "title": "Weaker than functional cohesion; related by sequence rather than function."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Parts of a procedure placed together without necessarily working on the same data."
+                                      }
+                                    ],
+                                    "id": "d95501b4-7338-49e5-b058-a36b4e132764",
+                                    "title": "Parts of a procedure placed together without necessarily working on the same data."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Moderately okay. "
+                                      }
+                                    ],
+                                    "id": "54f10ebd-2a11-417b-98e8-ba479b26ae3a",
+                                    "title": "Moderately okay. "
+                                  }
+                                ]
+                              },
+                              "id": "6ce6fec9-7375-4013-a787-9a5c043d78b7",
+                              "style": {
+                                "id": "d7b0855a-4a88-4138-b57b-408a04c7bb1f",
+                                "properties": {
+                                  "svg:fill": "#8EDDF933"
+                                }
+                              },
+                              "title": "Procedural Cohesion"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Logical Cohesion"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Elements perform similar activities as dictated by some controlling logic."
+                                      }
+                                    ],
+                                    "id": "e120a07a-74db-4376-a761-51d87c7e0951",
+                                    "title": "Elements perform similar activities as dictated by some controlling logic."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Can become complex and harder to maintain."
+                                      }
+                                    ],
+                                    "id": "955bda90-fc88-44f9-ad37-4de3a28f0ab5",
+                                    "title": "Can become complex and harder to maintain."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules doing similar things but not directly related, e.g., different cases in a switch statement."
+                                      }
+                                    ],
+                                    "id": "26208b0d-4dc7-4540-8261-e42ac1d7e17e",
+                                    "title": "Modules doing similar things but not directly related, e.g., different cases in a switch statement."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Less desirable. "
+                                      }
+                                    ],
+                                    "id": "01f69141-3955-4943-b7e6-c9bb93afa74b",
+                                    "title": "Less desirable. "
+                                  }
+                                ]
+                              },
+                              "id": "05c0848e-90ad-48c5-a4b1-81928a80a7f5",
+                              "style": {
+                                "id": "1998a47b-5149-4859-9175-f644ad587617",
+                                "properties": {
+                                  "svg:fill": "#8EDDF933"
+                                }
+                              },
+                              "title": "Logical Cohesion"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Temporal Cohesion"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Elements involved in activities related in time."
+                                      }
+                                    ],
+                                    "id": "14c5295e-d0ad-4129-90d8-8c6ad96d8229",
+                                    "title": "Elements involved in activities related in time."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Can lead to a module doing too many unrelated tasks."
+                                      }
+                                    ],
+                                    "id": "c63c47a7-c07e-4250-9184-b8a199729c35",
+                                    "title": "Can lead to a module doing too many unrelated tasks."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules grouped by the timing of operations, such as startup or cleanup routines."
+                                      }
+                                    ],
+                                    "id": "620f82bb-df65-4d4b-bcff-99021c33115b",
+                                    "title": "Modules grouped by the timing of operations, such as startup or cleanup routines."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Not ideal."
+                                      }
+                                    ],
+                                    "id": "04ef5e61-e7e7-4a47-ac39-70e9a7266eb0",
+                                    "title": "Not ideal."
+                                  }
+                                ]
+                              },
+                              "id": "8f7a17d0-2fbc-4c15-800d-abb90d4c447b",
+                              "style": {
+                                "id": "755586c9-c02f-4cdf-9782-1f407baf9703",
+                                "properties": {
+                                  "svg:fill": "#8EDDF933"
+                                }
+                              },
+                              "title": "Temporal Cohesion"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Coincidental Cohesion"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "No meaningful relationship between the elements; they are just grouped together."
+                                      }
+                                    ],
+                                    "id": "47e49233-e096-4ddc-af88-5c75afaff3b6",
+                                    "title": "No meaningful relationship between the elements; they are just grouped together."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Leads to confusion and maintenance difficulties."
+                                      }
+                                    ],
+                                    "id": "b3745d29-92d9-4f2b-867d-59b54590dd2d",
+                                    "title": "Leads to confusion and maintenance difficulties."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules with unrelated functions grouped together."
+                                      }
+                                    ],
+                                    "id": "3608d325-88ec-4a79-bed0-0b99a2d52ed6",
+                                    "title": "Modules with unrelated functions grouped together."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Worst type."
+                                      }
+                                    ],
+                                    "id": "1a8979ca-5f1c-4b5c-82c8-7da06b4fca2b",
+                                    "title": "Worst type."
+                                  }
+                                ]
+                              },
+                              "id": "e7e60418-b980-4c33-bc59-0ea9396481ba",
+                              "style": {
+                                "id": "f160de85-ee84-442b-a41c-f9c94bb24b55",
+                                "properties": {
+                                  "svg:fill": "#ADADAD33"
+                                }
+                              },
+                              "title": "Coincidental Cohesion"
+                            }
+                          ]
+                        },
+                        "id": "377be97a-f746-4f49-a79c-71c04f08887e",
+                        "title": "Types"
+                      }
+                    ]
+                  },
+                  "class": "minorTopic",
+                  "id": "4b645861-be64-472d-8731-0f16695ed994",
+                  "title": "Module Cohesion"
+                },
+                {
+                  "attributedTitle": [
+                    {
+                      "text": "Module Coupling"
+                    }
+                  ],
+                  "branch": "folded",
+                  "children": {
+                    "attached": [
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Definition"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "The manner and degree of interdependence between software modules. Coupling indicates how closely connected different modules are and how much they rely on each other."
+                                }
+                              ],
+                              "id": "bf6c6323-01ba-4146-98f7-6bb8c31bc933",
+                              "title": "The manner and degree of interdependence between software modules. Coupling indicates how closely connected different modules are and how much they rely on each other."
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Key Aspects"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Manner and Degree of Interdependence"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Interdependence"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "Two modules rely on each other to perform certain tasks. This dependency can be one-way or mutual."
+                                                  }
+                                                ],
+                                                "id": "d32fef9d-cbf1-4e39-bbe1-ec2deecc2157",
+                                                "title": "Two modules rely on each other to perform certain tasks. This dependency can be one-way or mutual."
+                                              }
+                                            ]
+                                          },
+                                          "id": "a9cdec07-ba56-4b3a-a9a3-45d7d9a2267f",
+                                          "title": "Interdependence"
+                                        },
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Manner"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "How one module relies on another. For example, a module providing mathematical functions that another module uses for computation."
+                                                  }
+                                                ],
+                                                "id": "9f00c7d0-df2f-4f81-9d36-04e196d41e30",
+                                                "title": "How one module relies on another. For example, a module providing mathematical functions that another module uses for computation."
+                                              }
+                                            ]
+                                          },
+                                          "id": "36eff942-2086-452d-b531-b8bf11beaee3",
+                                          "title": "Manner"
+                                        },
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Degree"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "The number of points of reliance between modules, indicating the extent of their interdependence."
+                                                  }
+                                                ],
+                                                "id": "864b60ec-0008-45c4-91c8-dbb4acb4afb8",
+                                                "title": "The number of points of reliance between modules, indicating the extent of their interdependence."
+                                              }
+                                            ]
+                                          },
+                                          "id": "26d97508-7d60-465f-8db8-3b80e0521df6",
+                                          "title": "Degree"
+                                        }
+                                      ]
+                                    },
+                                    "id": "50640d1e-8e58-49ef-90c0-42267212f536",
+                                    "title": "Manner and Degree of Interdependence"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Strength of Relationships"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Strength"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "How much impact modules have on each other. For instance, whether they simply pass data or deeply collaborate to change the program state."
+                                                  }
+                                                ],
+                                                "id": "60ca5ab4-a5e8-49c3-ada2-9f3be61c56bb",
+                                                "title": "How much impact modules have on each other. For instance, whether they simply pass data or deeply collaborate to change the program state."
+                                              }
+                                            ]
+                                          },
+                                          "id": "3c778dce-182d-41bb-bfd9-3096ef3d828a",
+                                          "title": "Strength"
+                                        },
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Example"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "A module passing parameters to another versus two modules jointly managing application state."
+                                                  }
+                                                ],
+                                                "id": "9ef90a33-c356-4d4e-94c6-45fc37e378ea",
+                                                "title": "A module passing parameters to another versus two modules jointly managing application state."
+                                              }
+                                            ]
+                                          },
+                                          "id": "69e57951-8d07-4198-8d87-d4fe090d84d7",
+                                          "title": "Example"
+                                        }
+                                      ]
+                                    },
+                                    "id": "81333bd9-058e-4877-824d-549f0d2241bd",
+                                    "title": "Strength of Relationships"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Closeness of Connection"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Closeness"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "The directness of the interaction between modules. For example, if Module 1 interacts with Module 2 and Module 3 also interacts with Module 2, then Module 1 and Module 3 are indirectly connected through Module 2."
+                                                  }
+                                                ],
+                                                "id": "bde69eaa-edf4-43f9-8685-9e43cc9e7ab6",
+                                                "title": "The directness of the interaction between modules. For example, if Module 1 interacts with Module 2 and Module 3 also interacts with Module 2, then Module 1 and Module 3 are indirectly connected through Module 2."
+                                              }
+                                            ]
+                                          },
+                                          "id": "c00ee0b5-abf2-4e42-97c7-8ca4a96a9d7c",
+                                          "title": "Closeness"
+                                        },
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Example"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "Three modules where the first and third interact via the second, indicating a more distant but still relevant connection."
+                                                  }
+                                                ],
+                                                "id": "28f04275-aca7-4847-826f-561b9aca0331",
+                                                "title": "Three modules where the first and third interact via the second, indicating a more distant but still relevant connection."
+                                              }
+                                            ]
+                                          },
+                                          "id": "cafaf1c0-2b74-41d4-9d94-a6ddadab1d9d",
+                                          "title": "Example"
+                                        }
+                                      ]
+                                    },
+                                    "id": "de17b454-1652-48c1-b0cf-1595a3b3d893",
+                                    "title": "Closeness of Connection"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Interdependence Measure"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Measure of Interdependence"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "This definition summarizes the previous aspects, indicating how closely connected and interdependent the modules are within a program."
+                                                  }
+                                                ],
+                                                "id": "9212da61-6479-433d-9ba3-d770d9739607",
+                                                "title": "This definition summarizes the previous aspects, indicating how closely connected and interdependent the modules are within a program."
+                                              }
+                                            ]
+                                          },
+                                          "id": "2408f864-ed68-48ed-b2cc-0cd1c8a349a9",
+                                          "title": "Measure of Interdependence"
+                                        },
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Example"
+                                            }
+                                          ],
+                                          "children": {
+                                            "attached": [
+                                              {
+                                                "attributedTitle": [
+                                                  {
+                                                    "text": "Evaluating the overall dependencies in a software system to determine how changes in one module might affect others."
+                                                  }
+                                                ],
+                                                "id": "9b002c64-d436-49a5-9e4b-15cdd05e8b5c",
+                                                "title": "Evaluating the overall dependencies in a software system to determine how changes in one module might affect others."
+                                              }
+                                            ]
+                                          },
+                                          "id": "da653918-95d5-4b7c-9e92-b3b4caa17626",
+                                          "title": "Example"
+                                        }
+                                      ]
+                                    },
+                                    "id": "ad04fb1b-3b86-4bdf-81c8-06028936087c",
+                                    "title": "Interdependence Measure"
+                                  }
+                                ]
+                              },
+                              "id": "09164204-82b9-4864-8ebb-8204c7f97277",
+                              "title": "Key Aspects"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Importance"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Low Coupling"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Desirable in software design. Modules with low coupling are easier to maintain, test, and reuse because changes in one module have minimal impact on others"
+                                            }
+                                          ],
+                                          "id": "fd4f23d2-83eb-45e9-a575-738ced3035ee",
+                                          "title": "Desirable in software design. Modules with low coupling are easier to maintain, test, and reuse because changes in one module have minimal impact on others"
+                                        }
+                                      ]
+                                    },
+                                    "id": "cc63fdc1-a803-400e-9260-cbb75c4fccc9",
+                                    "title": "Low Coupling"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "High Coupling"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Generally undesirable as it makes the system more complex and harder to maintain. High coupling increases the risk of ripple effects where changes in one module necessitate changes in others."
+                                            }
+                                          ],
+                                          "id": "67975ac3-745c-496d-b6bb-1ebc185dafc8",
+                                          "title": "Generally undesirable as it makes the system more complex and harder to maintain. High coupling increases the risk of ripple effects where changes in one module necessitate changes in others."
+                                        }
+                                      ]
+                                    },
+                                    "id": "fb75abae-0a9f-43cc-a0be-f282e8268160",
+                                    "title": "High Coupling"
+                                  }
+                                ]
+                              },
+                              "id": "cf95c0f4-3b11-45e1-88b5-53e9cd55f6f8",
+                              "title": "Importance"
+                            }
+                          ]
+                        },
+                        "id": "2296665e-f46a-45d7-b587-1071158e3f8a",
+                        "title": "Definition"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Strategies to Reduce Coupling"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Use of Interfaces and Abstractions"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Define clear interfaces for modules to interact, reducing direct dependencies."
+                                      }
+                                    ],
+                                    "id": "96e6e97a-d0f9-4e77-b748-359b61944c9f",
+                                    "title": "Define clear interfaces for modules to interact, reducing direct dependencies."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Example"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Using abstract classes or interfaces in object-oriented programming to define common behaviors without specifying the implementation."
+                                            }
+                                          ],
+                                          "id": "217f9310-6ddb-40d0-beeb-ca9618b6eea4",
+                                          "title": "Using abstract classes or interfaces in object-oriented programming to define common behaviors without specifying the implementation."
+                                        }
+                                      ]
+                                    },
+                                    "id": "d5ae2ddc-41cf-4790-af10-9ad41113b5d0",
+                                    "title": "Example"
+                                  }
+                                ]
+                              },
+                              "id": "4689ad9e-2d5f-4d42-9dde-c8a6c7c4c48e",
+                              "title": "Use of Interfaces and Abstractions"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Encapsulation"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Encapsulate module details and expose only what is necessary. This limits the impact of changes to the internal workings of a module."
+                                      }
+                                    ],
+                                    "id": "defccbad-0bc4-4c75-bff3-aef2b8d44d24",
+                                    "title": "Encapsulate module details and expose only what is necessary. This limits the impact of changes to the internal workings of a module."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Example"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Using private methods and properties in classes to hide implementation details."
+                                            }
+                                          ],
+                                          "id": "255e211b-ed27-4191-9d8c-71f3b445ecdb",
+                                          "title": "Using private methods and properties in classes to hide implementation details."
+                                        }
+                                      ]
+                                    },
+                                    "id": "1b3d7699-ffc9-4d3f-9548-b5a1483938c4",
+                                    "title": "Example"
+                                  }
+                                ]
+                              },
+                              "id": "de1c96b8-63e6-424b-858b-5ee4a6eaa053",
+                              "title": "Encapsulation"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Dependency Injection"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Inject dependencies rather than hardcoding them within modules. This promotes flexibility and easier testing."
+                                      }
+                                    ],
+                                    "id": "ed064ecc-6144-4528-bfbd-be02b8aa66dc",
+                                    "title": "Inject dependencies rather than hardcoding them within modules. This promotes flexibility and easier testing."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Example"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Using a dependency injection framework in a language like Java or .NET."
+                                            }
+                                          ],
+                                          "id": "aab7615b-41e7-497a-8dfb-b5af27063550",
+                                          "title": "Using a dependency injection framework in a language like Java or .NET."
+                                        }
+                                      ]
+                                    },
+                                    "id": "dccc5625-4ade-4cb2-8301-a8056350f00e",
+                                    "title": "Example"
+                                  }
+                                ]
+                              },
+                              "id": "43a74aa1-96b9-4e0d-a3df-637e7b56e380",
+                              "title": "Dependency Injection"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Event-Driven Architecture"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules communicate through events, reducing direct dependencies."
+                                      }
+                                    ],
+                                    "id": "8236fae7-f2b4-4637-b3f6-783596c74d20",
+                                    "title": "Modules communicate through events, reducing direct dependencies."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Example"
+                                      }
+                                    ],
+                                    "children": {
+                                      "attached": [
+                                        {
+                                          "attributedTitle": [
+                                            {
+                                              "text": "Using an event bus or message queue to decouple modules in a microservices architecture."
+                                            }
+                                          ],
+                                          "id": "249178b3-5922-45ac-ac2f-b960ab2f07da",
+                                          "title": "Using an event bus or message queue to decouple modules in a microservices architecture."
+                                        }
+                                      ]
+                                    },
+                                    "id": "7b1ab3a2-2132-40ab-8e4f-3ec38f53183d",
+                                    "title": "Example"
+                                  }
+                                ]
+                              },
+                              "id": "3a201b55-56cb-456a-8d77-3865ed5a63c0",
+                              "title": "Event-Driven Architecture"
+                            }
+                          ]
+                        },
+                        "id": "862d3a03-b2b5-4729-a2a6-6f1ff1531be1",
+                        "title": "Strategies to Reduce Coupling"
+                      },
+                      {
+                        "attributedTitle": [
+                          {
+                            "text": "Types"
+                          }
+                        ],
+                        "children": {
+                          "attached": [
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Common Environment Coupling"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules share an environment."
+                                      }
+                                    ],
+                                    "id": "8f4b9c15-38e5-45e9-8489-dcb4aa3904cf",
+                                    "title": "Modules share an environment."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Makes modules dependent on the environment they share."
+                                      }
+                                    ],
+                                    "id": "04f924ad-f868-4b87-bde7-5479e61fc5de",
+                                    "title": "Makes modules dependent on the environment they share."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules sharing a file system."
+                                      }
+                                    ],
+                                    "id": "e22ace20-0c86-4de6-9c20-0f0fd4211f6f",
+                                    "title": "Modules sharing a file system."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Less desirable."
+                                      }
+                                    ],
+                                    "id": "da67ccc0-eab6-409d-8bf5-f5a61dba7b79",
+                                    "title": "Less desirable."
+                                  }
+                                ]
+                              },
+                              "id": "e14d73c1-14fb-4669-8814-b89c2dbc5fd7",
+                              "title": "Common Environment Coupling"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Content Coupling"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "One module accesses the internals of another."
+                                      }
+                                    ],
+                                    "id": "0e737701-e15e-4075-b937-98b7a100935d",
+                                    "title": "One module accesses the internals of another."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Makes modules dependent on each other's implementation."
+                                      }
+                                    ],
+                                    "id": "80f2bf2b-f80c-4991-8a31-89a56cab7944",
+                                    "title": "Makes modules dependent on each other's implementation."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "One module accessing the data of another."
+                                      }
+                                    ],
+                                    "id": "cbb98eb0-3a63-4255-a37a-928e2c3bd540",
+                                    "title": "One module accessing the data of another."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Worst type."
+                                      }
+                                    ],
+                                    "id": "086b1471-7e47-498e-b2fd-678424f23fd1",
+                                    "title": "Worst type."
+                                  }
+                                ]
+                              },
+                              "id": "29271d4a-c522-43d5-bb83-9935e28d7307",
+                              "title": "Content Coupling"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Control Coupling"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "One module controls the behavior of another."
+                                      }
+                                    ],
+                                    "id": "1ba9ac13-0b32-44f8-bbb7-c063aaf26552",
+                                    "title": "One module controls the behavior of another."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Makes modules dependent on the control flow of another."
+                                      }
+                                    ],
+                                    "id": "a5e11fc3-e826-46b6-b429-10db35417763",
+                                    "title": "Makes modules dependent on the control flow of another."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "One module passing control information to another."
+                                      }
+                                    ],
+                                    "id": "6147ffac-bab0-4f02-8f77-c6bcae89d11b",
+                                    "title": "One module passing control information to another."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Less desirable."
+                                      }
+                                    ],
+                                    "id": "4c7b1636-bf2f-4f99-96da-173c1367c114",
+                                    "title": "Less desirable."
+                                  }
+                                ]
+                              },
+                              "id": "a438d644-33fc-4c51-ae3d-d1b460c38003",
+                              "title": "Control Coupling"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Data Coupling"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules interact by passing data between them (input-output coupling)"
+                                      }
+                                    ],
+                                    "id": "10fc4ba9-b546-4918-8a00-d5ee99439d02",
+                                    "title": "Modules interact by passing data between them (input-output coupling)"
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Makes modules dependent on the data they share."
+                                      }
+                                    ],
+                                    "id": "905708f1-969a-4824-a49f-5560583edad7",
+                                    "title": "Makes modules dependent on the data they share."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules passing data to each other."
+                                      }
+                                    ],
+                                    "id": "eab92257-e449-4c1a-895d-2ffc3814a020",
+                                    "title": "Modules passing data to each other."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Generally okay."
+                                      }
+                                    ],
+                                    "id": "3f4ebb57-8123-40bd-92e7-03ca863cd3ed",
+                                    "title": "Generally okay."
+                                  }
+                                ]
+                              },
+                              "id": "a818539a-9bcf-42e0-ba49-ab9c1329a81c",
+                              "title": "Data Coupling"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Common Coupling"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules share global data."
+                                      }
+                                    ],
+                                    "id": "d99f5f8f-4639-4c0b-8617-9487f0bea43a",
+                                    "title": "Modules share global data."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Makes modules dependent on global state."
+                                      }
+                                    ],
+                                    "id": "10c9bc95-649e-469c-a9c6-6247246a2594",
+                                    "title": "Makes modules dependent on global state."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules sharing global variables."
+                                      }
+                                    ],
+                                    "id": "93f213a4-c3ea-4171-b5f4-ca874c6a1e9e",
+                                    "title": "Modules sharing global variables."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Not ideal."
+                                      }
+                                    ],
+                                    "id": "59de1aac-a640-491b-bc32-a4ea9a24a0da",
+                                    "title": "Not ideal."
+                                  }
+                                ]
+                              },
+                              "id": "bd420607-d3a9-43d7-aebc-e0afb1dbe79a",
+                              "title": "Common Coupling"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Hybrid Coupling"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "A combination of different types of coupling."
+                                      }
+                                    ],
+                                    "id": "ff86b852-125e-4fcd-8b5e-65418b9845c1",
+                                    "title": "A combination of different types of coupling."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Makes modules dependent on multiple aspects of each other."
+                                      }
+                                    ],
+                                    "id": "c8c3f0d6-18a4-4350-a6f3-15119cbc4303",
+                                    "title": "Makes modules dependent on multiple aspects of each other."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules sharing global data and passing control information."
+                                      }
+                                    ],
+                                    "id": "c05669ef-484b-41f6-a6ab-a80e38d82319",
+                                    "title": "Modules sharing global data and passing control information."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Less desirable."
+                                      }
+                                    ],
+                                    "id": "07a27dcf-eb8e-46c9-ae20-96b2683198be",
+                                    "title": "Less desirable."
+                                  }
+                                ]
+                              },
+                              "id": "ad625f0c-a152-4170-a179-d7f55e7c0dda",
+                              "title": "Hybrid Coupling"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Stamp Coupling"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules share a composite data structure."
+                                      }
+                                    ],
+                                    "id": "beb1ae29-c001-4b42-a897-49afc5737734",
+                                    "title": "Modules share a composite data structure."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Makes modules dependent on the structure of shared data."
+                                      }
+                                    ],
+                                    "id": "7e4eaac6-014f-4e1e-9d7c-22daa48013ff",
+                                    "title": "Makes modules dependent on the structure of shared data."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules sharing a struct or class."
+                                      }
+                                    ],
+                                    "id": "6deee9df-d416-4c12-9711-cbe840c0776b",
+                                    "title": "Modules sharing a struct or class."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Less desirable."
+                                      }
+                                    ],
+                                    "id": "c64a10b1-e5e1-4f54-a90e-e9c60f6acf55",
+                                    "title": "Less desirable."
+                                  }
+                                ]
+                              },
+                              "id": "d72e03e1-ac65-40cf-83f3-6004b542d418",
+                              "title": "Stamp Coupling"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Message Coupling"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules communicate by passing messages."
+                                      }
+                                    ],
+                                    "id": "bbcfe123-6059-4c3d-8a3a-8d81d72dd4c1",
+                                    "title": "Modules communicate by passing messages."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Makes modules independent of each other's implementation."
+                                      }
+                                    ],
+                                    "id": "e686ff59-beae-433f-b2c8-0af585ca0ad7",
+                                    "title": "Makes modules independent of each other's implementation."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules communicating through message passing."
+                                      }
+                                    ],
+                                    "id": "1bf77f1a-4581-4410-96d0-cf0d701f4914",
+                                    "title": "Modules communicating through message passing."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Best type."
+                                      }
+                                    ],
+                                    "id": "d428e47b-0a8e-4109-ac35-b00ddd228ab1",
+                                    "title": "Best type."
+                                  }
+                                ]
+                              },
+                              "id": "06f75509-4542-4c5f-affc-9261ba62a7d6",
+                              "title": "Message Coupling"
+                            },
+                            {
+                              "attributedTitle": [
+                                {
+                                  "text": "Pathological Coupling"
+                                }
+                              ],
+                              "children": {
+                                "attached": [
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules are dependent on each other in a way that is difficult to understand."
+                                      }
+                                    ],
+                                    "id": "c5f8a85e-eb10-4f82-aab3-1638e1b71589",
+                                    "title": "Modules are dependent on each other in a way that is difficult to understand."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Makes modules difficult to maintain and understand."
+                                      }
+                                    ],
+                                    "id": "6783ba8e-7197-4bda-98f1-877a4066456e",
+                                    "title": "Makes modules difficult to maintain and understand."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Modules with complex interdependencies."
+                                      }
+                                    ],
+                                    "id": "0fcba03e-e3c2-4f5f-8f09-95e59c960fc4",
+                                    "title": "Modules with complex interdependencies."
+                                  },
+                                  {
+                                    "attributedTitle": [
+                                      {
+                                        "text": "Worst type."
+                                      }
+                                    ],
+                                    "id": "d4641a5f-2288-415d-a4c0-1be2c33c2378",
+                                    "title": "Worst type."
+                                  }
+                                ]
+                              },
+                              "id": "6f02a2bf-331f-46e6-a339-3589e93ed992",
+                              "title": "Pathological Coupling"
+                            }
+                          ]
+                        },
+                        "id": "3747d0bb-4973-4a98-a28d-9a1fcef61f1b",
+                        "title": "Types"
+                      }
+                    ]
+                  },
+                  "class": "minorTopic",
+                  "id": "b1cb9822-a52d-4dd9-8c47-a9227442b536",
+                  "title": "Module Coupling"
+                }
+              ]
+            },
+            "id": "59aba10d-0b18-4f00-a99a-b7d65ebe838a",
+            "title": "Module"
+          }
+        ]
+      },
+      "class": "topic",
+      "id": "a81aaf27-912e-45dd-ae58-e1afe91a4a62",
+      "structureClass": "org.xmind.ui.map.clockwise",
+      "title": "Software Design"
+    },
+    "theme": {
+      "boundary": {
+        "id": "5fda8eb3-071b-435f-9af7-63c9fe1ed08e",
+        "properties": {
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "'NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "#000229",
+          "line-pattern": "dash",
+          "line-width": "2",
+          "shape-class": "org.xmind.boundaryShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "calloutTopic": {
+        "id": "ffd2417e-232e-4816-a872-7dae6232dffe",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "#000229",
+          "border-line-pattern": "inherited",
+          "border-line-width": "inherited",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "centralTopic": {
+        "id": "387ffd02-4718-4257-8e66-b78f11a3fcaf",
+        "properties": {
+          "alignment-by-level": "inactived",
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "30pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.curve",
+          "line-color": "#000229",
+          "line-pattern": "solid",
+          "line-width": "3pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      },
+      "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
+      "expiredTopic": {
+        "id": "ae82b231-4997-4cf0-9a1e-61b5a45bb83a",
+        "properties": {
+          "fill-pattern": "none",
+          "fo:text-decoration": "line-through"
+        }
+      },
+      "floatingTopic": {
+        "id": "938b6466-56c1-4b48-ad67-6d2675e6c489",
+        "properties": {
+          "arrow-end-class": "org.xmind.arrowShape.none",
+          "border-line-color": "#EEEBEE",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "solid",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#EEEBEE"
+        }
+      },
+      "importantTopic": {
+        "id": "d4680ea3-20ef-44b2-8f2b-ac279a6a9587",
+        "properties": {
+          "border-line-color": "#460400",
+          "fill-pattern": "solid",
+          "svg:fill": "#460400"
+        }
+      },
+      "mainTopic": {
+        "id": "0ede1abc-55ba-4e44-9021-b75fdc71f71e",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "18pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "500",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "inherited"
+        }
+      },
+      "map": {
+        "id": "449aceef-922d-47f5-ac6f-8bcc1c6ae753",
+        "properties": {
+          "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
+          "line-tapered": "none",
+          "multi-line-colors": "#F9423A #F6A04D #F3D321 #00BC7B #486AFF #4D49BE",
+          "svg:fill": "#ffffff"
+        }
+      },
+      "minorTopic": {
+        "id": "7ff09024-f8b1-417a-b6aa-dc98ebd4ca8d",
+        "properties": {
+          "border-line-color": "#703D00",
+          "fill-pattern": "solid",
+          "svg:fill": "#703D00"
+        }
+      },
+      "relationship": {
+        "id": "c6ac6bea-bf82-44dd-a57f-b60a762b0a37",
+        "properties": {
+          "arrow-begin-class": "org.xmind.arrowShape.none",
+          "arrow-end-class": "org.xmind.arrowShape.triangle",
+          "fo:color": "inherited",
+          "fo:font-family": "'NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
+          "fo:font-size": "13pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "center",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-color": "#000229",
+          "line-pattern": "dash",
+          "line-width": "2",
+          "shape-class": "org.xmind.relationshipShape.curved"
+        }
+      },
+      "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
+      "subTopic": {
+        "id": "8fcfb938-f92e-4811-83d3-8ff59a65e6ee",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "inherited",
+          "border-line-pattern": "inherited",
+          "border-line-width": "0pt",
+          "fill-pattern": "solid",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "inherited"
+        }
+      },
+      "summary": {
+        "id": "936b07d9-e5c7-4f83-a3cc-5e635bcd1b77",
+        "properties": {
+          "line-color": "#000229",
+          "line-pattern": "solid",
+          "line-width": "2pt",
+          "shape-class": "org.xmind.summaryShape.round"
+        }
+      },
+      "summaryTopic": {
+        "id": "dbc4ac5d-287c-40bb-914a-6b22aeb8a15a",
+        "properties": {
+          "arrow-end-class": "inherited",
+          "border-line-color": "#000229",
+          "border-line-pattern": "inherited",
+          "border-line-width": "inherited",
+          "fill-pattern": "none",
+          "fo:color": "inherited",
+          "fo:font-family": "NeverMind",
+          "fo:font-size": "14pt",
+          "fo:font-style": "normal",
+          "fo:font-weight": "400",
+          "fo:text-align": "left",
+          "fo:text-decoration": "none",
+          "fo:text-transform": "manual",
+          "line-class": "org.xmind.branchConnection.roundedElbow",
+          "line-color": "inherited",
+          "line-pattern": "inherited",
+          "line-width": "inherited",
+          "shape-class": "org.xmind.topicShape.roundedRect",
+          "svg:fill": "#000229"
+        }
+      }
+    },
+    "title": "Mind Map",
+    "topicOverlapping": "overlap"
+  }
+]
