@@ -86,6 +86,9 @@ python3 "$XMIND_SKILL_DIR/scripts/release_map.py" release my-topic --version 1.0
 ```
 
 The ready-to-open styled template is also available at `plugins/xmind-knowledge-maps/skills/xmind-knowledge-maps/assets/default-template.xmind`.
+The builder and bundled workbook currently target Xmind's `3/5` data and layout
+format identifiers, so newly generated maps do not need an immediate format
+migration when opened in Xmind 26.05.
 
 ## Import an existing workbook
 

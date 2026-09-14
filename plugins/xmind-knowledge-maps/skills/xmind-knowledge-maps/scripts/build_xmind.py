@@ -13,6 +13,8 @@ import uuid
 import zipfile
 
 SKILL = Path(__file__).resolve().parent.parent
+XMIND_DATA_STRUCTURE_VERSION = "3"
+XMIND_LAYOUT_ENGINE_VERSION = "5"
 
 
 def stable_id(seed):
@@ -158,7 +160,12 @@ def build(spec_path, output):
     sheet = {"id": sheet_id, "class": "sheet", "title": spec.get("sheet_title", spec["title"]), "rootTopic": root, "theme": theme}
     if relations:
         sheet["relationships"] = relations
-    metadata = {"dataStructureVersion": "2", "layoutEngineVersion": "3", "activeSheetId": sheet_id, "creator": {"name": "xmind-knowledge-maps", "version": "1"}}
+    metadata = {
+        "dataStructureVersion": XMIND_DATA_STRUCTURE_VERSION,
+        "layoutEngineVersion": XMIND_LAYOUT_ENGINE_VERSION,
+        "activeSheetId": sheet_id,
+        "creator": {"name": "xmind-knowledge-maps", "version": "1"},
+    }
     files = {"content.json": json.dumps([sheet], ensure_ascii=False).encode(), "metadata.json": json.dumps(metadata).encode(), **resources}
     files["manifest.json"] = json.dumps({"file-entries": {name: {} for name in files}}).encode()
     output.parent.mkdir(parents=True, exist_ok=True)

@@ -9,6 +9,11 @@ Essential entries:
 - `manifest.json`: packaged JSON files and resources.
 - `resources/...`: embedded images, including formula previews.
 
+The builder currently writes `dataStructureVersion: "3"` and
+`layoutEngineVersion: "5"`, matching the native format saved by Xmind
+26.05.01107. Keep these identifiers and the bundled template aligned whenever
+Xmind performs another automatic workbook migration.
+
 Topics recurse under `children.attached`. IDs must be unique. Use `branch: "folded"` for collapsed detail and `structureClass: "org.xmind.ui.map.clockwise"` for the house layout.
 
 Xmind supports notes with both a plain fallback and formatted HTML:

@@ -1,6 +1,6 @@
 {
   "name": "xmind-knowledge-maps",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create and version rich, editable Xmind knowledge maps from structured source.",
   "author": {
     "name": "Xmind Knowledge Maps contributors"
