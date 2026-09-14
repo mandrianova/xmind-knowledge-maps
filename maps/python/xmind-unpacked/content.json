@@ -1,5 +1,9 @@
 [
   {
+    "arrangeableLayerOrder": [
+      "7458t3j8f0r8nfin5j8eajqkjl",
+      "5bnohuie7krbut0tqo17ab0b19"
+    ],
     "class": "sheet",
     "extensions": [
       {
@@ -28,6 +32,7 @@
         "id": "0dlnrg3h6ptrd4495hkr0fcr0k"
       }
     ],
+    "revisionId": "d7f9285b-4ed0-4a3a-bb88-a38c6bee3ff4",
     "rootTopic": {
       "children": {
         "attached": [
@@ -9168,7 +9173,7 @@
     },
     "theme": {
       "boundary": {
-        "id": "9f039f8b-63d5-4bcc-9e45-5019aa4296d1",
+        "id": "7110bad5-4e5c-4d8d-a095-e2f25fde029c",
         "properties": {
           "fill-pattern": "solid",
           "fo:color": "inherited",
@@ -9187,7 +9192,7 @@
         }
       },
       "calloutTopic": {
-        "id": "754719fc-8634-474a-ad00-2682537ad314",
+        "id": "4e27f110-ee34-4510-8d3f-6238a3d08dc6",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -9210,7 +9215,7 @@
         }
       },
       "centralTopic": {
-        "id": "33376906-a32e-47cd-9dcc-9a324fa65bab",
+        "id": "7e30942c-d67d-43b3-b0ff-71f1d900a2da",
         "properties": {
           "alignment-by-level": "inactived",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -9236,14 +9241,14 @@
       },
       "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
       "expiredTopic": {
-        "id": "74640d5f-33b1-459b-bc4e-6786f01c6f03",
+        "id": "9eee8675-b800-4998-8b81-fa6a117c8e5d",
         "properties": {
           "fill-pattern": "none",
           "fo:text-decoration": "line-through"
         }
       },
       "floatingTopic": {
-        "id": "7d91af8a-4738-4eee-b28d-f0e131a13d75",
+        "id": "c9423cfd-104f-4d27-9456-bdf52818c31e",
         "properties": {
           "arrow-end-class": "org.xmind.arrowShape.none",
           "border-line-color": "#EEEBEE",
@@ -9267,7 +9272,7 @@
         }
       },
       "importantTopic": {
-        "id": "48953c42-a5ba-4dfb-970f-d36ceffaafc2",
+        "id": "a97c85a7-1ae6-40a8-90d4-57b7eb8cd61d",
         "properties": {
           "border-line-color": "#460400",
           "fill-pattern": "solid",
@@ -9275,7 +9280,7 @@
         }
       },
       "mainTopic": {
-        "id": "7b420657-1962-4148-ba95-ecc4fca849bb",
+        "id": "94317a3c-b98c-4ea0-9089-0f3eaf9e2216",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -9299,7 +9304,7 @@
         }
       },
       "map": {
-        "id": "dc13126f-d357-4183-a6ff-c2a3bac3bbdc",
+        "id": "4ff704b2-c89f-4621-a2a9-f61c7a78a814",
         "properties": {
           "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
           "line-tapered": "none",
@@ -9308,7 +9313,7 @@
         }
       },
       "minorTopic": {
-        "id": "51cebcb6-6c4a-458a-88b5-38d5cae3e2d5",
+        "id": "41410f1b-cabd-4984-a785-ed062d040647",
         "properties": {
           "border-line-color": "#703D00",
           "fill-pattern": "solid",
@@ -9316,7 +9321,7 @@
         }
       },
       "relationship": {
-        "id": "ac64bd5c-90ac-498d-aa15-e4b3cb0ca43f",
+        "id": "6e7fc40a-59cd-4600-a1d1-0ecc7642a79a",
         "properties": {
           "arrow-begin-class": "org.xmind.arrowShape.none",
           "arrow-end-class": "org.xmind.arrowShape.triangle",
@@ -9336,7 +9341,7 @@
       },
       "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
       "subTopic": {
-        "id": "ef5a2917-eb4f-4194-806c-cce26249c82e",
+        "id": "388aa2b1-c665-40e9-830b-57f1316861a8",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -9360,7 +9365,7 @@
         }
       },
       "summary": {
-        "id": "f3dd3f3b-5fb5-4361-92ed-232b0d8fd55b",
+        "id": "1028ee32-0921-428b-9189-af2c49040e1a",
         "properties": {
           "line-color": "#000229",
           "line-pattern": "solid",
@@ -9369,7 +9374,7 @@
         }
       },
       "summaryTopic": {
-        "id": "486c178d-3c03-4bf5-bbd4-b7165c9deeb8",
+        "id": "f1cdace3-ec11-496b-a0a3-929bf23b8dc3",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -9394,9 +9399,13 @@
       }
     },
     "title": "Python",
-    "topicPositioning": "fixed"
+    "topicPositioning": "fixed",
+    "zones": []
   },
   {
+    "arrangeableLayerOrder": [
+      "156alhj1ale831mmtl39sviagu"
+    ],
     "class": "sheet",
     "extensions": [
       {
@@ -9408,6 +9417,7 @@
       }
     ],
     "id": "529978eb-e24c-45cd-9409-ed3d91aecd0e",
+    "revisionId": "e0f86278-917b-4a6b-b46b-aefb0ca4473f",
     "rootTopic": {
       "children": {
         "attached": [
@@ -10672,7 +10682,7 @@
     },
     "theme": {
       "boundary": {
-        "id": "dd322e7b-98e9-4290-8ce0-ff7d817670b0",
+        "id": "2bcfef97-5274-4740-9db3-efd75cd9b393",
         "properties": {
           "fill-pattern": "solid",
           "fo:color": "inherited",
@@ -10691,7 +10701,7 @@
         }
       },
       "calloutTopic": {
-        "id": "69bcfe89-1407-484c-b777-05280744f704",
+        "id": "17261406-b9b8-4178-b9fa-49f60827b7fc",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -10714,7 +10724,7 @@
         }
       },
       "centralTopic": {
-        "id": "b9ac6ed6-b5cf-4a75-9ce4-126b01d744d6",
+        "id": "3c3eb952-6c9c-4ea4-a462-6e017495e94a",
         "properties": {
           "alignment-by-level": "inactived",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -10740,14 +10750,14 @@
       },
       "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
       "expiredTopic": {
-        "id": "0dc78463-a8ac-4d41-9aae-c4f990f82777",
+        "id": "c42c9788-ce54-4758-a758-e70a30cea22b",
         "properties": {
           "fill-pattern": "none",
           "fo:text-decoration": "line-through"
         }
       },
       "floatingTopic": {
-        "id": "1b5088a8-3ded-4e59-93e2-2f54d611c0a0",
+        "id": "b363b926-42ff-4779-ab4f-ac3e6e633593",
         "properties": {
           "arrow-end-class": "org.xmind.arrowShape.none",
           "border-line-color": "#EEEBEE",
@@ -10771,7 +10781,7 @@
         }
       },
       "importantTopic": {
-        "id": "7e769a55-3290-4c89-aa6f-b81b7f00ff17",
+        "id": "da254bf6-725c-4db9-95d2-8cf68186dcf5",
         "properties": {
           "border-line-color": "#460400",
           "fill-pattern": "solid",
@@ -10779,7 +10789,7 @@
         }
       },
       "mainTopic": {
-        "id": "8a9b696c-af50-4ab3-93ec-5bad8f32bdf4",
+        "id": "d4a93be2-6c88-464c-bc6b-ad43cc613407",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -10803,7 +10813,7 @@
         }
       },
       "map": {
-        "id": "a5e70a7a-8bc5-4fdf-a5f4-b090d6b231be",
+        "id": "aee43252-00fc-45b7-81f7-797a131cc9c3",
         "properties": {
           "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
           "line-tapered": "none",
@@ -10812,7 +10822,7 @@
         }
       },
       "minorTopic": {
-        "id": "c2cb0c99-47ee-4d3c-895f-7e98260a581f",
+        "id": "2de34a52-37e5-42a1-bca2-eff4bbd4b297",
         "properties": {
           "border-line-color": "#703D00",
           "fill-pattern": "solid",
@@ -10820,7 +10830,7 @@
         }
       },
       "relationship": {
-        "id": "54cb7a32-fd28-434f-9cee-2cc9b891462c",
+        "id": "45d01038-f1ac-47c4-8165-5b0bdab67a9e",
         "properties": {
           "arrow-begin-class": "org.xmind.arrowShape.none",
           "arrow-end-class": "org.xmind.arrowShape.triangle",
@@ -10840,7 +10850,7 @@
       },
       "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
       "subTopic": {
-        "id": "129629a8-a922-4f70-a99a-cbfee13b4c0a",
+        "id": "5b1ff4db-b5d3-40a7-bc85-557dc851ed69",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -10864,7 +10874,7 @@
         }
       },
       "summary": {
-        "id": "bfdb3fe8-416e-4fbe-ac96-8753d037e28b",
+        "id": "07b2283e-0c63-4acd-a568-a758ddc680f7",
         "properties": {
           "line-color": "#000229",
           "line-pattern": "solid",
@@ -10873,7 +10883,7 @@
         }
       },
       "summaryTopic": {
-        "id": "655edd57-d5cd-480c-a4b1-bfde3b70fa3b",
+        "id": "b29ccf56-aff0-4153-823b-12d8892fe2bf",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -10898,9 +10908,13 @@
       }
     },
     "title": "Дополнительная инфа",
-    "topicPositioning": "fixed"
+    "topicPositioning": "fixed",
+    "zones": []
   },
   {
+    "arrangeableLayerOrder": [
+      "425n79m1l1s8ipfbbsjfv7vtks"
+    ],
     "class": "sheet",
     "extensions": [
       {
@@ -10912,6 +10926,7 @@
       }
     ],
     "id": "cf583348-31c8-468d-b536-b43450556315",
+    "revisionId": "8a8efdf3-2ee8-4e32-a626-49e34b57bf9c",
     "rootTopic": {
       "children": {
         "attached": [
@@ -12723,7 +12738,7 @@
     },
     "theme": {
       "boundary": {
-        "id": "6adc5413-0227-4d14-ba7a-2ecfc3c9fb62",
+        "id": "9c11c3d8-c55e-40c1-856d-f0ea60b33dfd",
         "properties": {
           "fill-pattern": "solid",
           "fo:color": "inherited",
@@ -12742,7 +12757,7 @@
         }
       },
       "calloutTopic": {
-        "id": "c0b41eb4-73bb-4c15-9d8c-c9dbe49d85a8",
+        "id": "99f6cbfc-c0d6-4578-a477-950c0107c45a",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -12765,7 +12780,7 @@
         }
       },
       "centralTopic": {
-        "id": "892e52b4-e728-445b-bb19-b3772cffa3f7",
+        "id": "f19d23cb-3193-4726-bf7a-9ccbd1dbda37",
         "properties": {
           "alignment-by-level": "inactived",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -12791,14 +12806,14 @@
       },
       "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
       "expiredTopic": {
-        "id": "eef7051c-0a6a-416e-9dd9-f25b326935eb",
+        "id": "8ddd9bdf-350f-4c20-a5d5-61ff5ade85ed",
         "properties": {
           "fill-pattern": "none",
           "fo:text-decoration": "line-through"
         }
       },
       "floatingTopic": {
-        "id": "7ae15a64-3664-4bea-bda0-b6b6708f0802",
+        "id": "2f4d7eb6-6bbf-48d9-aad7-2e1eeb3c7a8f",
         "properties": {
           "arrow-end-class": "org.xmind.arrowShape.none",
           "border-line-color": "#EEEBEE",
@@ -12822,7 +12837,7 @@
         }
       },
       "importantTopic": {
-        "id": "c3499cb3-7050-4393-bada-3159bfe5fc30",
+        "id": "3e9a4c86-6aa5-4526-bb2a-bd857b6426ce",
         "properties": {
           "border-line-color": "#460400",
           "fill-pattern": "solid",
@@ -12830,7 +12845,7 @@
         }
       },
       "mainTopic": {
-        "id": "621a598a-49ab-4bf6-bb0d-c78e03145299",
+        "id": "a9bd663c-1043-4e5d-993b-2b091732a6e3",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -12854,7 +12869,7 @@
         }
       },
       "map": {
-        "id": "413e4a28-cd37-40dd-bb34-568ae8b197af",
+        "id": "a8af7840-3179-4123-8829-d8a83e289644",
         "properties": {
           "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
           "line-tapered": "none",
@@ -12863,7 +12878,7 @@
         }
       },
       "minorTopic": {
-        "id": "bb674c80-197c-41da-8e33-1ed617667baf",
+        "id": "c643b882-5261-42cc-a649-04cf190bac8d",
         "properties": {
           "border-line-color": "#703D00",
           "fill-pattern": "solid",
@@ -12871,7 +12886,7 @@
         }
       },
       "relationship": {
-        "id": "0517f514-6222-4ac5-9140-ca3c792abdad",
+        "id": "3b8759ea-e38b-450c-8ce5-16d74249f7b8",
         "properties": {
           "arrow-begin-class": "org.xmind.arrowShape.none",
           "arrow-end-class": "org.xmind.arrowShape.triangle",
@@ -12891,7 +12906,7 @@
       },
       "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
       "subTopic": {
-        "id": "f45f0614-0f7e-4b01-a3f4-ca99fadbd5f3",
+        "id": "efb2bfa2-c1cc-4175-80fa-7bcc4d775683",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -12915,7 +12930,7 @@
         }
       },
       "summary": {
-        "id": "780200af-ffb2-4fdb-bc98-97ec5e3d3676",
+        "id": "30a42fcb-554c-4ea7-bf84-0750b2b96728",
         "properties": {
           "line-color": "#000229",
           "line-pattern": "solid",
@@ -12924,7 +12939,7 @@
         }
       },
       "summaryTopic": {
-        "id": "1d859d7d-6d59-4a25-8641-30880dfd0fd2",
+        "id": "8d1993a1-ed8d-4160-a50a-58f672db1c56",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -12949,9 +12964,13 @@
       }
     },
     "title": "Инфра",
-    "topicPositioning": "fixed"
+    "topicPositioning": "fixed",
+    "zones": []
   },
   {
+    "arrangeableLayerOrder": [
+      "4pu31lo10nlkmdnisbi5u2olaq"
+    ],
     "class": "sheet",
     "extensions": [
       {
@@ -12963,6 +12982,7 @@
       }
     ],
     "id": "d7b70078-95d6-44ff-a675-43088a2a7a4e",
+    "revisionId": "a90c3055-1be5-4c52-9948-2a9eeec39699",
     "rootTopic": {
       "children": {
         "attached": [
@@ -14741,7 +14761,7 @@
     },
     "theme": {
       "boundary": {
-        "id": "3046f38d-40f1-4be8-94e1-31ea9544938d",
+        "id": "b1cb8b80-dc35-4c5c-bc2c-5a7d1f66b491",
         "properties": {
           "fill-pattern": "solid",
           "fo:color": "inherited",
@@ -14760,7 +14780,7 @@
         }
       },
       "calloutTopic": {
-        "id": "b2091c9d-4fc6-4610-bc58-b231bf211560",
+        "id": "cfa61bd7-fbed-46f2-947b-afe9fa6262fa",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -14783,7 +14803,7 @@
         }
       },
       "centralTopic": {
-        "id": "2b15418a-7313-4d07-bde3-1f8b58daee01",
+        "id": "117b990e-9a1a-48c6-8d33-aa8ca2208b28",
         "properties": {
           "alignment-by-level": "inactived",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -14809,14 +14829,14 @@
       },
       "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
       "expiredTopic": {
-        "id": "1f08ed69-eef4-4e9c-b913-552fd7b923d8",
+        "id": "4c917cad-4b77-468c-80b2-2a6fc6ee321c",
         "properties": {
           "fill-pattern": "none",
           "fo:text-decoration": "line-through"
         }
       },
       "floatingTopic": {
-        "id": "69b18ce0-4bab-4cb6-9407-bd440cbfc3e4",
+        "id": "def4572e-4cf7-40e3-8122-e58b9670ca9f",
         "properties": {
           "arrow-end-class": "org.xmind.arrowShape.none",
           "border-line-color": "#EEEBEE",
@@ -14840,7 +14860,7 @@
         }
       },
       "importantTopic": {
-        "id": "3a8358c0-b8f8-4816-86f2-78201f5388dc",
+        "id": "447448f7-1864-43e0-adff-7a8881182b00",
         "properties": {
           "border-line-color": "#460400",
           "fill-pattern": "solid",
@@ -14848,7 +14868,7 @@
         }
       },
       "mainTopic": {
-        "id": "5faee814-e2b1-4eb3-9f86-991a402bb6d7",
+        "id": "238f48ef-e965-4ccb-bde3-851aefd0cc33",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -14872,7 +14892,7 @@
         }
       },
       "map": {
-        "id": "54c7ddee-d342-481c-ac3d-a8e4c17e8ad8",
+        "id": "2b87eb52-f0bd-4f0c-a0f5-206818ca5e7d",
         "properties": {
           "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
           "line-tapered": "none",
@@ -14881,7 +14901,7 @@
         }
       },
       "minorTopic": {
-        "id": "aff1b171-e900-450c-b2c3-98d3cadd8022",
+        "id": "945e29d2-474c-4c7b-a080-a5f3b342ed9a",
         "properties": {
           "border-line-color": "#703D00",
           "fill-pattern": "solid",
@@ -14889,7 +14909,7 @@
         }
       },
       "relationship": {
-        "id": "d3f99890-df6b-4775-bbde-db91509492c3",
+        "id": "d7d9672a-9eae-4752-b85e-2fcb2b7b4230",
         "properties": {
           "arrow-begin-class": "org.xmind.arrowShape.none",
           "arrow-end-class": "org.xmind.arrowShape.triangle",
@@ -14909,7 +14929,7 @@
       },
       "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
       "subTopic": {
-        "id": "88205d5a-9a3d-4215-bb8f-8d9916c200ef",
+        "id": "35fe214d-bb29-4fb3-9732-391e43b7d78f",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -14933,7 +14953,7 @@
         }
       },
       "summary": {
-        "id": "58e7710f-f7e6-4ee1-b0a0-9c042d39df56",
+        "id": "2b57ef07-c214-4e4b-ab13-90b216af6fc0",
         "properties": {
           "line-color": "#000229",
           "line-pattern": "solid",
@@ -14942,7 +14962,7 @@
         }
       },
       "summaryTopic": {
-        "id": "9f37d4be-ea7f-4a2f-86b1-fe9f24370bb0",
+        "id": "6bfe7cb8-9ecc-4889-afce-0510a51013f6",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -14967,9 +14987,13 @@
       }
     },
     "title": "SQL",
-    "topicPositioning": "fixed"
+    "topicPositioning": "fixed",
+    "zones": []
   },
   {
+    "arrangeableLayerOrder": [
+      "54uqqpkpbbu320ee5eoiplvlep"
+    ],
     "class": "sheet",
     "extensions": [
       {
@@ -15022,6 +15046,7 @@
         "id": "5hlr04a1js268g2jqmbsvc44k9"
       }
     ],
+    "revisionId": "ca0aa014-6bf1-45f2-8930-e8ee8985f9e9",
     "rootTopic": {
       "children": {
         "attached": [
@@ -18928,7 +18953,7 @@
     },
     "theme": {
       "boundary": {
-        "id": "596bad21-efb1-4dcc-a72f-1ae2ed891795",
+        "id": "d218e4c6-c9d0-4d95-8cdb-a44ff044efbf",
         "properties": {
           "fill-pattern": "solid",
           "fo:color": "inherited",
@@ -18947,7 +18972,7 @@
         }
       },
       "calloutTopic": {
-        "id": "fb1d55f2-7872-48c5-8dd4-2f496dd51ed9",
+        "id": "54a3534d-3d93-441f-86f5-42a42ff890a8",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -18970,7 +18995,7 @@
         }
       },
       "centralTopic": {
-        "id": "a1917256-acca-4ba9-8b9d-87cadb3fc530",
+        "id": "160b742a-02ec-4211-92b1-ad7f4af7174f",
         "properties": {
           "alignment-by-level": "inactived",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -18996,14 +19021,14 @@
       },
       "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
       "expiredTopic": {
-        "id": "c1e41e27-4b7a-440a-8edf-916b76acf15c",
+        "id": "527d2f75-d3b8-4e3b-8fe8-478a32967a74",
         "properties": {
           "fill-pattern": "none",
           "fo:text-decoration": "line-through"
         }
       },
       "floatingTopic": {
-        "id": "8a626f84-8a5a-4ebc-b782-69f7a32a748a",
+        "id": "79966d37-c24c-43f9-b1fa-974b280e01c3",
         "properties": {
           "arrow-end-class": "org.xmind.arrowShape.none",
           "border-line-color": "#EEEBEE",
@@ -19027,7 +19052,7 @@
         }
       },
       "importantTopic": {
-        "id": "ababc86a-40d6-41b0-b115-d06fcc79cd76",
+        "id": "6785d857-1fb7-4792-acc9-ebbbd8a5b2c2",
         "properties": {
           "border-line-color": "#460400",
           "fill-pattern": "solid",
@@ -19035,7 +19060,7 @@
         }
       },
       "mainTopic": {
-        "id": "e6d425d4-296c-43a2-ae47-378eda085c23",
+        "id": "ec520d19-5e62-4813-8773-bc72137e1aee",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -19059,7 +19084,7 @@
         }
       },
       "map": {
-        "id": "ad583541-8f93-4006-a795-889adf461074",
+        "id": "0fefb7c4-23fc-43b6-8ace-ad0389683d98",
         "properties": {
           "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
           "line-tapered": "none",
@@ -19068,7 +19093,7 @@
         }
       },
       "minorTopic": {
-        "id": "f58d39d5-fa74-48e5-ac14-0186018f6f92",
+        "id": "ae55d9ef-8ce3-4c86-bcc1-0f405fc8a237",
         "properties": {
           "border-line-color": "#703D00",
           "fill-pattern": "solid",
@@ -19076,7 +19101,7 @@
         }
       },
       "relationship": {
-        "id": "7fb8c56c-671d-4d32-9cd9-04917d68e0d8",
+        "id": "2026d70d-9579-48b0-8348-eb81bfc0f21f",
         "properties": {
           "arrow-begin-class": "org.xmind.arrowShape.none",
           "arrow-end-class": "org.xmind.arrowShape.triangle",
@@ -19096,7 +19121,7 @@
       },
       "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
       "subTopic": {
-        "id": "23dd22fc-40f1-40f2-8305-1125fa2121ab",
+        "id": "efba979d-baa5-4fa8-aede-3470bc2c58a5",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -19120,7 +19145,7 @@
         }
       },
       "summary": {
-        "id": "7988285a-dc09-4594-997a-3676bf7cf27b",
+        "id": "96d951a1-9883-4b31-96a7-c9b4c1cea743",
         "properties": {
           "line-color": "#000229",
           "line-pattern": "solid",
@@ -19129,7 +19154,7 @@
         }
       },
       "summaryTopic": {
-        "id": "6d520440-7568-4f03-bde8-de1bd9eb23ce",
+        "id": "cd98cb63-151f-43e3-980f-17489003eb12",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -19154,9 +19179,13 @@
       }
     },
     "title": "Алгоритмы и структуры данных",
-    "topicPositioning": "fixed"
+    "topicPositioning": "fixed",
+    "zones": []
   },
   {
+    "arrangeableLayerOrder": [
+      "18dioa41om82avehvbhmubq1nm"
+    ],
     "class": "sheet",
     "id": "f66d10e7-e281-4c63-848e-e8122abca910",
     "relationships": [
@@ -19181,6 +19210,7 @@
         "title": "альтернатива"
       }
     ],
+    "revisionId": "c532126b-c40e-4288-a988-b3a30bc7e339",
     "rootTopic": {
       "children": {
         "attached": [
@@ -21468,7 +21498,7 @@
     },
     "theme": {
       "boundary": {
-        "id": "436dcee9-132e-4bdc-883d-721ed952d8e0",
+        "id": "e8948415-d829-4878-bb55-2dc9a0474e8e",
         "properties": {
           "fo:font-family": "Raleway",
           "fo:font-size": "11pt",
@@ -21481,7 +21511,7 @@
         }
       },
       "calloutTopic": {
-        "id": "8f6aa423-603a-4ac0-bd8a-587549067310",
+        "id": "f8f8fd41-5c7a-4c67-a8af-2929ac47728a",
         "properties": {
           "border-line-color": "#7F7F7F",
           "fo:font-family": "Georgia",
@@ -21491,7 +21521,7 @@
         }
       },
       "centralTopic": {
-        "id": "027a2f0c-cbc4-4034-90ca-6dd12d52f564",
+        "id": "ef7db5a0-fb1e-44c7-8a3a-2dddefbd851e",
         "properties": {
           "border-line-width": "0pt",
           "fo:font-family": "Roboto Condensed",
@@ -21501,7 +21531,7 @@
         }
       },
       "floatingTopic": {
-        "id": "d7c4e0bf-c660-4288-b823-3c96f15391ad",
+        "id": "f31b5475-dcd0-4caf-831c-ef18ac1844c0",
         "properties": {
           "border-line-width": "1pt",
           "fo:font-family": "Georgia",
@@ -21512,7 +21542,7 @@
         }
       },
       "mainTopic": {
-        "id": "726eccb3-2150-49f2-b8e2-cf8b827def62",
+        "id": "548e89ae-42df-4a56-bd22-5de46a88b7c3",
         "properties": {
           "border-line-width": "0pt",
           "fo:font-family": "Roboto Slab",
@@ -21523,14 +21553,14 @@
         }
       },
       "map": {
-        "id": "727db60b-9f22-480e-aa6d-32709f2de324",
+        "id": "8deb2df6-5ea9-4151-bfd5-1f951fe41f42",
         "properties": {
           "multi-line-colors": "#017c98 #00b2a1 #ffdd00 #fc8f00 #ff1500 #00b04c",
           "svg:fill": "#FFFFFF"
         }
       },
       "relationship": {
-        "id": "3f9884ee-0230-4294-a0b2-b424c144ab78",
+        "id": "3e0509b7-c144-4357-bb6b-8caf158ea49b",
         "properties": {
           "fo:font-family": "Raleway",
           "fo:font-size": "12pt",
@@ -21541,7 +21571,7 @@
         }
       },
       "subTopic": {
-        "id": "389937ab-794e-44ba-b83b-4c46117feba1",
+        "id": "d24fc366-abbb-4fb1-b741-3dab3233e10f",
         "properties": {
           "border-line-width": "0pt",
           "fo:font-family": "Courier New",
@@ -21551,13 +21581,13 @@
         }
       },
       "summary": {
-        "id": "c70619a8-c302-4845-b11d-e9b4d5624b0d",
+        "id": "f413d867-eb56-449c-a012-3a8984a3d583",
         "properties": {
           "line-color": "#808080"
         }
       },
       "summaryTopic": {
-        "id": "902b2ba9-3171-4883-9704-d15519f35561",
+        "id": "a109f113-918c-4b85-a810-ae8db74c7a43",
         "properties": {
           "border-line-width": "0pt",
           "fo:color": "#739E73",
@@ -21573,9 +21603,13 @@
       }
     },
     "title": "Полезные пакеты и модули",
-    "topicPositioning": "fixed"
+    "topicPositioning": "fixed",
+    "zones": []
   },
   {
+    "arrangeableLayerOrder": [
+      "1j0bj24iblb55po70psh4bu1og"
+    ],
     "class": "sheet",
     "extensions": [
       {
@@ -21587,6 +21621,7 @@
       }
     ],
     "id": "1792f33d-f3b2-4856-a33f-06062ff2bf48",
+    "revisionId": "d58f20dc-9f74-431b-9335-32d5e0d074b3",
     "rootTopic": {
       "children": {
         "attached": [
@@ -22972,7 +23007,7 @@
                             {
                               "id": "2npceksh6njmmn37mmo07n61bu",
                               "style": {
-                                "id": "05818eb2-3914-4254-b2cf-253b399774f4",
+                                "id": "2e2b01c3-a585-4a7c-8ec6-90250949bed7",
                                 "properties": {
                                   "svg:fill": "#FFFF03"
                                 }
@@ -23033,7 +23068,7 @@
                             {
                               "id": "7j6vcjocp873nndsusjngbrr70",
                               "style": {
-                                "id": "cd828858-1fd4-46c4-a0ba-552dcc3facf1",
+                                "id": "6ed15297-e6ae-477b-863b-3a02fa83cf40",
                                 "properties": {
                                   "svg:fill": "#FFFF03"
                                 }
@@ -23265,7 +23300,7 @@
                             {
                               "id": "19lrvhu2rbrod02ndis85miljt",
                               "style": {
-                                "id": "11c0e159-292d-4e25-b51d-95fc35246e69",
+                                "id": "2a76487c-900d-4860-a826-f45cc73c9a88",
                                 "properties": {
                                   "svg:fill": "#FFFF03"
                                 }
@@ -23433,7 +23468,7 @@
                                         {
                                           "id": "75qsk87t7urrjm37jji78aiepi",
                                           "style": {
-                                            "id": "dcc33eda-45af-4d2b-b49d-d092d841dee9",
+                                            "id": "57da471a-53d7-4187-9c9c-555b8310fdac",
                                             "properties": {
                                               "svg:fill": "#FFFF03"
                                             }
@@ -23452,7 +23487,7 @@
                                     },
                                     "id": "2epfufrdbdh8vk138arqig7d3u",
                                     "style": {
-                                      "id": "31290836-a7cd-4b17-bb9a-2db543ff44f1",
+                                      "id": "4f9f8543-0f91-49c7-8aa4-c5b433e63191",
                                       "properties": {
                                         "svg:fill": "#FDEADA"
                                       }
@@ -23481,7 +23516,7 @@
                             {
                               "id": "1qo7n8hmui447okrgpag6utsik",
                               "style": {
-                                "id": "7a5a283a-b601-4a75-8e1a-f58143d5ae99",
+                                "id": "68060328-7942-4a7c-8c28-d8c78972fc4c",
                                 "properties": {
                                   "svg:fill": "#FFFF03"
                                 }
@@ -23563,7 +23598,7 @@
                             {
                               "id": "01hkt9a1k7gm8n2fuhio4cs9mf",
                               "style": {
-                                "id": "2201ff88-4138-4de4-a65c-b1d27a73e25a",
+                                "id": "4e2aa6cc-7dbf-460a-8003-b0e701f900de",
                                 "properties": {
                                   "svg:fill": "#FFFF03"
                                 }
@@ -24063,7 +24098,7 @@
                                           },
                                           "id": "3pddo4o1ttc42k4c148rh0ll6u",
                                           "style": {
-                                            "id": "27199e84-3145-46f8-9860-b0cfad6a58a5",
+                                            "id": "428efe30-3d74-4332-bdf9-265ab4191876",
                                             "properties": {
                                               "svg:fill": "#CCFFCC"
                                             }
@@ -24089,7 +24124,7 @@
                                           },
                                           "id": "2kcn8ub726locsjtvv9gj2j1sl",
                                           "style": {
-                                            "id": "a761528c-e19c-4352-b9e3-21d918ea92be",
+                                            "id": "92bdf95c-70ff-4834-8d09-93059be14a46",
                                             "properties": {
                                               "svg:fill": "#CCFFCC"
                                             }
@@ -24115,7 +24150,7 @@
                                           },
                                           "id": "08gbvdkpmn4d96v0jtqjh4ahf8",
                                           "style": {
-                                            "id": "be75d173-6456-4eb2-b606-97b1d519bb63",
+                                            "id": "f2a27c41-cb04-4511-8b7a-ac3bf5e245a6",
                                             "properties": {
                                               "svg:fill": "#CCFFCC"
                                             }
@@ -24622,7 +24657,7 @@
     },
     "theme": {
       "boundary": {
-        "id": "3f8e95ad-4e97-429d-bbb7-2574a20335a8",
+        "id": "2e01daad-1c47-479a-a36d-5041735e0600",
         "properties": {
           "fill-pattern": "solid",
           "fo:color": "inherited",
@@ -24641,7 +24676,7 @@
         }
       },
       "calloutTopic": {
-        "id": "a2266e01-e147-4128-b11f-75b1ec354333",
+        "id": "d5d41a02-1596-4543-9869-87e8c95c3689",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -24664,7 +24699,7 @@
         }
       },
       "centralTopic": {
-        "id": "f7445aee-4b16-4830-934b-ca02872390cc",
+        "id": "502bd5d7-97f3-4383-923f-161c4e658829",
         "properties": {
           "alignment-by-level": "inactived",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -24690,14 +24725,14 @@
       },
       "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
       "expiredTopic": {
-        "id": "365faca4-868b-4222-8524-f487cd698363",
+        "id": "90a3147d-338b-4a6e-8a98-5dfdddbaacd1",
         "properties": {
           "fill-pattern": "none",
           "fo:text-decoration": "line-through"
         }
       },
       "floatingTopic": {
-        "id": "6b43aaa6-c417-49c7-a139-95df1f84e002",
+        "id": "891ad417-70ee-4a47-bed1-8fc63a1c68f9",
         "properties": {
           "arrow-end-class": "org.xmind.arrowShape.none",
           "border-line-color": "#EEEBEE",
@@ -24721,7 +24756,7 @@
         }
       },
       "importantTopic": {
-        "id": "8018fc4e-79c1-4de1-8f57-0cae3ae2bc62",
+        "id": "24245ffb-4ac3-4544-9dc0-43d08eabfc01",
         "properties": {
           "border-line-color": "#460400",
           "fill-pattern": "solid",
@@ -24729,7 +24764,7 @@
         }
       },
       "mainTopic": {
-        "id": "ee59a8bc-0d99-4a37-b18b-c5cd17aee7d2",
+        "id": "701afc1a-25df-4a4c-ba60-c3a53d56bf3f",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -24753,7 +24788,7 @@
         }
       },
       "map": {
-        "id": "b46d2801-bc37-4536-a5c8-e15efcb15809",
+        "id": "218d3372-7cb5-4839-aa5d-a681ba4efc21",
         "properties": {
           "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
           "line-tapered": "none",
@@ -24762,7 +24797,7 @@
         }
       },
       "minorTopic": {
-        "id": "b2bb7325-123b-495f-b61a-a2fbfb42418d",
+        "id": "4737792c-a532-4659-90ab-b117e3059e23",
         "properties": {
           "border-line-color": "#703D00",
           "fill-pattern": "solid",
@@ -24770,7 +24805,7 @@
         }
       },
       "relationship": {
-        "id": "9bd5dccc-f4d1-4e0d-99bb-c75ef496f26a",
+        "id": "e129401f-c832-443f-8c5d-7b91268e076b",
         "properties": {
           "arrow-begin-class": "org.xmind.arrowShape.none",
           "arrow-end-class": "org.xmind.arrowShape.triangle",
@@ -24790,7 +24825,7 @@
       },
       "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
       "subTopic": {
-        "id": "2ad9348d-63ca-46bf-810a-ce75139a7f7c",
+        "id": "691427a6-dea0-4414-8395-69bbf21dde4e",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -24814,7 +24849,7 @@
         }
       },
       "summary": {
-        "id": "82010461-9a6b-4b3b-a7c4-28674cedb1b3",
+        "id": "75b55278-f211-456b-b779-6c9da49ce531",
         "properties": {
           "line-color": "#000229",
           "line-pattern": "solid",
@@ -24823,7 +24858,7 @@
         }
       },
       "summaryTopic": {
-        "id": "32e1305f-d9da-4bec-a055-4a7ce5892104",
+        "id": "2895d0fc-ed22-4656-a642-93ba3fa31644",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -24848,9 +24883,13 @@
       }
     },
     "title": "Паттерны проектирования",
-    "topicPositioning": "fixed"
+    "topicPositioning": "fixed",
+    "zones": []
   },
   {
+    "arrangeableLayerOrder": [
+      "7p6jh7hrrah2e8hejigaeov3vj"
+    ],
     "class": "sheet",
     "extensions": [
       {
@@ -24862,6 +24901,7 @@
       }
     ],
     "id": "b59919c8-36da-4ffe-931b-0401dea8ebeb",
+    "revisionId": "a5e50a43-820f-4177-ac9c-c68a80e71942",
     "rootTopic": {
       "children": {
         "attached": [
@@ -25566,7 +25606,7 @@
                                         {
                                           "id": "7j668jqt84rvn9gem3m8krd2uo",
                                           "style": {
-                                            "id": "27942b35-96b8-45dc-8926-a7ebce26544e",
+                                            "id": "68f2d558-0e52-4aec-8a99-8e60cca2a9e0",
                                             "properties": {
                                               "svg:fill": "#FFFF03"
                                             }
@@ -26720,7 +26760,7 @@
     },
     "theme": {
       "boundary": {
-        "id": "623c24c7-248e-4142-9115-3bbbe857037d",
+        "id": "d8520505-7da3-4854-bab6-7d6a1c18ba1d",
         "properties": {
           "fill-pattern": "solid",
           "fo:color": "inherited",
@@ -26739,7 +26779,7 @@
         }
       },
       "calloutTopic": {
-        "id": "97d0ef50-80f4-45f1-9387-8a76d44c5a82",
+        "id": "e91576d2-5733-4df8-84c4-78d6404a8baa",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -26762,7 +26802,7 @@
         }
       },
       "centralTopic": {
-        "id": "a562b57d-fe40-42f7-9b18-feb3a58f1387",
+        "id": "9dc23a11-4a5e-4e33-b815-4d04a7e77453",
         "properties": {
           "alignment-by-level": "inactived",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -26788,14 +26828,14 @@
       },
       "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
       "expiredTopic": {
-        "id": "67ed0c3b-0a72-43b4-a58c-4e6d1c73f096",
+        "id": "3cbf0c2c-b0ac-453b-9344-a8ae3768efbf",
         "properties": {
           "fill-pattern": "none",
           "fo:text-decoration": "line-through"
         }
       },
       "floatingTopic": {
-        "id": "493f529c-e73c-42e4-a137-d68597e81839",
+        "id": "6bbd6615-80f0-4761-b4ec-acca7700e667",
         "properties": {
           "arrow-end-class": "org.xmind.arrowShape.none",
           "border-line-color": "#EEEBEE",
@@ -26819,7 +26859,7 @@
         }
       },
       "importantTopic": {
-        "id": "747934c2-e729-498c-8224-0dc0d4a3bd2a",
+        "id": "b683060c-fc1f-420a-9ca5-2bcaa95dcba2",
         "properties": {
           "border-line-color": "#460400",
           "fill-pattern": "solid",
@@ -26827,7 +26867,7 @@
         }
       },
       "mainTopic": {
-        "id": "ad3555b9-60ee-4f8b-bbd3-e27bc8ccf83f",
+        "id": "dde709af-0897-4554-b6e0-c3a592700993",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -26851,7 +26891,7 @@
         }
       },
       "map": {
-        "id": "ebdc927f-3f38-4824-a13b-c2b84e49e816",
+        "id": "1210d0c6-0ef7-455f-a87e-db4aee8cb0db",
         "properties": {
           "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
           "line-tapered": "none",
@@ -26860,7 +26900,7 @@
         }
       },
       "minorTopic": {
-        "id": "9a946acf-e811-43cb-8ae1-35f2dbe6c88a",
+        "id": "d46c7baa-2a77-48fa-b2df-b0882979f485",
         "properties": {
           "border-line-color": "#703D00",
           "fill-pattern": "solid",
@@ -26868,7 +26908,7 @@
         }
       },
       "relationship": {
-        "id": "a9bd91b3-ba54-443e-8870-f45d00d9ae66",
+        "id": "509e1dce-5e57-4662-9a0b-ed487d0ea20b",
         "properties": {
           "arrow-begin-class": "org.xmind.arrowShape.none",
           "arrow-end-class": "org.xmind.arrowShape.triangle",
@@ -26888,7 +26928,7 @@
       },
       "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
       "subTopic": {
-        "id": "da77aafa-6c72-4d78-bdbb-f2bbbcb37141",
+        "id": "2a927cb0-a04c-4b6c-8cfd-d2b6b78f31ee",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -26912,7 +26952,7 @@
         }
       },
       "summary": {
-        "id": "5c1d470f-0b16-4dbe-ad95-7610e21843fc",
+        "id": "dcc35610-7097-4b09-8c99-8feb85e3c88d",
         "properties": {
           "line-color": "#000229",
           "line-pattern": "solid",
@@ -26921,7 +26961,7 @@
         }
       },
       "summaryTopic": {
-        "id": "206f907c-0246-46a2-a5d5-aa021f15384e",
+        "id": "06922cb8-13e0-4e4e-ad5b-42b75699e1a9",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -26946,9 +26986,13 @@
       }
     },
     "title": "Многопоточное программирование",
-    "topicPositioning": "fixed"
+    "topicPositioning": "fixed",
+    "zones": []
   },
   {
+    "arrangeableLayerOrder": [
+      "7okcakcbpae6010ne5c5rse9lb"
+    ],
     "class": "sheet",
     "extensions": [
       {
@@ -26960,6 +27004,7 @@
       }
     ],
     "id": "bc2e510a-586a-44ff-96a6-61ca41969570",
+    "revisionId": "114bba35-fbd9-4c66-a6d1-eb608262cbfe",
     "rootTopic": {
       "children": {
         "attached": [
@@ -31979,7 +32024,7 @@
                               },
                               "id": "2398akud3lsd0bb8jfkn0efj7o",
                               "style": {
-                                "id": "312cd461-cba9-41c1-b668-07c70e5367d6",
+                                "id": "4f4db526-6a70-4cb7-b114-fe95697e645d",
                                 "properties": {
                                   "svg:fill": "#FFFF03"
                                 }
@@ -32151,7 +32196,7 @@
                                   {
                                     "id": "6jttq8n5l7306hqgsve008ctl0",
                                     "style": {
-                                      "id": "3978d295-1706-4131-adba-163258e306a8",
+                                      "id": "6fe10d8f-fb60-441b-b56c-a3eddd574a19",
                                       "properties": {
                                         "svg:fill": "#FFFF03"
                                       }
@@ -32183,7 +32228,7 @@
                                     "href": "https://numpy.org/doc/stable/reference/generated/numpy.transpose.html?highlight=transpose",
                                     "id": "21g2mso2eltrisgoon8bkdvnss",
                                     "style": {
-                                      "id": "1dd386b5-405d-4a06-8b43-415334915611",
+                                      "id": "dd9b0b57-a2fa-4df4-b958-59466bf91759",
                                       "properties": {
                                         "svg:fill": "#FFFF03"
                                       }
@@ -32205,7 +32250,7 @@
                                   {
                                     "id": "42h54vc8t3m1oeu2mp180dqo6j",
                                     "style": {
-                                      "id": "1a73f949-21d8-45e1-9c57-3335cb53993f",
+                                      "id": "1c293f09-347a-4cc4-8fd1-29a15a2bd363",
                                       "properties": {
                                         "svg:fill": "#FFFF03"
                                       }
@@ -32235,7 +32280,7 @@
                                   {
                                     "id": "3o7ovfs2ia8pgs2qj4cmj908s0",
                                     "style": {
-                                      "id": "7e7625a4-13ed-404c-9716-cdda381f3fb4",
+                                      "id": "5ec0e64e-5581-4bef-a850-61e0b6019389",
                                       "properties": {
                                         "svg:fill": "#FFFF03"
                                       }
@@ -32273,7 +32318,7 @@
                                   {
                                     "id": "2jq7it6u8lcntcf3k84sae66ss",
                                     "style": {
-                                      "id": "eaa0b2f0-f0c1-40a8-9ff4-6cf40a58c04f",
+                                      "id": "806f0e51-1adf-4a93-a7e7-10857a0a9ee5",
                                       "properties": {
                                         "svg:fill": "#FFFF03"
                                       }
@@ -32347,7 +32392,7 @@
                                   {
                                     "id": "2kl17obsfua5v20np7ujhfm695",
                                     "style": {
-                                      "id": "a03d3a95-a439-4225-adbd-c9d402d3c8c8",
+                                      "id": "1b258530-3f8f-41ab-8b26-a541647813b5",
                                       "properties": {
                                         "svg:fill": "#FFFF03"
                                       }
@@ -32369,7 +32414,7 @@
                                   {
                                     "id": "4o7ds2q70gth7baundtdne57d2",
                                     "style": {
-                                      "id": "ce3d0d0c-473d-4ab1-bb4a-773672a4b9bb",
+                                      "id": "29041b61-0b65-46af-9eb4-bae1b2a8dafc",
                                       "properties": {
                                         "svg:fill": "#FFFF03"
                                       }
@@ -33188,7 +33233,7 @@
     },
     "theme": {
       "boundary": {
-        "id": "c07f3744-90a5-404d-9eb7-8f816355382b",
+        "id": "61761588-fd31-45f1-81a9-d5db2f2db3d4",
         "properties": {
           "fill-pattern": "solid",
           "fo:color": "inherited",
@@ -33207,7 +33252,7 @@
         }
       },
       "calloutTopic": {
-        "id": "4eaf8baf-462f-4335-aab9-e0157f9d6d6f",
+        "id": "b961557d-0b0b-445f-a539-c2a176a31509",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -33230,7 +33275,7 @@
         }
       },
       "centralTopic": {
-        "id": "e2cfd562-6d60-4529-961f-98bbf1ffb519",
+        "id": "7d6f2bf5-2689-49a4-b508-223c125dca9a",
         "properties": {
           "alignment-by-level": "inactived",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -33256,14 +33301,14 @@
       },
       "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
       "expiredTopic": {
-        "id": "70c6125d-8edb-42f4-87ca-d0590556d567",
+        "id": "ce2eb0d3-b1f5-44ae-a777-c2b219d87af2",
         "properties": {
           "fill-pattern": "none",
           "fo:text-decoration": "line-through"
         }
       },
       "floatingTopic": {
-        "id": "2d7ce5bf-ebbf-4816-abda-f76ea11a1d09",
+        "id": "cf17a920-ce2a-42d0-a178-67eab366757d",
         "properties": {
           "arrow-end-class": "org.xmind.arrowShape.none",
           "border-line-color": "#EEEBEE",
@@ -33287,7 +33332,7 @@
         }
       },
       "importantTopic": {
-        "id": "d7c5e996-4d5a-473d-bac2-e57b50bd58c6",
+        "id": "ee81f2eb-a1c9-44e0-a53b-452a8aba2c13",
         "properties": {
           "border-line-color": "#460400",
           "fill-pattern": "solid",
@@ -33295,7 +33340,7 @@
         }
       },
       "mainTopic": {
-        "id": "3d1cede5-af5c-46bb-b9c0-f7ac4b0c55c0",
+        "id": "0720074b-e7fb-4832-b116-50c60cd68e9e",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -33319,7 +33364,7 @@
         }
       },
       "map": {
-        "id": "a9eb687d-7a89-4074-a3ed-3928c06ec6ed",
+        "id": "20c7fbd7-9486-4fd9-8527-a46a146c6720",
         "properties": {
           "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
           "line-tapered": "none",
@@ -33328,7 +33373,7 @@
         }
       },
       "minorTopic": {
-        "id": "77b2c421-0b68-4410-9e08-53aeb43162ba",
+        "id": "45ff227f-60ee-43e7-9281-80876cc88fa0",
         "properties": {
           "border-line-color": "#703D00",
           "fill-pattern": "solid",
@@ -33336,7 +33381,7 @@
         }
       },
       "relationship": {
-        "id": "8a91b1a5-ea4d-43b8-b8a4-8751f4fa0ef4",
+        "id": "44198ba9-8d0f-4594-a0a9-eff03c880c69",
         "properties": {
           "arrow-begin-class": "org.xmind.arrowShape.none",
           "arrow-end-class": "org.xmind.arrowShape.triangle",
@@ -33356,7 +33401,7 @@
       },
       "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
       "subTopic": {
-        "id": "1ca0d4ab-4e5b-4e0d-a7e9-4c9db2ff2ed3",
+        "id": "a976fa73-a560-48c2-88f3-4cfeb1f73014",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "inherited",
@@ -33380,7 +33425,7 @@
         }
       },
       "summary": {
-        "id": "67f4dcd7-7e05-4034-bcc7-f0d96c146b44",
+        "id": "a15b6a41-497c-428b-b8d1-f736e1be059b",
         "properties": {
           "line-color": "#000229",
           "line-pattern": "solid",
@@ -33389,7 +33434,7 @@
         }
       },
       "summaryTopic": {
-        "id": "4d0de751-4023-4e74-8c27-a87349811e84",
+        "id": "7411bf1a-19d7-4cc1-bb40-baa5703c1dc3",
         "properties": {
           "arrow-end-class": "inherited",
           "border-line-color": "#000229",
@@ -33414,6 +33459,7 @@
       }
     },
     "title": "Машинное обучение",
-    "topicPositioning": "fixed"
+    "topicPositioning": "fixed",
+    "zones": []
   }
 ]
