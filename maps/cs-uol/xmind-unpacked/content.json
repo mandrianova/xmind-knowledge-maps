@@ -1,7 +1,9 @@
 [
   {
+    "arrangeableLayerOrder": [
+      "e388269edfc9e61639a4fa2897"
+    ],
     "class": "sheet",
-    "coreVersion": "2.99.0",
     "extensions": [
       {
         "content": {
@@ -15,7 +17,7 @@
     "legend": {
       "visibility": "hidden"
     },
-    "relationships": [],
+    "revisionId": "a367ed84-2614-4c2e-957d-089f9697aea7",
     "rootTopic": {
       "children": {
         "attached": [
@@ -36,8 +38,7 @@
                                 "height": 266,
                                 "src": "xap:resources/935a90aea64886e0dcb1353865d08067747d9b3c31abfac3102be29781b732b8.png",
                                 "width": 470
-                              },
-                              "title": ""
+                              }
                             }
                           ]
                         },
@@ -53,8 +54,7 @@
                                 "height": 264,
                                 "src": "xap:resources/1b79c55a7682623cce830bd0d3bc19ae7966fb5376cb24fe1259f9b2b8d8f568.png",
                                 "width": 467
-                              },
-                              "title": ""
+                              }
                             }
                           ]
                         },
@@ -70,8 +70,7 @@
                                 "height": 273,
                                 "src": "xap:resources/e8ad34394cc0d66043b0ee742bf698c65ef42477f561589aa9864fe474981a78.png",
                                 "width": 482
-                              },
-                              "title": ""
+                              }
                             }
                           ]
                         },
@@ -87,8 +86,7 @@
                                 "height": 269,
                                 "src": "xap:resources/297a675be338b785c56893adea4f4efd8053412d3f1eb455b1eed40449ebfa23.png",
                                 "width": 478
-                              },
-                              "title": ""
+                              }
                             },
                             {
                               "id": "52375748-b12f-4956-a1bd-fd4455465450",
@@ -108,8 +106,7 @@
                                 "height": 269,
                                 "src": "xap:resources/ee5cf1e3055bc09593f1c87b337cc5ccd77b3faeace1c6adbcb8da15b1cfdfa8.png",
                                 "width": 478
-                              },
-                              "title": ""
+                              }
                             },
                             {
                               "id": "668985d9-5f39-4b07-b11c-73921883c436",
@@ -129,8 +126,7 @@
                                 "height": 273,
                                 "src": "xap:resources/ef65717bb5a143cbdc77777a09dd3ca09ec176ef85cfaa6ebb04acd3688fb6d3.png",
                                 "width": 485
-                              },
-                              "title": ""
+                              }
                             },
                             {
                               "id": "86f185d8-300e-460a-827e-fa20f23df6eb",
@@ -150,8 +146,7 @@
                                 "height": 170,
                                 "src": "xap:resources/cc247e8c2e30ba66da9946bee2160f08d39b6d7186fc92332f71cc6eff34f350.png",
                                 "width": 302
-                              },
-                              "title": ""
+                              }
                             },
                             {
                               "id": "1445c935-7865-47ec-9ce1-387e59d328a4",
@@ -159,8 +154,7 @@
                                 "height": 169,
                                 "src": "xap:resources/29d1dccbe2a0e3654e8308afcc8eaa1c0116e1e320ac19cdb1ba5296e9f4c5f5.png",
                                 "width": 299
-                              },
-                              "title": ""
+                              }
                             }
                           ]
                         },
@@ -724,8 +718,7 @@
                                             "height": 280,
                                             "src": "xap:resources/2b37622b4bd2fb7a6f6299ed363e216b6f61212f438c94915b509ba484a003d9.png",
                                             "width": 524
-                                          },
-                                          "title": ""
+                                          }
                                         }
                                       ]
                                     },
@@ -741,8 +734,7 @@
                                             "height": 283,
                                             "src": "xap:resources/c708584147b643638f0e581ad00780963849a140f06d4709161fb342a071c684.png",
                                             "width": 536
-                                          },
-                                          "title": ""
+                                          }
                                         }
                                       ]
                                     },
@@ -795,8 +787,7 @@
                                             "height": 316,
                                             "src": "xap:resources/1ca2ba370e24f9798ef51d10012b1e9ee823f2f71adeef8f8ead6ccca07a563c.png",
                                             "width": 473
-                                          },
-                                          "title": ""
+                                          }
                                         }
                                       ]
                                     },
@@ -866,8 +857,7 @@
                                       "height": 264,
                                       "src": "xap:resources/7ba4aa56564c38af181501abe4f3ef6e63e2400d45065e81667800884d05637b.png",
                                       "width": 474
-                                    },
-                                    "title": ""
+                                    }
                                   },
                                   {
                                     "id": "8d5caad4-11db-4182-9f81-724fadb3fbde",
@@ -900,8 +890,7 @@
                                       "height": 365,
                                       "src": "xap:resources/0bb8307c3c645b354bd4846c6580b77c5e6bf1e426d54c0f25e0985f058864e4.png",
                                       "width": 461
-                                    },
-                                    "title": ""
+                                    }
                                   },
                                   {
                                     "children": {
@@ -966,8 +955,7 @@
                                       "height": 252,
                                       "src": "xap:resources/eb6f8d8caef4dcfb07272124b78730d8b2dae0314fcd6fdeb508ab8874674918.png",
                                       "width": 468
-                                    },
-                                    "title": ""
+                                    }
                                   },
                                   {
                                     "id": "7ff9c42a-a163-4de8-aeb0-f6608e5d8328",
@@ -991,8 +979,7 @@
                                       "height": 259,
                                       "src": "xap:resources/03d4867c42b6582d0aee85db396d964b00c7a02261f1d837ae845a083ef5f159.png",
                                       "width": 481
-                                    },
-                                    "title": ""
+                                    }
                                   },
                                   {
                                     "id": "fc790ac4-a8d4-4aca-9e6b-ebb4098916cb",
@@ -1777,8 +1764,7 @@
                                 "height": 172,
                                 "src": "xap:resources/78e483e653a371d7f344d862d058a9a9447c9c49ae98c0759ffce52c4264ae60.png",
                                 "width": 412
-                              },
-                              "title": ""
+                              }
                             }
                           ]
                         },
@@ -2789,8 +2775,7 @@
                                       "height": 282,
                                       "src": "xap:resources/a6efac403a8822a2fe68ab8db4a6de21ad5fadd96801aacca30ac3793edc6884.png",
                                       "width": 508
-                                    },
-                                    "title": ""
+                                    }
                                   }
                                 ]
                               },
@@ -2850,8 +2835,7 @@
                                       "height": 277,
                                       "src": "xap:resources/d28435c8dc0d8b8a2d889a8bb695fe5f5f3e467f021857bf8fd95c99f4786990.png",
                                       "width": 439
-                                    },
-                                    "title": ""
+                                    }
                                   },
                                   {
                                     "id": "65d2171e-2dec-4a9b-9ce7-d4a56b32d304",
@@ -2973,8 +2957,7 @@
                                             "height": 417,
                                             "src": "xap:resources/9e38aa6edc33403aadf4e5c0d8e529266696b3d289a4604cbf37496d5492af4c.png",
                                             "width": 779
-                                          },
-                                          "title": ""
+                                          }
                                         }
                                       ]
                                     },
@@ -3590,8 +3573,7 @@
                                             "height": 261,
                                             "src": "xap:resources/918a81c22a7b70e634b459ea76e760325a54541b0562ecf97bd567496ba6c671.png",
                                             "width": 479
-                                          },
-                                          "title": ""
+                                          }
                                         },
                                         {
                                           "id": "a7055859-1fb7-460b-ac20-1857f13a0e7a",
@@ -3675,8 +3657,7 @@
                                       "height": 127,
                                       "src": "xap:resources/6c17ce7a7c58142353ee4e1b8673e31212dfdf17f7da52113b393a16764da8be.png",
                                       "width": 500
-                                    },
-                                    "title": ""
+                                    }
                                   },
                                   {
                                     "id": "9c19c17c-a48b-4c82-8344-3bd76da2add0",
@@ -3684,8 +3665,7 @@
                                       "height": 64,
                                       "src": "xap:resources/47322048996c44d76eed1e1f73a12d0300cb71d9f6a466efd9c1f3f54fdf06d3.png",
                                       "width": 502
-                                    },
-                                    "title": ""
+                                    }
                                   },
                                   {
                                     "id": "359b1f60-971f-41e4-8c33-86299b392b3b",
@@ -3693,8 +3673,7 @@
                                       "height": 111,
                                       "src": "xap:resources/ca458bdcf9f5110b83352e23b7cc54a7794a9d6af0a9022f05f819a45554f3fa.png",
                                       "width": 503
-                                    },
-                                    "title": ""
+                                    }
                                   }
                                 ]
                               },
@@ -4777,7 +4756,7 @@
                                           },
                                           "id": "0355632e-2a35-414c-9906-fb118157bb74",
                                           "style": {
-                                            "id": "893873df-4346-4f19-a9a5-913f28c037f5",
+                                            "id": "285071fb-a8ab-44a1-b759-5bcf62c083cc",
                                             "properties": {
                                               "fo:font-weight": "normal"
                                             }
@@ -4853,8 +4832,7 @@
                                                         "height": 292,
                                                         "src": "xap:resources/7bceb64f198d7a75c736a7904c750e56cfd7d4689f602579b868c8954f162edb.png",
                                                         "width": 541
-                                                      },
-                                                      "title": ""
+                                                      }
                                                     },
                                                     {
                                                       "children": {
@@ -5013,13 +4991,13 @@
     },
     "theme": {
       "boundary": {
-        "id": "9f6c73e8-efc9-4798-a63c-34f91f2be446",
+        "id": "95b40470-00e2-4e44-821f-c5fd83c28539",
         "properties": {
           "fill-pattern": "solid",
           "fo:font-family": "'NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
           "fo:font-size": "14pt",
           "fo:font-style": "normal",
-          "fo:font-weight": 400,
+          "fo:font-weight": "400",
           "fo:text-align": "center",
           "fo:text-decoration": "none",
           "fo:text-transform": "manual",
@@ -5027,28 +5005,27 @@
           "line-pattern": "dash",
           "line-width": "2",
           "shape-class": "org.xmind.boundaryShape.roundedRect",
-          "shape-corner": "20pt",
           "svg:fill": "#000229"
         }
       },
       "calloutTopic": {
-        "id": "d4a6a391-95b4-46b5-88f7-3f6c8a3d0dbc",
+        "id": "43428f82-28af-4e35-8c04-663b06182b4c",
         "properties": {
           "border-line-color": "#000229",
-          "callout-shape-class": "org.xmind.calloutTopicShape.balloon.roundedRect",
           "fill-pattern": "solid",
           "fo:font-family": "NeverMind",
           "fo:font-size": "14pt",
           "fo:font-style": "normal",
-          "fo:font-weight": 400,
+          "fo:font-weight": "400",
           "fo:text-align": "left",
           "fo:text-decoration": "none",
           "fo:text-transform": "manual",
+          "shape-class": "org.xmind.topicShape.roundedRect",
           "svg:fill": "#000229"
         }
       },
       "centralTopic": {
-        "id": "75fddeb3-f988-49d5-a93f-f28ec0d4b982",
+        "id": "77d68964-413a-4fe8-ac26-fc83fae5378c",
         "properties": {
           "alignment-by-level": "inactived",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -5057,7 +5034,7 @@
           "fo:font-family": "NeverMind",
           "fo:font-size": "30pt",
           "fo:font-style": "normal",
-          "fo:font-weight": 500,
+          "fo:font-weight": "500",
           "fo:text-align": "center",
           "fo:text-decoration": "none",
           "fo:text-transform": "manual",
@@ -5071,14 +5048,14 @@
       },
       "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
       "expiredTopic": {
-        "id": "b166aae0-ad65-423e-898e-8d60a326cba1",
+        "id": "ff63492e-758a-41d0-bdf2-44f2a1de6a95",
         "properties": {
           "fo:text-decoration": "line-through",
           "svg:fill": "none"
         }
       },
       "floatingTopic": {
-        "id": "0a3152cd-ee38-419d-8e79-15ef1c815430",
+        "id": "6aea5689-c527-4998-9a77-198b022dd308",
         "properties": {
           "arrow-end-class": "org.xmind.arrowShape.none",
           "border-line-color": "#EEEBEE",
@@ -5087,7 +5064,7 @@
           "fo:font-family": "NeverMind",
           "fo:font-size": "14pt",
           "fo:font-style": "normal",
-          "fo:font-weight": 500,
+          "fo:font-weight": "500",
           "fo:text-align": "left",
           "fo:text-decoration": "none",
           "fo:text-transform": "manual",
@@ -5098,27 +5075,22 @@
           "svg:fill": "#EEEBEE"
         }
       },
-      "global": {
-        "id": "55e448ab-7fc8-48fd-8715-1d6073006ea5",
-        "properties": {}
-      },
-      "id": "f2d9d6ec-7a66-4be3-892b-6d0f738491ec",
       "importantTopic": {
-        "id": "45ecf655-a5c3-4fee-82d1-f349ceec05a7",
+        "id": "4960d4db-82d5-4dfe-a8a5-c431f5a7d58a",
         "properties": {
           "fill-pattern": "solid",
           "svg:fill": "#460400"
         }
       },
       "mainTopic": {
-        "id": "a2803f50-028b-4d61-8afd-e672a6069b26",
+        "id": "1deb1717-d4de-46a7-b0a3-d05858ec20eb",
         "properties": {
           "border-line-width": "0pt",
           "fill-pattern": "solid",
           "fo:font-family": "NeverMind",
           "fo:font-size": "18pt",
           "fo:font-style": "normal",
-          "fo:font-weight": 500,
+          "fo:font-weight": "500",
           "fo:text-align": "left",
           "fo:text-decoration": "none",
           "fo:text-transform": "manual",
@@ -5128,7 +5100,7 @@
         }
       },
       "map": {
-        "id": "ceedda63-da80-4249-80a2-b3dc36110d7b",
+        "id": "f97d0210-8016-4703-bc19-f270c91ce1e5",
         "properties": {
           "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
           "line-tapered": "none",
@@ -5137,21 +5109,21 @@
         }
       },
       "minorTopic": {
-        "id": "a55f91fe-bfc3-410e-9bc7-1af2d9f89d35",
+        "id": "51ebdc32-79fc-4d0c-80f8-43910b8c8a88",
         "properties": {
           "fill-pattern": "solid",
           "svg:fill": "#703D00"
         }
       },
       "relationship": {
-        "id": "02e83265-dd60-4391-baf1-3ef44258acbf",
+        "id": "a18ff221-43c5-47f1-a268-f286d0ff8846",
         "properties": {
           "arrow-begin-class": "org.xmind.arrowShape.none",
           "arrow-end-class": "org.xmind.arrowShape.triangle",
           "fo:font-family": "'NeverMind','Microsoft YaHei','PingFang SC','Microsoft JhengHei','sans-serif',sans-serif",
           "fo:font-size": "13pt",
           "fo:font-style": "normal",
-          "fo:font-weight": 400,
+          "fo:font-weight": "400",
           "fo:text-align": "center",
           "fo:text-decoration": "none",
           "fo:text-transform": "manual",
@@ -5163,14 +5135,14 @@
       },
       "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
       "subTopic": {
-        "id": "ed615671-51cb-4a03-b930-af6911d9b9c3",
+        "id": "e177a23d-123b-42f3-88f5-1ff755919e23",
         "properties": {
           "border-line-width": "0pt",
           "fill-pattern": "solid",
           "fo:font-family": "NeverMind",
           "fo:font-size": "14pt",
           "fo:font-style": "normal",
-          "fo:font-weight": 400,
+          "fo:font-weight": "400",
           "fo:text-align": "left",
           "fo:text-decoration": "none",
           "fo:text-transform": "manual",
@@ -5180,17 +5152,16 @@
         }
       },
       "summary": {
-        "id": "d1d747bf-5ef4-4c80-b0e1-fbb1856ad020",
+        "id": "90bf05f2-d671-4df6-b120-472c35df863a",
         "properties": {
           "line-color": "#000229",
-          "line-corner": "8pt",
           "line-pattern": "solid",
           "line-width": "2pt",
           "shape-class": "org.xmind.summaryShape.round"
         }
       },
       "summaryTopic": {
-        "id": "9b15a36c-c698-4124-9d4b-2b2f407dbdf2",
+        "id": "58977ef9-5159-47f7-8aa1-0365a620d57f",
         "properties": {
           "border-line-color": "#000229",
           "fill-pattern": "solid",
@@ -5208,6 +5179,7 @@
       }
     },
     "title": "Map 1",
-    "topicPositioning": "fixed"
+    "topicPositioning": "fixed",
+    "zones": []
   }
 ]
