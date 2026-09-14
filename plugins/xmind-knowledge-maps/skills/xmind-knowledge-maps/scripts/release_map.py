@@ -170,9 +170,21 @@ def unpack_workbook(workbook, destination):
                     except json.JSONDecodeError:
                         pass
                 target.write_bytes(data)
+        previous = None
         if destination.exists():
-            shutil.rmtree(destination)
-        shutil.copytree(staging, destination)
+            previous = Path(tempfile.mkdtemp(prefix=f".{destination.name}-previous-", dir=destination.parent))
+            previous.rmdir()
+            destination.replace(previous)
+        try:
+            shutil.copytree(staging, destination)
+        except Exception:
+            shutil.rmtree(destination, ignore_errors=True)
+            if previous and previous.exists():
+                previous.replace(destination)
+            raise
+        finally:
+            if previous and previous.exists():
+                shutil.rmtree(previous, ignore_errors=True)
 
 
 def pack_workbook(source, workbook):
