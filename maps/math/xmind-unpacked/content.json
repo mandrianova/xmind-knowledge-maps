@@ -1,5 +1,8 @@
 [
   {
+    "arrangeableLayerOrder": [
+      "558a30167f2b5c0af12169d53b"
+    ],
     "class": "sheet",
     "compactLayoutModeLevel": "Third",
     "id": "34c8aa7599082aefc574f892fd",
@@ -20,7 +23,7 @@
         "id": "1d3a3888-9460-4382-bb4a-17f679df5492"
       }
     ],
-    "revisionId": "c6a1bc5a-4c29-4ece-b73f-7d7a9d65583d",
+    "revisionId": "dd908691-fc43-4133-9ae5-974a46e925ff",
     "rootTopic": {
       "children": {
         "attached": [
@@ -473,12 +476,6 @@
                                         }
                                       ]
                                     },
-                                    "extensions": [
-                                      {
-                                        "content": {},
-                                        "provider": "org.xmind.ui.ice-cream-pancake"
-                                      }
-                                    ],
                                     "id": "24b42927-f929-4f6d-bda7-5acd0963c851",
                                     "title": "(23 ** (-1)) % 5 = (3 ** (-1)) % 5 = 2"
                                   },
@@ -491,12 +488,6 @@
                                         }
                                       ]
                                     },
-                                    "extensions": [
-                                      {
-                                        "content": {},
-                                        "provider": "org.xmind.ui.ice-cream-pancake"
-                                      }
-                                    ],
                                     "id": "bcf113fa-6695-4a9a-9cc3-4691c590203d",
                                     "notes": {
                                       "plain": {
@@ -532,23 +523,11 @@
                                         }
                                       ]
                                     },
-                                    "extensions": [
-                                      {
-                                        "content": {},
-                                        "provider": "org.xmind.ui.ice-cream-pancake"
-                                      }
-                                    ],
                                     "id": "e6c0b1e8-26f3-4614-9577-9e7bdf2641e4",
                                     "title": "inverse mod k"
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "c9539423-473e-4a88-b4e4-b9c60cc784c0",
                               "image": {
                                 "height": 216,
@@ -556,7 +535,7 @@
                                 "width": 325
                               },
                               "style": {
-                                "id": "d46ccdef-e26b-449f-9e32-f582d7b11e34",
+                                "id": "056ae6e1-006f-4851-8a73-320726659592",
                                 "properties": {
                                   "fo:font-style": "italic"
                                 }
@@ -571,12 +550,6 @@
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "73c11693-d1f3-4863-be11-488c01cc75a0",
                         "title": "example"
                       },
@@ -593,22 +566,12 @@
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "0513d4c5-9687-41e6-808d-93810dc50e7e",
                         "title": "tricks"
                       }
                     ]
                   },
                   "extensions": [
-                    {
-                      "content": {},
-                      "provider": "org.xmind.ui.ice-cream-pancake"
-                    },
                     {
                       "content": {
                         "content": "(a * b) \\pmod n \\equiv (x * y) \\pmod n"
@@ -628,7 +591,7 @@
                       {
                         "id": "344e6e5a-63b4-4cf4-9e2c-6b7242575dce",
                         "style": {
-                          "id": "29d5d80e-64b8-4991-a2bf-820c8b16ebb2",
+                          "id": "64790580-a49c-4829-85a8-53e3784860d9",
                           "properties": {
                             "fo:font-weight": "bold"
                           }
@@ -653,10 +616,6 @@
                     ]
                   },
                   "extensions": [
-                    {
-                      "content": {},
-                      "provider": "org.xmind.ui.ice-cream-pancake"
-                    },
                     {
                       "content": {
                         "content": "a ^ p \\pmod p \\equiv a \\pmod p"
@@ -750,12 +709,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "e1a4c842-7eb0-42b1-9716-abe884ef427b",
                               "title": "M - message"
                             },
@@ -836,12 +789,6 @@
                                                     }
                                                   ]
                                                 },
-                                                "extensions": [
-                                                  {
-                                                    "content": {},
-                                                    "provider": "org.xmind.ui.ice-cream-pancake"
-                                                  }
-                                                ],
                                                 "id": "e8b4450a-e165-4106-9a9b-8551a7accefe",
                                                 "title": "4. Выбираем число e: простое, меньше k, оно должно быть взаимно простое с k. Выберем e = 43 (открытая экспонента)"
                                               },
@@ -849,12 +796,6 @@
                                                 "children": {
                                                   "attached": [
                                                     {
-                                                      "extensions": [
-                                                        {
-                                                          "content": {},
-                                                          "provider": "org.xmind.ui.ice-cream-pancake"
-                                                        }
-                                                      ],
                                                       "id": "3c02fc03-5da3-4ade-a2a4-27819dd1fb0e",
                                                       "image": {
                                                         "height": 329,
@@ -864,33 +805,17 @@
                                                     }
                                                   ]
                                                 },
-                                                "extensions": [
-                                                  {
-                                                    "content": {},
-                                                    "provider": "org.xmind.ui.ice-cream-pancake"
-                                                  }
-                                                ],
                                                 "id": "0a9c1790-9174-4de7-8e1e-f92bac392f08",
                                                 "title": "5. Вычислить d, обратно по модулю k: \n(d * e) % k = 1\n(d * 43) % 60 = 1\nd = 7 или 67"
                                               }
                                             ]
                                           },
-                                          "extensions": [
-                                            {
-                                              "content": {},
-                                              "provider": "org.xmind.ui.ice-cream-pancake"
-                                            }
-                                          ],
                                           "id": "ba277967-7ca1-4579-a4f9-926128b54a64",
                                           "title": "Шаги"
                                         }
                                       ]
                                     },
                                     "extensions": [
-                                      {
-                                        "content": {},
-                                        "provider": "org.xmind.ui.ice-cream-pancake"
-                                      },
                                       {
                                         "content": {
                                           "content": "C^d \\pmod p \\equiv (M ^ e)^d \\pmod p \\equiv (M^{e*d})\\pmod p"
@@ -910,10 +835,6 @@
                                         {
                                           "extensions": [
                                             {
-                                              "content": {},
-                                              "provider": "org.xmind.ui.ice-cream-pancake"
-                                            },
-                                            {
                                               "content": {
                                                 "content": "(a ^ {p-1}) * a \\pmod p \\equiv 1"
                                               },
@@ -930,10 +851,6 @@
                                     },
                                     "extensions": [
                                       {
-                                        "content": {},
-                                        "provider": "org.xmind.ui.ice-cream-pancake"
-                                      },
-                                      {
                                         "content": {
                                           "content": "a^p \\pmod p \\equiv 1"
                                         },
@@ -948,12 +865,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "81450ad8-2e93-4c1e-bc47-6e153e8dfb7e",
                               "title": "d - decryption key"
                             }
@@ -966,10 +877,6 @@
                           ]
                         },
                         "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          },
                           {
                             "content": {
                               "content": "C \\pmod p \\equiv M ^ e \\pmod p"
@@ -2004,12 +1911,6 @@
                       }
                     ]
                   },
-                  "extensions": [
-                    {
-                      "content": {},
-                      "provider": "org.xmind.ui.ice-cream-pancake"
-                    }
-                  ],
                   "id": "26a50e5a-d2d7-4a4f-97fc-5809159a9b69",
                   "title": "encription"
                 },
@@ -2226,7 +2127,7 @@
                                           },
                                           "id": "28519e64-db65-4c4a-9807-3b61df6e7f15",
                                           "style": {
-                                            "id": "92db301b-882b-4cf5-96fa-d26abd1891d1",
+                                            "id": "b2368573-1bae-48cf-b6dc-fb013a79120b",
                                             "properties": {
                                               "fo:font-weight": "bold"
                                             }
@@ -2410,12 +2311,6 @@
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "0919b6aa-b04a-484b-842d-c55c406c8791",
                         "title": "Whole Part"
                       },
@@ -2439,12 +2334,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "5163ad2a-c85a-438f-9b82-5907796747b4",
                               "title": "0.515625 * 8 = 4.125"
                             },
@@ -2457,34 +2346,16 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "77b45af7-58cd-4aa9-97aa-215b59dbbfea",
                               "title": "0.125 * 8 = 1"
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "653ae357-abc9-4061-b58c-05b395a732ea",
                         "title": "Fraction"
                       }
                     ]
                   },
-                  "extensions": [
-                    {
-                      "content": {},
-                      "provider": "org.xmind.ui.ice-cream-pancake"
-                    }
-                  ],
                   "id": "df8185c6-588c-499a-a6e9-45d88893964f",
                   "title": "Conversion from Decimal"
                 },
@@ -2504,12 +2375,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "a3d9bf8f-a369-4278-a147-d8870e96632e",
                               "title": "0.1 = 0.5"
                             },
@@ -2522,12 +2387,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "82a0cba2-cb2b-46b4-9ce9-e6b92f9988cc",
                               "title": "0.01 = 0.25"
                             },
@@ -2540,12 +2399,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "1be5649e-7d22-4d24-9eae-9189ba6205c4",
                               "title": "0.001 = 0.125"
                             },
@@ -2558,23 +2411,11 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "70f3f384-25e5-4205-9f1a-177c7af690e5",
                               "title": "0.0001 = 0.0625"
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "38799419-5f83-4669-a359-22a76194e2cd",
                         "title": "Fractions"
                       },
@@ -2587,23 +2428,11 @@
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "f12677e9-876d-4ee2-8860-62a67df6eb62",
                         "title": "To Decimal"
                       }
                     ]
                   },
-                  "extensions": [
-                    {
-                      "content": {},
-                      "provider": "org.xmind.ui.ice-cream-pancake"
-                    }
-                  ],
                   "id": "f9d64aa7-5630-4103-b9a4-10f3cdc610e8",
                   "title": "Binary"
                 },
@@ -2620,12 +2449,6 @@
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "39450058-9dce-4bfd-9801-12f346d44712",
                         "title": "Conversion from Binary using 3 bits"
                       },
@@ -2641,12 +2464,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "85c975ca-255d-4104-9e1e-786152b5c240",
                               "title": "0.1 = 0.125"
                             },
@@ -2656,12 +2473,6 @@
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "ca1f12a0-1a9b-4a62-846a-b7e46a9a1f31",
                         "title": "Fractions"
                       }
@@ -2687,12 +2498,6 @@
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "a3e713c3-6e3f-4d4c-831c-64d906202712",
                         "title": "Conversion from Binary using 4 bits"
                       },
@@ -2708,23 +2513,11 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "f30515b4-5eaf-4940-b8fb-256c9181c03a",
                               "title": "0.1 = 0.0625"
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "54990013-f92e-4fee-af37-8802c60edd66",
                         "title": "Fractions"
                       },
@@ -2737,23 +2530,11 @@
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "7234f47e-a9f6-4cbb-81e9-cdbccf3e117b",
                         "title": "Multiplication"
                       }
                     ]
                   },
-                  "extensions": [
-                    {
-                      "content": {},
-                      "provider": "org.xmind.ui.ice-cream-pancake"
-                    }
-                  ],
                   "id": "694eeea3-0751-4c40-88d4-0a9a687cca18",
                   "title": "Hexadecimal"
                 },
@@ -2789,12 +2570,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "1962f477-7053-44c4-97db-11163e4a496d",
                               "title": "1"
                             },
@@ -2824,12 +2599,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "bc90cae2-f765-4ef1-b54c-1a93278fca71",
                               "title": "2"
                             },
@@ -2859,12 +2628,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "c573adbc-753b-416e-b952-4125e19977be",
                               "title": "3"
                             },
@@ -2894,12 +2657,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "24d1ddff-2372-424d-9215-df3aac50d905",
                               "title": "4"
                             },
@@ -2929,12 +2686,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "e80f5dfa-3e06-49f5-9b79-00b7c9468cfb",
                               "title": "5"
                             },
@@ -2964,12 +2715,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "a42ad12c-0d72-426a-8116-28b0f7eb71e2",
                               "title": "6"
                             },
@@ -2999,12 +2744,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "b8ae2c3d-4ca5-41ad-9aa4-25faa94ee787",
                               "title": "7"
                             },
@@ -3034,12 +2773,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "df246d46-1340-455c-af5b-7b1753ad1e24",
                               "title": "8"
                             },
@@ -3069,12 +2802,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "342eb91c-915f-4ae4-ae3f-c5395a467be8",
                               "title": "9"
                             },
@@ -3104,12 +2831,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "6bf754c5-687c-4f3c-91c3-39cae66e72ec",
                               "title": "10"
                             },
@@ -3139,12 +2860,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "a0881d12-b7a1-4ca3-9ef9-718cfeeeba1c",
                               "title": "11"
                             },
@@ -3174,12 +2889,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "0ce226c8-0bad-46fe-9e15-2e6b13443ef3",
                               "title": "12"
                             },
@@ -3209,12 +2918,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "a9016306-d1db-48c7-85df-8ff1d42bd1c9",
                               "title": "13"
                             },
@@ -3244,12 +2947,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "535ebd30-bca2-4ac6-a7be-5c2e08839ba8",
                               "title": "14"
                             },
@@ -3279,12 +2976,6 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "879f7ea3-1241-47ec-b5e6-d2ce918f29c7",
                               "title": "15"
                             },
@@ -3314,22 +3005,12 @@
                                   }
                                 ]
                               },
-                              "extensions": [
-                                {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                }
-                              ],
                               "id": "c866cf04-8e77-4587-aecb-da0d272f609c",
                               "title": "16"
                             }
                           ]
                         },
                         "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          },
                           {
                             "content": [
                               {
@@ -3359,12 +3040,6 @@
                       }
                     ]
                   },
-                  "extensions": [
-                    {
-                      "content": {},
-                      "provider": "org.xmind.ui.ice-cream-pancake"
-                    }
-                  ],
                   "id": "27fc7ca5-aa39-416e-aac6-781abf5f9ad8",
                   "title": "Numbers"
                 }
@@ -4221,12 +3896,6 @@
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "9fa1c9b2-9ea1-4c8e-9bb5-b3415d6dbfca",
                         "title": "Arithmetic progression"
                       },
@@ -4265,12 +3934,6 @@
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "2027a6d2-befd-4531-9c2f-be5aba197651",
                         "title": "Geometric progression"
                       },
@@ -4300,10 +3963,6 @@
                               },
                               "extensions": [
                                 {
-                                  "content": {},
-                                  "provider": "org.xmind.ui.ice-cream-pancake"
-                                },
-                                {
                                   "content": {
                                     "content": "r_{n+1} \\equiv m r_n + i \\mod c"
                                   },
@@ -4318,12 +3977,6 @@
                             }
                           ]
                         },
-                        "extensions": [
-                          {
-                            "content": {},
-                            "provider": "org.xmind.ui.ice-cream-pancake"
-                          }
-                        ],
                         "id": "bde0732f-8fc8-48ca-850e-e61fe2dd76df",
                         "title": "module (random)"
                       },
@@ -4455,12 +4108,6 @@
                 }
               ]
             },
-            "extensions": [
-              {
-                "content": {},
-                "provider": "org.xmind.ui.ice-cream-pancake"
-              }
-            ],
             "id": "30dc665d-7cf7-4d55-add5-21c4c1485ee8",
             "title": "Sequences and Series"
           },
@@ -4770,7 +4417,7 @@
                                                               "src": "xap:resources/dda50f05de54bcccb7ca57a4892f1c59e0f8c48f19a7c335161d098548cf4030.png"
                                                             },
                                                             "style": {
-                                                              "id": "3fd8240c-b910-418a-ba88-3d75cf114290",
+                                                              "id": "8faa09a5-3dd5-4dcc-83a4-0d1ef0dff985",
                                                               "properties": {
                                                                 "fo:font-style": "italic"
                                                               }
@@ -5234,10 +4881,8 @@
                                           ],
                                           "id": "e59a5e10-7430-4b8e-8551-9efe479a6d77",
                                           "image": {
-                                            "height": 41.328919491525426,
                                             "isMathJaxImage": true,
-                                            "src": "xap:resources/ce5c5fc103cb526ec82fb7158b3ea2f08955db41abf82abda2769767a03c69a2.png",
-                                            "width": 304.80078125
+                                            "src": "xap:resources/ce5c5fc103cb526ec82fb7158b3ea2f08955db41abf82abda2769767a03c69a2.png"
                                           }
                                         }
                                       ]
@@ -6591,7 +6236,7 @@
                                         {
                                           "id": "fe08cde1-2499-409f-a13b-baee0fc0e926",
                                           "style": {
-                                            "id": "31d19488-39cb-4d5d-ba41-a5cc551de367",
+                                            "id": "1f634529-70d5-4973-a467-475059366bd3",
                                             "properties": {
                                               "fo:font-weight": "bold"
                                             }
@@ -6640,7 +6285,7 @@
                                           },
                                           "id": "26856896-1e20-49ea-9abc-9c7df95e358b",
                                           "style": {
-                                            "id": "4ac6a616-babd-4eaf-93a1-4f93b2f9a1a4",
+                                            "id": "2e15fadb-49b1-4920-8826-6c9d35839f29",
                                             "properties": {
                                               "fo:font-weight": "bold"
                                             }
@@ -6909,7 +6554,7 @@
                                       "width": 676.3649062499953
                                     },
                                     "style": {
-                                      "id": "4cf04991-2ccb-4dd8-a734-5747a34a10bf",
+                                      "id": "83ed864c-9e0e-41f9-b537-5bd62e870a6a",
                                       "properties": {
                                         "fo:font-style": "italic"
                                       }
@@ -12753,7 +12398,7 @@
                                             "src": "xap:resources/597c96e0b9587d029f0e889d5ad84bc61256a49fb53bad4cf1d66b4cbdd6f8ff.png"
                                           },
                                           "style": {
-                                            "id": "bdc6ba97-d957-450b-8677-2cc53c679a11",
+                                            "id": "566633d9-6036-4391-be70-1e51931fad35",
                                             "properties": {
                                               "svg:fill": "#2CD55133"
                                             }
@@ -12806,7 +12451,7 @@
                                             "src": "xap:resources/958500f0b0a69d02de9eac33fc822aabb0483de100619d788bd204df9a854ca3.png"
                                           },
                                           "style": {
-                                            "id": "0571f0bc-25e8-44cc-b6ed-74600c248b7c",
+                                            "id": "f3d56a42-f8b3-4f12-a461-176337b5a3d1",
                                             "properties": {
                                               "svg:fill": "#2CD55133"
                                             }
@@ -12859,7 +12504,7 @@
                                             "src": "xap:resources/8c1aa76a3be2281d87de67eace5290f6410b3524771fd34eb31e39960522f3bb.png"
                                           },
                                           "style": {
-                                            "id": "d882866c-c5e1-4f38-93a3-5705f22b4ca1",
+                                            "id": "241fbe1b-7234-4d8a-a37d-70fc2be62821",
                                             "properties": {
                                               "svg:fill": "#2CD55133"
                                             }
@@ -12919,7 +12564,7 @@
                                             "src": "xap:resources/15ebea3687dee719deb4a57d4a328bd32143d96d12d9f39a7cd126445679607c.png"
                                           },
                                           "style": {
-                                            "id": "b2d078ae-daec-4530-a976-bfb42700d811",
+                                            "id": "b3afd7ef-6954-4a25-895d-62350139d36a",
                                             "properties": {
                                               "svg:fill": "#2CD55133"
                                             }
@@ -12972,7 +12617,7 @@
                                             "src": "xap:resources/541fb87619b921b29d9e4c2032cb4fefc46285a3c346eb8cd1ca39125ac70c25.png"
                                           },
                                           "style": {
-                                            "id": "b73d1005-34a7-4394-bef4-2ef3b624500d",
+                                            "id": "b24eb7bd-1d12-4d4e-95b1-225b9560ac9d",
                                             "properties": {
                                               "svg:fill": "#2CD55133"
                                             }
@@ -13065,7 +12710,7 @@
                                     "id": "f3309a6e-c9e9-4eaa-932a-c6ff71d98745",
                                     "structureClass": "org.xmind.ui.spreadsheet",
                                     "style": {
-                                      "id": "09cc0133-6a7d-4cc6-aed5-75b52994ec15",
+                                      "id": "d8ece90a-0159-4b35-98ea-bbd69254d6d0",
                                       "properties": {
                                         "border-line-color": "#FF9F00FF",
                                         "fill-pattern": "solid",
@@ -26537,7 +26182,7 @@
     },
     "theme": {
       "boundary": {
-        "id": "7b9b71b6-cf09-4e28-bb22-57ae30477565",
+        "id": "2347e7e3-bced-4f8e-bd16-59c336c05901",
         "properties": {
           "fill-pattern": "solid",
           "fo:color": "inherited",
@@ -26556,7 +26201,7 @@
         }
       },
       "calloutTopic": {
-        "id": "c8030a2c-0d4f-4c2a-9dbb-06fe47f515b0",
+        "id": "b0d63818-1d49-41fe-acf4-0ab2bd3a6422",
         "properties": {
           "border-line-color": "#000229",
           "fill-pattern": "solid",
@@ -26574,7 +26219,7 @@
         }
       },
       "centralTopic": {
-        "id": "06a16346-a458-473c-b5e8-f6695ae5cc1c",
+        "id": "755407e9-3990-4c25-80b4-181d59173d97",
         "properties": {
           "alignment-by-level": "inactived",
           "arrow-end-class": "org.xmind.arrowShape.none",
@@ -26599,13 +26244,13 @@
       },
       "colorThemeId": "Rainbow-#000229-MULTI_LINE_COLORS",
       "expiredTopic": {
-        "id": "71de3235-6088-45f5-bf5b-6708e864a62a",
+        "id": "c32c3cec-792c-4acc-b343-444e55f4f4c2",
         "properties": {
           "fo:text-decoration": "line-through"
         }
       },
       "floatingTopic": {
-        "id": "5adf0ef7-5c44-4453-81f5-f17cf382dff3",
+        "id": "d348af08-1ffd-4f6d-ba1c-9b9585f4de72",
         "properties": {
           "arrow-end-class": "org.xmind.arrowShape.none",
           "border-line-color": "#EEEBEE",
@@ -26628,7 +26273,7 @@
         }
       },
       "importantTopic": {
-        "id": "1e8cb18d-af8a-40d1-b706-e5673a657725",
+        "id": "04e7d8cb-315f-4411-bf60-dfa019af355e",
         "properties": {
           "border-line-color": "#460400",
           "fill-pattern": "solid",
@@ -26636,7 +26281,7 @@
         }
       },
       "mainTopic": {
-        "id": "c9cd5f7a-eabf-4e5f-8672-3527b9c446c6",
+        "id": "ed1f7af3-5e0a-4900-a842-875f92c9fe36",
         "properties": {
           "border-line-color": "inherited",
           "border-line-width": "0pt",
@@ -26657,7 +26302,7 @@
         }
       },
       "map": {
-        "id": "6304c2c9-5bc7-4e62-95dc-7cd8b6d624bc",
+        "id": "6156b894-c9e8-4cd0-9c18-616329475282",
         "properties": {
           "color-list": "#000229 #1F2766 #52CC83 #4D86DB #99142F #245570",
           "line-tapered": "none",
@@ -26666,7 +26311,7 @@
         }
       },
       "minorTopic": {
-        "id": "4e3fabc4-74f3-4c55-b072-58c2f11b22e8",
+        "id": "3e437608-9920-4a94-8731-2b0afefdc120",
         "properties": {
           "border-line-color": "#703D00",
           "fill-pattern": "solid",
@@ -26674,7 +26319,7 @@
         }
       },
       "relationship": {
-        "id": "fa8c1737-1234-4a18-ba54-4c12162ec1bc",
+        "id": "15fa3c3b-cb00-42c6-b7af-357e3d3d4ae6",
         "properties": {
           "arrow-begin-class": "org.xmind.arrowShape.none",
           "arrow-end-class": "org.xmind.arrowShape.triangle",
@@ -26694,7 +26339,7 @@
       },
       "skeletonThemeId": "db4a5df4db39a8cd1310ea55ea",
       "subTopic": {
-        "id": "07b3962b-acb2-4d3d-940b-27f09ac1cf3a",
+        "id": "57c1702d-c288-4d0c-997e-ce5a1688c55c",
         "properties": {
           "border-line-color": "inherited",
           "border-line-width": "0pt",
@@ -26715,7 +26360,7 @@
         }
       },
       "summary": {
-        "id": "0596fdda-651a-4181-8a74-0fd9fb7b6070",
+        "id": "2e1bde5e-70fc-412f-a75d-e2ebcd97c253",
         "properties": {
           "line-color": "#000229",
           "line-pattern": "solid",
@@ -26724,7 +26369,7 @@
         }
       },
       "summaryTopic": {
-        "id": "b19672ac-1ba2-4af9-9de8-af0dcf993b77",
+        "id": "c722a735-31a1-467b-a942-2df9922acaa0",
         "properties": {
           "border-line-color": "#000229",
           "fill-pattern": "solid",
@@ -26744,6 +26389,7 @@
       }
     },
     "title": "Map 1",
-    "topicPositioning": "fixed"
+    "topicPositioning": "fixed",
+    "zones": []
   }
 ]
