@@ -1,8 +1,8 @@
 {
   "creator": {
     "name": "Vana",
-    "version": "25.01.01061"
+    "version": "26.05.01107"
   },
-  "dataStructureVersion": "2",
-  "layoutEngineVersion": "3"
+  "dataStructureVersion": "3",
+  "layoutEngineVersion": "5"
 }
